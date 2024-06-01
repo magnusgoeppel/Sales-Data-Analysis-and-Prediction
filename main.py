@@ -1,23 +1,28 @@
 import pandas as pd
+from scripts.data_exploration_cleaning import check_and_clean_data
+from scripts.data_exploration_cleaning import save_cleaned_data
 from scripts.feature_engineering import create_features
 from scripts.feature_engineering import save_transformed_data
 from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
 
 # To display all columns
-pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_columns', None)
 
 # Load the data in a DataFrame
 try:
-    data = pd.read_csv("data/sales_data_sample.csv", encoding="windows-1252")  # encoding non ascii characters
+    data = pd.read_csv("data/sales_data_sample.csv", encoding="latin1")  # encoding non ascii characters
     df = pd.DataFrame(data)
 except FileNotFoundError:
     print("File not found.")
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 
+
 # 2. Data exploration and cleaning
 # 2.1. Check the data (missing values, data types, etc.)
+df = check_and_clean_data(df)
+save_cleaned_data(df, "data/cleaned_sales_data.csv")
 # 2.2. Clean the data
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
 # remove outliers (write down steps)
