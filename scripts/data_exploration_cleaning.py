@@ -13,16 +13,17 @@ def check_and_clean_data(df):
     df["ORDERDATE"] = pd.to_datetime(df["ORDERDATE"]).dt.date
     df["ORDERTIME"] = pd.to_datetime(df["ORDERDATE"]).dt.time
 
+    # Check ORDERTIME for all zeros
+    if (df['ORDERTIME'] == pd.to_datetime('00:00:00').time()).all():
+        df = df.drop(columns=['ORDERTIME'])
+
     # Check for duplicates
     duplicates = df.duplicated().sum()
 
     if duplicates:
         df = df.drop_duplicates()
 
-    # Check ORDERTIME for all zeros
-    if (df['ORDERTIME'] == pd.to_datetime('00:00:00').time()).all():
-        df = df.drop(columns=['ORDERTIME'])
-
+    """
     def find_non_ascii(s):
         if isinstance(s, str):  # Check if input is a string
             non_ascii_chars = [c for c in s if ord(c) >= 128]
@@ -56,11 +57,11 @@ def check_and_clean_data(df):
                             print(f"Non-ASCII characters: {', '.join(non_ascii_chars)}")
     else:
         print("No rows with non-ASCII characters found.")
+    """
 
+    # Adresslinie Split
     return df
+
 
 def save_cleaned_data(df, file_path):
     df.to_csv(file_path, index=False)
-
-
-

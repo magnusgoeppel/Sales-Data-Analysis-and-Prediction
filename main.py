@@ -7,7 +7,7 @@ from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
 
 # To display all columns
-# pd.set_option('display.max_columns', None)
+pd.set_option('display.max_columns', None)
 
 # Load the data in a DataFrame
 try:
@@ -22,6 +22,7 @@ except Exception as e:
 # 2. Data exploration and cleaning
 # 2.1. Check the data (missing values, data types, etc.)
 df = check_and_clean_data(df)
+print(df.head())
 save_cleaned_data(df, "data/cleaned_sales_data.csv")
 # 2.2. Clean the data
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
