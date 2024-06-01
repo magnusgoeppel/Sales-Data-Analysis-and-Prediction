@@ -1,11 +1,16 @@
 import pandas as pd
 from scripts.feature_engineering import create_features
+from scripts.feature_engineering import save_transformed_data
+from scripts.data_preprocessing import scale_x
+from scripts.data_preprocessing import scale_y
+
+# To display all columns
+pd.set_option('display.max_columns', None)
 
 # Load the data in a DataFrame
 try:
     data = pd.read_csv("data/sales_data_sample.csv", encoding="windows-1252")  # encoding non ascii characters
     df = pd.DataFrame(data)
-    print(df.head())
 except FileNotFoundError:
     print("File not found.")
 except Exception as e:
@@ -17,13 +22,18 @@ except Exception as e:
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
 # remove outliers (write down steps)
 
-# 3. Feature engineering (1. step)
-df = create_features(df)
-# 3.2. Transform the data (e.g. scaling, encoding, etc.)
-# --> create a new csv file with all needed features
+# 3. Feature engineering
+# 3.1. Feature and target selection
+x = create_features(df)
+y = df["QUANTITYORDERED"]
+
+# 3.2. Save the transformed data to a new CSV file
+save_transformed_data(df, "data/transformed_sales_data.csv")
 
 # 4. Data preprocessing
 # 4.1. Scale the data
+# x = scale_data(x)
+y = scale_y(y)
 # --> min max scaling
 # 4.2. Split the data into training and test sets
 # --> first do the classical approach (80 percent train data and 20 percent test)
