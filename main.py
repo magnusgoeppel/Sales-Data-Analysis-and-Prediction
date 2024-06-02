@@ -1,8 +1,10 @@
 import pandas as pd
 from scripts.data_exploration_cleaning import check_and_clean_data
 from scripts.data_exploration_cleaning import save_cleaned_data
+from scripts.data_exploration_cleaning import explore_data
 from scripts.feature_engineering import create_features
 from scripts.feature_engineering import save_transformed_data
+
 from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
 
@@ -22,7 +24,7 @@ df = check_and_clean_data(df)
 save_cleaned_data(df, "data/cleaned_sales_data.csv")
 
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
-
+# explore_data(df)
 
 # (remove outliers)
 
@@ -32,7 +34,7 @@ x = create_features(df)
 y = df["QUANTITYORDERED"]
 
 # 3.2. Save the transformed data to a new CSV file
-save_transformed_data(df, "data/transformed_sales_data.csv")
+save_transformed_data(x, y, "data/transformed_sales_data.csv")
 
 # 4. Data preprocessing
 # 4.1. Scale the data
