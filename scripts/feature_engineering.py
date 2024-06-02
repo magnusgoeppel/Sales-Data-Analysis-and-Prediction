@@ -209,8 +209,6 @@ def create_features(df):
     # Drop the orderdate column
     x.drop(columns=["ORDERDATE"], inplace=True)
 
-    print(x.dtypes)
-
     return x
 
 

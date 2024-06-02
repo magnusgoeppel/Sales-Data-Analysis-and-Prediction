@@ -76,8 +76,6 @@ def check_and_clean_data(df):
         elif col in categorical_cols:
             df[col] = df[col].astype('category')
 
-    print(df.dtypes)
-
     return df
 
 
