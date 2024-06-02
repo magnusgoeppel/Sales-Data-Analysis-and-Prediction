@@ -63,6 +63,21 @@ def check_and_clean_data(df):
             new_value = ''.join(new_value_chars)
             df.at[row, col] = new_value
 
+    # Assign data types to the columns
+    numeric_cols = ['QUANTITYORDERED', 'PRICEEACH', 'SALES', 'QTR_ID', 'MONTH_ID', 'YEAR_ID', 'MSRP']
+    categorical_cols = ['ORDERNUMBER', 'ORDERLINENUMBER', 'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'PRODUCTCODE',
+                        'CUSTOMERNAME', 'PHONE', 'ADDRESSLINE1', 'ADDRESSLINE2', 'CITY', 'STATE', 'POSTALCODE',
+                        'COUNTRY', 'TERRITORY', 'CONTACTLASTNAME', 'CONTACTFIRSTNAME', 'DEALSIZE']
+
+    # Iterate over columns and assign data types
+    for col in df.columns:
+        if col in numeric_cols:
+            df[col] = pd.to_numeric(df[col], errors='coerce').astype('float64')
+        elif col in categorical_cols:
+            df[col] = df[col].astype('category')
+
+    print(df.dtypes)
+
     return df
 
 

@@ -4,12 +4,12 @@ from scripts.data_exploration_cleaning import save_cleaned_data
 from scripts.data_exploration_cleaning import explore_data
 from scripts.feature_engineering import create_features
 from scripts.feature_engineering import save_transformed_data
-
 from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
 
 # To display all columns
-# pd.set_option('display.max_columns', None)
+pd.set_option('display.max_columns', None)
+
 
 # 1. Load the data in a DataFrame
 data = pd.read_csv("data/sales_data_sample.csv", encoding="latin1")  # encoding non ascii characters
@@ -38,7 +38,7 @@ save_transformed_data(x, y, "data/transformed_sales_data.csv")
 
 # 4. Data preprocessing
 # 4.1. Scale the data
-# x = scale_data(x)
+x = scale_x(x)
 y = scale_y(y)
 # --> min max scaling
 # 4.2. Split the data into training and test sets

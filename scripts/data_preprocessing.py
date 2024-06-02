@@ -3,15 +3,18 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 # Scale x
-def scale_x(x):
+def scale_x(df):
+    # Select only float64 columns
+    float_cols = df.select_dtypes(include=['float64']).columns
+
     # Initialize the MinMaxScaler
     scaler = MinMaxScaler()
 
-    # Fit and transform the data
-    x_scaled = scaler.fit_transform(x)
+    # Fit and transform the selected columns
+    df[float_cols] = scaler.fit_transform(df[float_cols])
 
-    # Return as DataFrame
-    return pd.DataFrame(x_scaled, columns=x.columns)
+    # Return the DataFrame with scaled float64 columns
+    return df
 
 
 # scale_y
