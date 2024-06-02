@@ -24,7 +24,6 @@ def check_and_clean_data(df):
         df = df.drop_duplicates()
 
     # Check for non ascii characters
-    print("Non-Ascii characters:")
     non_ascii_chars_dict = {}
 
     # Iterating over all columns and rows to find non-ascii characters
@@ -36,9 +35,12 @@ def check_and_clean_data(df):
                     if char not in non_ascii_chars_dict:
                         non_ascii_chars_dict[char] = (value, col, row)
 
+    """
     # Print non-ascii characters
+    print("Non-Ascii characters:")
     for char, (value, col, row) in non_ascii_chars_dict.items():
         print(f"Row: {row+1}, {col}: {value}, Character: {char}")
+    """
 
     # Replace Non-Ascii characters
     replacement_list = ['ae', 'y', 'i']

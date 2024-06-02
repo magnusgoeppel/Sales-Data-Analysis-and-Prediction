@@ -9,14 +9,9 @@ from scripts.data_preprocessing import scale_y
 # To display all columns
 # pd.set_option('display.max_columns', None)
 
-# Load the data in a DataFrame
-try:
-    data = pd.read_csv("data/sales_data_sample.csv", encoding="latin1")  # encoding non ascii characters
-    df = pd.DataFrame(data)
-except FileNotFoundError:
-    print("File not found.")
-except Exception as e:
-    print(f"An unexpected error occurred: {e}")
+# 1. Load the data in a DataFrame
+data = pd.read_csv("data/sales_data_sample.csv", encoding="latin1")  # encoding non ascii characters
+df = pd.DataFrame(data)
 
 
 # 2. Data exploration and cleaning
