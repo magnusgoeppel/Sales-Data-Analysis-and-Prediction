@@ -13,7 +13,7 @@ def check_and_clean_data(df):
     df["ORDERDATE"] = pd.to_datetime(df["ORDERDATE"]).dt.date
     df["ORDERTIME"] = pd.to_datetime(df["ORDERDATE"]).dt.time
 
-    # Check ORDERTIME for all zeros
+    # Check if ORDERTIME column contains only times set to '00:00:00'
     if (df['ORDERTIME'] == pd.to_datetime('00:00:00').time()).all():
         df = df.drop(columns=['ORDERTIME'])
 
