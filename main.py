@@ -22,8 +22,7 @@ except Exception as e:
 # 2. Data exploration and cleaning
 # 2.1. Check the data (missing values, data types, etc.)
 df = check_and_clean_data(df)
-print(df.head())
-save_cleaned_data(df, "data/cleaned_sales_data.csv")
+# save_cleaned_data(df, "data/cleaned_sales_data.csv")
 # 2.2. Clean the data
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
 # remove outliers (write down steps)
