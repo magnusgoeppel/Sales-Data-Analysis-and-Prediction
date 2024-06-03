@@ -46,8 +46,11 @@ x = encode(x)
 x = scale_x(x)
 y = scale_y(y)
 
-# 3.5. Split the data into training and test sets
+# 3.5. Split the data into training and test sets (80% training, 20% test)
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
+
+# 3.6. Split the training data into training and validation sets (65% training, 15% validation)
+x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1875, random_state=42)
 
 
 # 4. Model Building
@@ -56,7 +59,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 model = DecisionTreeRegressor(random_state=42)
 
 # 4.2. Hyperparameter tuning
-model = hyperparameter_tuning(model, x_train, y_train)
+model = hyperparameter_tuning(model, x_val, y_val)
 
 # 4.3. Build and train the model with 5-fold cross validation
 model, y_tests, y_preds = train_model(model, x_train, y_train, 5)
@@ -68,7 +71,6 @@ print(metrics)
 # 4.5. Visualize the model (e.g. feature importance, predictions, etc.)
 
 
-# --> Thursday
 # 5. Dokumentation and Presentation
 # 5.1. Comment the code
 # 5.2. Create the Ananconda environment file (environment.yml)

@@ -2,11 +2,22 @@ from sklearn.model_selection import KFold, GridSearchCV
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 
+# Hyperparameter tuning
 def hyperparameter_tuning(model, x_train, y_train):
-    param_grid = {'max_depth': [None, 10, 20, 30], 'min_samples_split': [2, 5, 10]}
+
+    # Define the hyperparameters to tune
+    param_grid = {
+        'max_depth': [None, 10, 20, 30],  # None: no limit, 10: moderate, 20: high, 30: very high
+        'min_samples_split': [2, 5, 10]   # 2: few samples, 5: moderate, 10: many
+    }
+
+    # Initialize the grid search
     grid_search = GridSearchCV(model, param_grid, cv=5)
+
+    # Fit the model with the grid search
     grid_search.fit(x_train, y_train)
 
+    # Return the best estimator
     return grid_search.best_estimator_
 
 
@@ -47,8 +58,7 @@ def performance_evaluation(y_test, y_pred):
     r2 = r2_score(y_test, y_pred)
 
     # Store the metrics in a string
-    metrics = (f"Performance Evaluation:\n"
-               f"Mean Absolute Error (MAE): {round(mae, 3)}\n"
+    metrics = (f"Mean Absolute Error (MAE): {round(mae, 3)}\n"
                f"Mean Squared Error (MSE): {round(mse, 3)}\n"
                f"Root Mean Squared Error (RMSE): {round(rmse, 3)}\n"
                f"R^2 Score: {round(r2, 3)}")
