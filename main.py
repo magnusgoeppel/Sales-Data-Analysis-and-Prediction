@@ -1,11 +1,11 @@
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeRegressor
 
 from scripts.data_exploration_cleaning import check_and_clean_data, explore_data
 from scripts.data_preprocessing import create_features, save_transformed_data, encode, scale_x, scale_y
-from scripts.model_building import build_and_train_model, performance_evaluation
+from scripts.model_building import train_model, performance_evaluation, hyperparameter_tuning
 
 # To display all columns
 # pd.set_option('display.max_columns', None)
@@ -52,17 +52,20 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 
 # 4. Model Building
 
-# 4.1. Select the model (Linear Regression)
-model = LinearRegression()
+# 4.1. Select Regression Tree as the model
+model = DecisionTreeRegressor(random_state=42)
 
-# 4.2. Build and train the model with 5-fold cross validation
-model, y_tests, y_preds = build_and_train_model(model, x_train, y_train, 5)
+# 4.2. Hyperparameter tuning
+model = hyperparameter_tuning(model, x_train, y_train)
 
-# 4.3. Performance evaluation
+# 4.3. Build and train the model with 5-fold cross validation
+model, y_tests, y_preds = train_model(model, x_train, y_train, 5)
+
+# 4.4. Performance evaluation
 metrics = performance_evaluation(y_tests, y_preds)
 print(metrics)
 
-# 4.4. Visualize the model (e.g. feature importance, predictions, etc.)
+# 4.5. Visualize the model (e.g. feature importance, predictions, etc.)
 
 
 # --> Thursday

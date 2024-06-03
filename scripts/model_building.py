@@ -1,9 +1,17 @@
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold, GridSearchCV
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 
+def hyperparameter_tuning(model, x_train, y_train):
+    param_grid = {'max_depth': [None, 10, 20, 30], 'min_samples_split': [2, 5, 10]}
+    grid_search = GridSearchCV(model, param_grid, cv=5)
+    grid_search.fit(x_train, y_train)
+
+    return grid_search.best_estimator_
+
+
 # Build and train the model with k-fold cross validation
-def build_and_train_model(model, x_train, y_train, k):
+def train_model(model, x_train, y_train, k):
     # k-fold cross validation
     kf = KFold(n_splits=k, shuffle=True, random_state=42)
 
