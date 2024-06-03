@@ -7,8 +7,6 @@ from scripts.data_exploration_cleaning import check_and_clean_data, explore_data
 from scripts.data_preprocessing import create_features, save_transformed_data, encode, scale_x, scale_y
 from scripts.model_building import train_model, performance_evaluation, hyperparameter_tuning, visualize_model
 
-
-
 # To display all columns
 # pd.set_option('display.max_columns', None)
 
@@ -16,7 +14,6 @@ from scripts.model_building import train_model, performance_evaluation, hyperpar
 # 1. Data acquisition (load the data)
 data = pd.read_csv("data/sales_data_sample.csv", encoding="latin1")  # encoding non ascii characters
 df = pd.DataFrame(data)
-
 
 # 2. Data exploration and cleaning
 
@@ -54,7 +51,6 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 # 3.6. Split the training data into training and validation sets (65% training, 15% validation)
 x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.1875, random_state=42)
 
-
 # 4. Model Building
 
 # 4.1. Select Regression Tree as the model
@@ -72,7 +68,6 @@ print(metrics)
 
 # 4.5. Visualize the model
 visualize_model(model, x.columns)
-
 
 # 5. Dokumentation and Presentation
 # 5.1. Comment the code
