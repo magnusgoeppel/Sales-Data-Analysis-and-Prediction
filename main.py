@@ -61,7 +61,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 model = LinearRegression()
 
 # 4.2. Build and train the model with 5-fold cross validation
-model, y_preds = build_and_train_model(model, x_train, y_train, 5)
+model, y_preds, y_test = build_and_train_model(model, x_train, y_train, 5)
 
 # 4.3. Performance evaluation
 # metrics = performance_evaluation(y_test, y_preds)

@@ -34,7 +34,7 @@ def build_and_train_model(model, x_train, y_train, k):
     y_preds = np.array(y_preds)
     y_tests = np.array(y_tests)
 
-    return model, y_preds
+    return model, y_preds, y_tests
 
 
 # Performance evaluation
