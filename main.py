@@ -3,13 +3,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-from scripts.data_exploration_cleaning import check_and_clean_data
-from scripts.data_exploration_cleaning import explore_data
-from scripts.data_preprocessing import create_features
-from scripts.data_preprocessing import save_transformed_data
-from scripts.data_preprocessing import encode
-from scripts.data_preprocessing import scale_x
-from scripts.data_preprocessing import scale_y
+from scripts.data_exploration_cleaning import check_and_clean_data, explore_data
+from scripts.data_preprocessing import create_features, save_transformed_data, encode, scale_x, scale_y
 from scripts.model_building import build_and_train_model, performance_evaluation
 
 # To display all columns
@@ -61,11 +56,11 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 model = LinearRegression()
 
 # 4.2. Build and train the model with 5-fold cross validation
-model, y_preds, y_test = build_and_train_model(model, x_train, y_train, 5)
+model, y_tests, y_preds = build_and_train_model(model, x_train, y_train, 5)
 
 # 4.3. Performance evaluation
-# metrics = performance_evaluation(y_test, y_preds)
-# print(metrics)
+metrics = performance_evaluation(y_tests, y_preds)
+print(metrics)
 
 # 4.4. Visualize the model (e.g. feature importance, predictions, etc.)
 
