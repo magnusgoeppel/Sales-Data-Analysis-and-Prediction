@@ -79,10 +79,6 @@ def check_and_clean_data(df):
     return df
 
 
-def save_cleaned_data(df, file_path):
-    df.to_csv(file_path, index=False)
-
-
 def explore_data(df):
     # Histograms
     for col in df.columns:
