@@ -1,14 +1,15 @@
+from matplotlib import pyplot as plt
 from sklearn.model_selection import KFold, GridSearchCV
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.tree import plot_tree
 
 
 # Hyperparameter tuning
 def hyperparameter_tuning(model, x_train, y_train):
-
     # Define the hyperparameters to tune
     param_grid = {
         'max_depth': [None, 10, 20, 30],  # None: no limit, 10: moderate, 20: high, 30: very high
-        'min_samples_split': [2, 5, 10]   # 2: few, 5: moderate, 10: many
+        'min_samples_split': [2, 5, 10]  # 2: few, 5: moderate, 10: many
     }
 
     # Initialize the grid search
@@ -64,3 +65,14 @@ def performance_evaluation(y_test, y_pred):
                f"R^2 Score: {round(r2, 3)}")
 
     return metrics
+
+
+# Visualize the Decision Tree
+def visualize_model(model, feature_names):
+    # plt.figure(figsize=(120, 20)) # Max Death
+    plt.figure(figsize=(33, 8))
+    plot_tree(model, feature_names=feature_names, filled=True, rounded=True, impurity=True,
+              proportion=True, precision=3, fontsize=13, max_depth=3)
+    plt.title("Decision Tree Model", fontsize=45)
+    plt.tight_layout()
+    plt.show()
