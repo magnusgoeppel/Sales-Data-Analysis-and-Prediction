@@ -8,7 +8,7 @@ def hyperparameter_tuning(model, x_train, y_train):
     # Define the hyperparameters to tune
     param_grid = {
         'max_depth': [None, 10, 20, 30],  # None: no limit, 10: moderate, 20: high, 30: very high
-        'min_samples_split': [2, 5, 10]   # 2: few samples, 5: moderate, 10: many
+        'min_samples_split': [2, 5, 10]   # 2: few, 5: moderate, 10: many
     }
 
     # Initialize the grid search
