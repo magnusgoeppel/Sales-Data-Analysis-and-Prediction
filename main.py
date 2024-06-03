@@ -1,5 +1,7 @@
 import pandas as pd
+
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
 
 from scripts.data_exploration_cleaning import check_and_clean_data
 from scripts.data_exploration_cleaning import explore_data
@@ -8,9 +10,10 @@ from scripts.data_preprocessing import save_transformed_data
 from scripts.data_preprocessing import encode
 from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
+from scripts.model_building import build_and_train_model, performance_evaluation
 
 # To display all columns
-pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_columns', None)
 
 
 # 1. Data acquisition (load the data)
@@ -53,13 +56,18 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 
 
 # 4. Model Building
-# 4.1. Choose a model
-# --> regression trees (compare it with linear regression --> maybe)
-# 4.2. Configure the model (e.g. hyperparameters)
-# 4.3. Train the model
-# 4.4. (k-fold)
-# 4.5. Evaluate the model (e.g. RMSE, R^2, etc.)
-# 4.6. Visualize the model (e.g. feature importance, predictions, etc.)
+
+# 4.1. Select the model (Linear Regression)
+model = LinearRegression()
+
+# 4.2. Build and train the model with 5-fold cross validation
+model, y_preds = build_and_train_model(model, x_train, y_train, 5)
+
+# 4.3. Performance evaluation
+# metrics = performance_evaluation(y_test, y_preds)
+# print(metrics)
+
+# 4.4. Visualize the model (e.g. feature importance, predictions, etc.)
 
 
 # --> Thursday
