@@ -1,14 +1,16 @@
 import pandas as pd
+from sklearn.model_selection import train_test_split
+
 from scripts.data_exploration_cleaning import check_and_clean_data
 from scripts.data_exploration_cleaning import save_cleaned_data
 from scripts.data_exploration_cleaning import explore_data
-from scripts.feature_engineering import create_features
-from scripts.feature_engineering import save_transformed_data
+from scripts.data_preprocessing import create_features
+from scripts.data_preprocessing import save_transformed_data
 from scripts.data_preprocessing import scale_x
 from scripts.data_preprocessing import scale_y
 
 # To display all columns
-pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_columns', None)
 
 
 # 1. Load the data in a DataFrame
@@ -26,9 +28,10 @@ save_cleaned_data(df, "data/cleaned_sales_data.csv")
 # 2.3. Explore the data (Histograms, Boxplots, Scatterplots, etc.)
 # explore_data(df)
 
-# (remove outliers)
+# 2.4. (remove outliers)
 
-# 3. Feature engineering
+
+# 3. Data preprocessing
 # 3.1. Feature and target selection
 x = create_features(df)
 y = df["QUANTITYORDERED"]
@@ -36,16 +39,13 @@ y = df["QUANTITYORDERED"]
 # 3.2. Save the transformed data to a new CSV file
 save_transformed_data(x, y, "data/transformed_sales_data.csv")
 
-# 4. Data preprocessing
-# 4.1. Scale the data
+# 3.3. Scale the data
 x = scale_x(x)
 y = scale_y(y)
-# --> min max scaling
-# 4.2. Split the data into training and test sets
-# --> first do the classical approach (80 percent train data and 20 percent test)
-# --> and maybe k-fold
+# 4.3. Split the data into training and test sets
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
-# --> Sunday --> meeting
+# 4.4. (k-fold)
 
 
 # 5. Model Building
