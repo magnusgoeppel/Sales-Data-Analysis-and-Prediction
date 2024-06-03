@@ -52,19 +52,19 @@ y = scale_y(y)
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
 
-# 5. Model Building
-# 5.1. Choose a model
+# 4. Model Building
+# 4.1. Choose a model
 # --> regression trees (compare it with linear regression --> maybe)
-# 5.2. Configure the model (e.g. hyperparameters)
-# 5.3. Train the model
-# 5.4. (k-fold)
-# 5.5. Evaluate the model (e.g. RMSE, R^2, etc.)
-# 5.6. Visualize the model (e.g. feature importance, predictions, etc.)
+# 4.2. Configure the model (e.g. hyperparameters)
+# 4.3. Train the model
+# 4.4. (k-fold)
+# 4.5. Evaluate the model (e.g. RMSE, R^2, etc.)
+# 4.6. Visualize the model (e.g. feature importance, predictions, etc.)
 
 
 # --> Thursday
-# 6. Dokumentation and Presentation
-# 6.1. Comment the code
-# 6.2. Create the Ananconda environment file (environment.yml)
-# 6.3. Write the README file
-# 6.4. Create the presentation
+# 5. Dokumentation and Presentation
+# 5.1. Comment the code
+# 5.2. Create the Ananconda environment file (environment.yml)
+# 5.3. Write the README file
+# 5.4. Create the presentation
