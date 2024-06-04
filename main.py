@@ -73,4 +73,3 @@ print(f"\033[1mPerformance Evaluation:\033[0m\n{metrics}")
 # 4.5. Visualize the model
 plot_decision_tree(model, x.columns)
 plot_actual_vs_predicted_values(y_tests, y_preds)
-
