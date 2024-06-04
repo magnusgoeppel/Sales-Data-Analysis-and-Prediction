@@ -15,7 +15,7 @@ and model building process.
 
 ### Data Acquisition
 
-The sales data is loaded from a CSV file and converted into a Pandas DataFrame.
+- The sales data is loaded from a CSV file and converted into a Pandas DataFrame.
 
 ### Data Cleaning and Exploration
 
@@ -65,7 +65,7 @@ create an `environment.yml` file for an Anaconda environment.
 
 ## Running the Project
 
-- Start the main script to execute the data analysis and model building process:
+Start the main script to execute the data analysis and model building process:
 
 ```bash
 python main.py
