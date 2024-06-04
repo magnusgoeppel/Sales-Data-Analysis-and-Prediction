@@ -8,8 +8,8 @@ from scripts.data_preprocessing import create_features, save_transformed_data, e
 from scripts.model_building import train_model, performance_evaluation, hyperparameter_tuning, plot_decision_tree, \
     plot_actual_vs_predicted_values, format_model_params
 
-# To display all columns
-# pd.set_option('display.max_columns', None)
+# Display all columns
+pd.set_option('display.max_columns', None)
 
 
 # 1. Data acquisition (load the data)
@@ -25,11 +25,9 @@ df = check_and_clean_data(df)
 df.to_csv("data/cleaned_sales_data.csv", index=False)
 
 # 2.3. Explore the data
-# explore_data(df)
+explore_data(df)
 
-# 2.4. (remove outliers)
 
-"""
 # 3. Data preprocessing
 
 # 3.1. Feature and target selection
@@ -72,15 +70,12 @@ model, y_tests, y_preds = train_model(model, x_train, y_train, 5)
 metrics = performance_evaluation(y_tests, y_preds)
 print(f"\033[1mPerformance evaluation:\033[0m\n{metrics}")
 
-
-
 # 4.5. Visualize the model
 plot_decision_tree(model, x.columns)
 plot_actual_vs_predicted_values(y_tests, y_preds)
-"""
+
 
 # 5. Dokumentation and Presentation
-# 5.1. Comment the code
-# 5.2. Create the Ananconda environment file (environment.yml)
-# 5.3. Write the README file
-# 5.4. Create the presentation
+# 5.1. Create the Ananconda environment file (environment.yml)
+# 5.2. Write the README file
+# 5.3. Create the presentation

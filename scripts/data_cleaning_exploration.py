@@ -80,8 +80,14 @@ def check_and_clean_data(df):
     return df
 
 
-# Explore the data (Histograms, Boxplots, Scatterplots, Density Plots)
+# Explore the data
 def explore_data(df):
+    # Numeric Summaries
+    numeric_summary = df.describe()
+    print("\n\033[1mNumeric Summaries:\033[0m")
+    print(numeric_summary)
+    print()
+
     # Set the aesthetic style of the plots
     sns.set_style("whitegrid")
 
@@ -116,5 +122,3 @@ def explore_data(df):
     plt.tight_layout(rect=[0, 0, 1, 0.96])
     plt.suptitle('Density Plots of Numeric Columns')
     plt.show()
-
-

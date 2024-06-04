@@ -89,7 +89,7 @@ def performance_evaluation(y_test, y_pred):
 def plot_decision_tree(model, feature_names):
     plt.figure(figsize=(33, 8))
     plot_tree(model, feature_names=feature_names, filled=True, rounded=True,
-              impurity=True, proportion=True, precision=3, fontsize=13, max_depth=9)
+              impurity=True, proportion=True, precision=3, fontsize=13, max_depth=3)
     plt.title("Decision Tree Model", fontsize=45)
     plt.tight_layout()
     plt.show()
