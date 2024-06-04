@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def check_and_clean_data(df):
@@ -79,12 +80,41 @@ def check_and_clean_data(df):
     return df
 
 
+# Explore the data (Histograms, Boxplots, Scatterplots, Density Plots)
 def explore_data(df):
-    # Histograms
-    return 0
+    # Set the aesthetic style of the plots
+    sns.set_style("whitegrid")
 
     # Boxplots
-
+    numeric_cols = df.select_dtypes(include=['float64']).columns
+    plt.figure(figsize=(15, 10))
+    for i, col in enumerate(numeric_cols):
+        plt.subplot(3, 3, i + 1)
+        sns.boxplot(y=df[col])
+        plt.title(f'Boxplot of {col}')
+    plt.tight_layout(rect=[0, 0, 1, 0.96])
+    plt.suptitle('Boxplots of Numeric Columns')
+    plt.show()
 
     # Scatterplots
+    plt.figure(figsize=(15, 10))
+    for i, col in enumerate(numeric_cols):
+        if col != 'QUANTITYORDERED':
+            plt.subplot(3, 3, i + 1)
+            sns.scatterplot(x=df[col], y=df['QUANTITYORDERED'])
+            plt.title(f'Scatterplot of {col} vs QUANTITYORDERED')
+    plt.tight_layout(rect=[0, 0, 1, 0.96])
+    plt.suptitle('Scatterplots of Numeric Columns vs QUANTITYORDERED')
+    plt.show()
+
+    # Density Plots
+    plt.figure(figsize=(15, 10))
+    for i, col in enumerate(numeric_cols):
+        plt.subplot(3, 3, i + 1)
+        sns.kdeplot(df[col], fill=True)
+        plt.title(f'Density Plot of {col}')
+    plt.tight_layout(rect=[0, 0, 1, 0.96])
+    plt.suptitle('Density Plots of Numeric Columns')
+    plt.show()
+
 

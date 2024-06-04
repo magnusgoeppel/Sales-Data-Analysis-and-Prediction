@@ -24,7 +24,7 @@ df = check_and_clean_data(df)
 # 2.2. Save the cleaned data to a new CSV file
 df.to_csv("data/cleaned_sales_data.csv", index=False)
 
-# 2.3. Explore the data (Histograms, Boxplots, Scatterplots)
+# 2.3. Explore the data
 # explore_data(df)
 
 # 2.4. (remove outliers)
