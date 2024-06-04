@@ -1,6 +1,8 @@
+import numpy as np
 from matplotlib import pyplot as plt
+
 from sklearn.model_selection import KFold, GridSearchCV
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.tree import plot_tree
 
 
@@ -9,7 +11,7 @@ def hyperparameter_tuning(model, x_train, y_train):
     # Define the hyperparameters to tune
     param_grid = {
         'max_depth': [None, 10, 20, 30],  # None: no limit, 10: moderate, 20: high, 30: very high
-        'min_samples_split': [2, 5, 10]  # 2: few, 5: moderate, 10: many
+        'min_samples_split': [2, 5, 10]   # 2: few, 5: moderate, 10: many
     }
 
     # Initialize the grid search
@@ -20,6 +22,24 @@ def hyperparameter_tuning(model, x_train, y_train):
 
     # Return the best estimator
     return grid_search.best_estimator_
+
+
+# Format the model parameters
+def format_model_params(model):
+    # Convert to string
+    params = str(model.get_params())
+    # Format the string
+    params = params.replace(',', ',\n')
+    params = params.replace('{', '')
+    params = params.replace('}', '')
+    params = params.replace("'", "")
+
+    # Remove the space after line break
+    lines = params.splitlines()
+    stripped_lines = [line.strip() for line in lines]
+    formatted_params = '\n'.join(stripped_lines)
+
+    return formatted_params
 
 
 # Build and train the model with k-fold cross validation
@@ -53,16 +73,14 @@ def train_model(model, x_train, y_train, k):
 # Performance evaluation
 def performance_evaluation(y_test, y_pred):
     # Calculate the metrics
-    mae = mean_absolute_error(y_test, y_pred)
-    mse = mean_squared_error(y_test, y_pred)
-    rmse = mean_squared_error(y_test, y_pred, squared=False)
     r2 = r2_score(y_test, y_pred)
+    rss = sum((np.array(y_test) - np.array(y_pred)) ** 2)
+    mse = mean_squared_error(y_test, y_pred)
 
     # Store the metrics in a string
-    metrics = (f"Mean Absolute Error (MAE): {round(mae, 3)}\n"
-               f"Mean Squared Error (MSE): {round(mse, 3)}\n"
-               f"Root Mean Squared Error (RMSE): {round(rmse, 3)}\n"
-               f"R^2 Score: {round(r2, 3)}")
+    metrics = (f"R^2 Score: {round(r2, 3)}\n"
+               f"RSS: {round(rss, 3)}\n"
+               f"Mean Squared Error (MSE): {round(mse, 3)}")
 
     return metrics
 
@@ -71,7 +89,7 @@ def performance_evaluation(y_test, y_pred):
 def plot_decision_tree(model, feature_names):
     plt.figure(figsize=(33, 8))
     plot_tree(model, feature_names=feature_names, filled=True, rounded=True,
-              impurity=True, proportion=True, precision=3, fontsize=13, max_depth=3)
+              impurity=True, proportion=True, precision=3, fontsize=13, max_depth=9)
     plt.title("Decision Tree Model", fontsize=45)
     plt.tight_layout()
     plt.show()

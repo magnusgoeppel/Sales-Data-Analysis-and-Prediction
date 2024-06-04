@@ -81,12 +81,10 @@ def check_and_clean_data(df):
 
 def explore_data(df):
     # Histograms
-    for col in df.columns:
-        if df[col].dtype in ['int64', 'float64']:
-            plt.hist(df[col])
-            plt.title(col)
-            plt.show()
+    return 0
 
     # Boxplots
 
+
     # Scatterplots
+
