@@ -47,7 +47,7 @@ create an environment.yml file for an Anaconda environment.
 
 ## Developers
 
-4th Semester Project at University of Applied Sciences Technikum Wien 
+4th Semester Project at the University of Applied Sciences Technikum Wien 
 for the course "Data Science and Machine Learning" from:
 
 - Filipson Evelina 
