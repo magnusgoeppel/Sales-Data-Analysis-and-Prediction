@@ -19,14 +19,15 @@ and model building process.
 
 ### Data Cleaning and Exploration
 
-- **Data Cleaning:** The data is checked for missing values, duplicates, and non-ASCII characters. Appropriate data types 
-  are assigned to each column.
-- **Data Exploration:** Descriptive statistics and visualizations (box plots, scatter plots, density plots) are generated 
-  to understand the data distribution and relationships.
+- **Data Cleaning:** The data is checked for missing values, duplicates, and non-ASCII characters. 
+Appropriate data types are assigned to each column.
+- **Data Exploration:** Descriptive statistics and visualizations (box plots, scatter plots, density plots) 
+are generated to understand the data distribution and relationships.
 
 ### Data Preprocessing
 
-- **Feature and Target Selection:** Features are created from the data, including extracting year, month, and weekday from the order date and identifying holidays.
+- **Feature and Target Selection:** Features are created from the data, including extracting year, month, and 
+weekday from the order date and identifying holidays.
   - **Features:**
     - `PRICEEACH`: The price of each item.
     - `ORDERDATE`: The date when the order was placed.
