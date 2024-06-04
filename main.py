@@ -5,7 +5,8 @@ from sklearn.tree import DecisionTreeRegressor
 
 from scripts.data_exploration_cleaning import check_and_clean_data, explore_data
 from scripts.data_preprocessing import create_features, save_transformed_data, encode, scale_x, scale_y
-from scripts.model_building import train_model, performance_evaluation, hyperparameter_tuning, visualize_model
+from scripts.model_building import train_model, performance_evaluation, hyperparameter_tuning, plot_decision_tree, \
+                                   plot_actual_vs_predicted_values
 
 # To display all columns
 # pd.set_option('display.max_columns', None)
@@ -67,7 +68,8 @@ metrics = performance_evaluation(y_tests, y_preds)
 print(metrics)
 
 # 4.5. Visualize the model
-visualize_model(model, x.columns)
+plot_decision_tree(model, x.columns)
+plot_actual_vs_predicted_values(y_tests, y_preds)
 
 # 5. Dokumentation and Presentation
 # 5.1. Comment the code
