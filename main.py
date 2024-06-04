@@ -68,7 +68,7 @@ model, y_tests, y_preds = train_model(model, x_train, y_train, 5)
 
 # 4.5. Performance evaluation
 metrics = performance_evaluation(y_tests, y_preds)
-print(f"\033[1mPerformance evaluation:\033[0m\n{metrics}")
+print(f"\033[1mPerformance Evaluation:\033[0m\n{metrics}")
 
 # 4.5. Visualize the model
 plot_decision_tree(model, x.columns)
@@ -76,6 +76,5 @@ plot_actual_vs_predicted_values(y_tests, y_preds)
 
 
 # 5. Dokumentation and Presentation
-# 5.1. Create the Ananconda environment file (environment.yml)
-# 5.2. Write the README file
-# 5.3. Create the presentation
+# 5.1. Write the README file
+# 5.2. Create the presentation

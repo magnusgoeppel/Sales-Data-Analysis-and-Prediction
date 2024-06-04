@@ -90,7 +90,7 @@ def plot_decision_tree(model, feature_names):
     plt.figure(figsize=(33, 8))
     plot_tree(model, feature_names=feature_names, filled=True, rounded=True,
               impurity=True, proportion=True, precision=3, fontsize=13, max_depth=3)
-    plt.title("Decision Tree Model", fontsize=45)
+    plt.title("Decision Tree Model", fontsize=35)
     plt.tight_layout()
     plt.show()
 
@@ -100,9 +100,9 @@ def plot_actual_vs_predicted_values(y_test, y_pred):
     plt.figure(figsize=(10, 6))
     plt.scatter(y_test, y_pred, alpha=0.6)
     plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='red', linestyle='--', linewidth=2)
-    plt.xlabel("Actual Values", fontsize=15)
-    plt.ylabel("Predicted Values", fontsize=15)
-    plt.title("Actual vs Predicted Values", fontsize=20)
+    plt.xlabel("Actual Values", fontsize=10)
+    plt.ylabel("Predicted Values", fontsize=10)
+    plt.title("Actual vs Predicted Values", fontsize=15)
     plt.grid(True)
     plt.tight_layout()
     plt.show()

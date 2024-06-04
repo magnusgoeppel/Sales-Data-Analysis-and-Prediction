@@ -99,7 +99,7 @@ def explore_data(df):
         sns.boxplot(y=df[col])
         plt.title(f'Boxplot of {col}')
     plt.tight_layout(rect=[0, 0, 1, 0.96])
-    plt.suptitle('Boxplots of Numeric Columns')
+    plt.suptitle('Boxplots of Numeric Columns', fontsize=20)
     plt.show()
 
     # Scatterplots
@@ -110,7 +110,7 @@ def explore_data(df):
             sns.scatterplot(x=df[col], y=df['QUANTITYORDERED'])
             plt.title(f'Scatterplot of {col} vs QUANTITYORDERED')
     plt.tight_layout(rect=[0, 0, 1, 0.96])
-    plt.suptitle('Scatterplots of Numeric Columns vs QUANTITYORDERED')
+    plt.suptitle('Scatterplots of Numeric Columns vs QUANTITYORDERED', fontsize=20)
     plt.show()
 
     # Density Plots
@@ -120,5 +120,5 @@ def explore_data(df):
         sns.kdeplot(df[col], fill=True)
         plt.title(f'Density Plot of {col}')
     plt.tight_layout(rect=[0, 0, 1, 0.96])
-    plt.suptitle('Density Plots of Numeric Columns')
+    plt.suptitle('Density Plots of Numeric Columns', fontsize=20)
     plt.show()
