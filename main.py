@@ -74,7 +74,3 @@ print(f"\033[1mPerformance Evaluation:\033[0m\n{metrics}")
 plot_decision_tree(model, x.columns)
 plot_actual_vs_predicted_values(y_tests, y_preds)
 
-
-# 5. Dokumentation and Presentation
-# 5.1. Write the README file
-# 5.2. Create the presentation
