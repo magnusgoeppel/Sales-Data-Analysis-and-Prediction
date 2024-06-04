@@ -1,0 +1,2824 @@
+PRICEEACH,PRODUCTLINE,MSRP,COUNTRY,DEALSIZE,YEAR,MONTH,WEEKDAY,IS_HOLIDAY,QUANTITYORDERED
+95.7,Motorcycles,95.0,USA,Small,2003.0,2.0,0.0,False,30.0
+81.35,Motorcycles,95.0,France,Small,2003.0,5.0,2.0,False,34.0
+94.74,Motorcycles,95.0,France,Medium,2003.0,7.0,1.0,False,41.0
+83.26,Motorcycles,95.0,USA,Medium,2003.0,8.0,0.0,False,45.0
+100.0,Motorcycles,95.0,USA,Medium,2003.0,10.0,4.0,False,49.0
+96.66,Motorcycles,95.0,USA,Medium,2003.0,10.0,1.0,False,36.0
+86.13,Motorcycles,95.0,France,Small,2003.0,11.0,1.0,True,29.0
+100.0,Motorcycles,95.0,Norway,Medium,2003.0,11.0,1.0,False,48.0
+98.57,Motorcycles,95.0,USA,Small,2003.0,12.0,0.0,False,22.0
+100.0,Motorcycles,95.0,France,Medium,2004.0,1.0,3.0,False,41.0
+100.0,Motorcycles,95.0,Australia,Medium,2004.0,2.0,4.0,False,37.0
+100.0,Motorcycles,95.0,USA,Small,2004.0,4.0,0.0,False,23.0
+100.0,Motorcycles,95.0,USA,Medium,2004.0,5.0,1.0,False,28.0
+100.0,Motorcycles,95.0,USA,Medium,2004.0,6.0,0.0,False,34.0
+92.83,Motorcycles,95.0,France,Medium,2004.0,7.0,4.0,False,45.0
+100.0,Motorcycles,95.0,USA,Medium,2004.0,8.0,4.0,False,36.0
+100.0,Motorcycles,95.0,Finland,Small,2004.0,9.0,3.0,False,23.0
+100.0,Motorcycles,95.0,Norway,Medium,2004.0,10.0,4.0,False,41.0
+94.74,Motorcycles,95.0,USA,Medium,2004.0,11.0,1.0,False,46.0
+100.0,Motorcycles,95.0,USA,Medium,2004.0,11.0,0.0,False,42.0
+100.0,Motorcycles,95.0,Austria,Large,2004.0,11.0,2.0,False,41.0
+72.55,Motorcycles,95.0,Australia,Small,2004.0,12.0,4.0,False,20.0
+34.91,Motorcycles,95.0,France,Small,2005.0,2.0,3.0,False,21.0
+76.36,Motorcycles,95.0,USA,Medium,2005.0,3.0,3.0,False,42.0
+100.0,Motorcycles,95.0,UK,Small,2005.0,4.0,4.0,False,24.0
+100.0,Motorcycles,95.0,Spain,Large,2005.0,5.0,4.0,False,66.0
+100.0,Classic Cars,214.0,Norway,Medium,2003.0,1.0,2.0,False,26.0
+100.0,Classic Cars,214.0,Sweden,Large,2003.0,3.0,0.0,False,29.0
+100.0,Classic Cars,214.0,Spain,Large,2003.0,5.0,2.0,False,38.0
+100.0,Classic Cars,214.0,USA,Large,2003.0,7.0,3.0,False,37.0
+100.0,Classic Cars,214.0,Singapore,Large,2003.0,9.0,4.0,False,45.0
+100.0,Classic Cars,214.0,USA,Medium,2003.0,10.0,0.0,False,21.0
+100.0,Classic Cars,214.0,Australia,Large,2003.0,11.0,3.0,False,34.0
+100.0,Classic Cars,214.0,USA,Medium,2003.0,11.0,3.0,False,23.0
+100.0,Classic Cars,214.0,France,Large,2003.0,11.0,1.0,False,42.0
+100.0,Classic Cars,214.0,Canada,Large,2003.0,12.0,4.0,False,47.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,1.0,3.0,False,35.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,3.0,2.0,False,29.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,5.0,1.0,False,34.0
+100.0,Classic Cars,214.0,Japan,Large,2004.0,6.0,1.0,False,32.0
+100.0,Classic Cars,214.0,Australia,Medium,2004.0,7.0,0.0,False,21.0
+100.0,Classic Cars,214.0,Italy,Large,2004.0,8.0,1.0,False,34.0
+100.0,Classic Cars,214.0,Sweden,Large,2004.0,9.0,2.0,False,37.0
+100.0,Classic Cars,214.0,France,Large,2004.0,10.0,0.0,False,47.0
+100.0,Classic Cars,214.0,USA,Large,2004.0,10.0,3.0,False,48.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,11.0,3.0,False,40.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,11.0,3.0,False,26.0
+100.0,Classic Cars,214.0,Australia,Medium,2004.0,11.0,0.0,False,30.0
+100.0,Classic Cars,214.0,USA,Medium,2004.0,12.0,4.0,False,32.0
+100.0,Classic Cars,214.0,USA,Medium,2005.0,1.0,3.0,False,41.0
+100.0,Classic Cars,214.0,USA,Large,2005.0,2.0,3.0,False,36.0
+100.0,Classic Cars,214.0,Australia,Small,2005.0,3.0,2.0,False,24.0
+100.0,Classic Cars,214.0,Canada,Medium,2005.0,5.0,6.0,False,23.0
+100.0,Classic Cars,214.0,Spain,Large,2005.0,5.0,1.0,False,50.0
+99.91,Motorcycles,118.0,USA,Medium,2003.0,2.0,0.0,False,39.0
+96.34,Motorcycles,118.0,Australia,Small,2003.0,4.0,1.0,False,29.0
+100.0,Motorcycles,118.0,France,Medium,2003.0,7.0,1.0,False,27.0
+100.0,Motorcycles,118.0,USA,Medium,2003.0,8.0,0.0,False,37.0
+100.0,Motorcycles,118.0,USA,Medium,2003.0,10.0,4.0,False,37.0
+100.0,Motorcycles,118.0,USA,Medium,2003.0,10.0,1.0,False,27.0
+100.0,Motorcycles,118.0,France,Medium,2003.0,11.0,1.0,True,42.0
+96.34,Motorcycles,118.0,Norway,Medium,2003.0,11.0,1.0,False,38.0
+100.0,Motorcycles,118.0,USA,Medium,2003.0,12.0,0.0,False,24.0
+100.0,Motorcycles,118.0,Japan,Medium,2004.0,1.0,0.0,True,23.0
+100.0,Motorcycles,118.0,Australia,Medium,2004.0,2.0,4.0,False,47.0
+100.0,Motorcycles,118.0,USA,Small,2004.0,4.0,5.0,False,22.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,5.0,1.0,False,44.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,6.0,0.0,False,40.0
+100.0,Motorcycles,118.0,France,Small,2004.0,7.0,4.0,False,22.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,8.0,4.0,False,47.0
+96.34,Motorcycles,118.0,France,Medium,2004.0,9.0,0.0,False,39.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,10.0,4.0,False,34.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,11.0,1.0,False,45.0
+100.0,Motorcycles,118.0,USA,Medium,2004.0,11.0,0.0,False,20.0
+68.92,Motorcycles,118.0,Japan,Small,2004.0,11.0,1.0,True,40.0
+51.15,Motorcycles,118.0,Australia,Small,2004.0,12.0,4.0,False,26.0
+100.0,Motorcycles,118.0,Australia,Medium,2005.0,2.0,2.0,False,39.0
+44.51,Motorcycles,118.0,USA,Small,2005.0,3.0,3.0,False,50.0
+100.0,Motorcycles,118.0,France,Medium,2005.0,4.0,3.0,False,45.0
+100.0,Motorcycles,118.0,Spain,Medium,2005.0,5.0,4.0,False,45.0
+100.0,Motorcycles,193.0,USA,Medium,2003.0,2.0,0.0,False,27.0
+100.0,Motorcycles,193.0,Australia,Large,2003.0,4.0,1.0,False,46.0
+100.0,Motorcycles,193.0,France,Large,2003.0,7.0,1.0,False,31.0
+100.0,Motorcycles,193.0,USA,Medium,2003.0,8.0,0.0,False,33.0
+100.0,Motorcycles,193.0,USA,Medium,2003.0,10.0,4.0,False,22.0
+100.0,Motorcycles,193.0,USA,Medium,2003.0,10.0,1.0,False,20.0
+100.0,Motorcycles,193.0,France,Large,2003.0,11.0,1.0,True,41.0
+100.0,Motorcycles,193.0,Norway,Large,2003.0,11.0,1.0,False,45.0
+100.0,Motorcycles,193.0,USA,Large,2003.0,12.0,0.0,False,49.0
+100.0,Motorcycles,193.0,Japan,Medium,2004.0,1.0,0.0,True,34.0
+100.0,Motorcycles,193.0,Australia,Large,2004.0,2.0,4.0,False,49.0
+100.0,Motorcycles,193.0,USA,Large,2004.0,4.0,0.0,False,39.0
+100.0,Motorcycles,193.0,USA,Large,2004.0,5.0,1.0,False,43.0
+100.0,Motorcycles,193.0,USA,Large,2004.0,6.0,0.0,False,41.0
+100.0,Motorcycles,193.0,France,Medium,2004.0,7.0,4.0,False,36.0
+100.0,Motorcycles,193.0,USA,Medium,2004.0,8.0,4.0,False,27.0
+100.0,Motorcycles,193.0,Finland,Medium,2004.0,9.0,3.0,False,29.0
+100.0,Motorcycles,193.0,USA,Medium,2004.0,10.0,4.0,False,20.0
+100.0,Motorcycles,193.0,USA,Large,2004.0,11.0,1.0,False,37.0
+100.0,Motorcycles,193.0,USA,Medium,2004.0,11.0,0.0,False,26.0
+76.67,Motorcycles,193.0,Japan,Small,2004.0,11.0,1.0,True,39.0
+100.0,Motorcycles,193.0,USA,Medium,2005.0,1.0,2.0,False,22.0
+100.0,Motorcycles,193.0,Australia,Medium,2005.0,2.0,2.0,False,22.0
+86.77,Motorcycles,193.0,USA,Small,2005.0,3.0,3.0,False,21.0
+100.0,Motorcycles,193.0,UK,Large,2005.0,4.0,4.0,False,66.0
+100.0,Motorcycles,193.0,Spain,Large,2005.0,5.0,4.0,False,56.0
+100.0,Classic Cars,136.0,Denmark,Large,2003.0,2.0,1.0,False,50.0
+100.0,Classic Cars,136.0,Austria,Medium,2003.0,4.0,0.0,False,46.0
+100.0,Classic Cars,136.0,UK,Medium,2003.0,6.0,3.0,False,33.0
+100.0,Classic Cars,136.0,USA,Medium,2003.0,8.0,6.0,False,49.0
+100.0,Classic Cars,136.0,Finland,Medium,2003.0,10.0,0.0,False,32.0
+100.0,Classic Cars,136.0,Sweden,Medium,2003.0,10.0,3.0,False,44.0
+100.0,Classic Cars,136.0,France,Medium,2003.0,11.0,5.0,False,24.0
+100.0,Classic Cars,136.0,UK,Medium,2003.0,11.0,4.0,False,26.0
+100.0,Classic Cars,136.0,Spain,Medium,2003.0,11.0,2.0,False,45.0
+100.0,Classic Cars,136.0,USA,Medium,2004.0,1.0,4.0,False,39.0
+100.0,Classic Cars,136.0,USA,Medium,2004.0,2.0,3.0,False,49.0
+100.0,Classic Cars,136.0,USA,Small,2004.0,5.0,4.0,False,20.0
+100.0,Classic Cars,136.0,Canada,Medium,2004.0,6.0,3.0,False,27.0
+100.0,Classic Cars,136.0,Belgium,Medium,2004.0,7.0,2.0,True,30.0
+100.0,Classic Cars,136.0,Canada,Small,2004.0,8.0,4.0,False,25.0
+100.0,Classic Cars,136.0,USA,Medium,2004.0,9.0,4.0,False,24.0
+100.0,Classic Cars,136.0,USA,Small,2004.0,10.0,3.0,False,22.0
+100.0,Classic Cars,136.0,UK,Medium,2004.0,11.0,0.0,False,33.0
+64.93,Classic Cars,136.0,Norway,Medium,2004.0,11.0,4.0,False,47.0
+48.05,Classic Cars,136.0,USA,Small,2004.0,11.0,6.0,False,25.0
+75.47,Classic Cars,136.0,Spain,Small,2004.0,12.0,3.0,False,26.0
+54.68,Classic Cars,136.0,France,Small,2004.0,12.0,2.0,False,48.0
+100.0,Classic Cars,136.0,Finland,Medium,2005.0,1.0,0.0,False,39.0
+100.0,Classic Cars,136.0,USA,Medium,2005.0,2.0,2.0,False,34.0
+100.0,Classic Cars,136.0,France,Medium,2005.0,3.0,3.0,False,32.0
+100.0,Classic Cars,136.0,USA,Large,2005.0,4.0,4.0,False,64.0
+100.0,Classic Cars,136.0,USA,Small,2005.0,5.0,4.0,False,19.0
+100.0,Classic Cars,147.0,Norway,Medium,2003.0,1.0,2.0,False,42.0
+100.0,Classic Cars,147.0,France,Medium,2003.0,4.0,1.0,False,31.0
+100.0,Classic Cars,147.0,Spain,Medium,2003.0,5.0,2.0,False,22.0
+100.0,Classic Cars,147.0,USA,Medium,2003.0,7.0,3.0,False,26.0
+100.0,Classic Cars,147.0,Singapore,Medium,2003.0,9.0,4.0,False,20.0
+100.0,Classic Cars,147.0,Austria,Medium,2003.0,10.0,1.0,False,21.0
+100.0,Classic Cars,147.0,UK,Medium,2003.0,11.0,3.0,False,33.0
+100.0,Classic Cars,147.0,USA,Medium,2003.0,11.0,3.0,False,28.0
+100.0,Classic Cars,147.0,France,Medium,2003.0,11.0,1.0,False,26.0
+100.0,Classic Cars,147.0,USA,Medium,2003.0,12.0,1.0,False,31.0
+100.0,Classic Cars,147.0,Singapore,Large,2004.0,2.0,2.0,False,48.0
+100.0,Classic Cars,147.0,USA,Medium,2004.0,3.0,3.0,False,50.0
+100.0,Classic Cars,147.0,USA,Medium,2004.0,5.0,1.0,False,28.0
+100.0,Classic Cars,147.0,Singapore,Medium,2004.0,6.0,1.0,False,26.0
+100.0,Classic Cars,147.0,Australia,Medium,2004.0,7.0,0.0,False,32.0
+100.0,Classic Cars,147.0,USA,Large,2004.0,8.0,3.0,False,44.0
+100.0,Classic Cars,147.0,Sweden,Medium,2004.0,9.0,2.0,False,30.0
+100.0,Classic Cars,147.0,USA,Medium,2004.0,10.0,2.0,False,38.0
+100.0,Classic Cars,147.0,Canada,Medium,2004.0,10.0,4.0,False,40.0
+61.99,Classic Cars,147.0,USA,Small,2004.0,11.0,3.0,False,46.0
+100.0,Classic Cars,147.0,Sweden,Medium,2004.0,11.0,4.0,False,26.0
+100.0,Classic Cars,147.0,Australia,Medium,2004.0,11.0,0.0,False,27.0
+100.0,Classic Cars,147.0,USA,Medium,2004.0,12.0,4.0,False,43.0
+65.63,Classic Cars,147.0,Australia,Small,2005.0,1.0,3.0,False,35.0
+100.0,Classic Cars,147.0,USA,Medium,2005.0,2.0,3.0,False,37.0
+46.9,Classic Cars,147.0,Australia,Small,2005.0,3.0,2.0,False,37.0
+100.0,Classic Cars,147.0,Canada,Medium,2005.0,5.0,6.0,False,27.0
+100.0,Classic Cars,147.0,France,Medium,2005.0,5.0,1.0,False,38.0
+100.0,Classic Cars,194.0,Philippines,Medium,2003.0,3.0,0.0,False,33.0
+100.0,Classic Cars,194.0,France,Large,2003.0,5.0,3.0,True,42.0
+100.0,Classic Cars,194.0,USA,Large,2003.0,7.0,2.0,False,42.0
+100.0,Classic Cars,194.0,USA,Large,2003.0,9.0,4.0,False,48.0
+100.0,Classic Cars,194.0,USA,Large,2003.0,10.0,4.0,False,41.0
+100.0,Classic Cars,194.0,Australia,Medium,2003.0,11.0,1.0,False,30.0
+100.0,Classic Cars,194.0,Norway,Medium,2003.0,11.0,2.0,False,27.0
+100.0,Classic Cars,194.0,Germany,Medium,2003.0,11.0,3.0,False,21.0
+100.0,Classic Cars,194.0,Spain,Medium,2003.0,12.0,1.0,False,20.0
+100.0,Classic Cars,194.0,France,Large,2004.0,1.0,3.0,False,41.0
+100.0,Classic Cars,194.0,Switzerland,Medium,2004.0,2.0,6.0,False,27.0
+100.0,Classic Cars,194.0,Denmark,Medium,2004.0,4.0,4.0,False,28.0
+100.0,Classic Cars,194.0,UK,Medium,2004.0,6.0,1.0,False,24.0
+100.0,Classic Cars,194.0,Italy,Large,2004.0,7.0,1.0,False,44.0
+100.0,Classic Cars,194.0,USA,Large,2004.0,8.0,0.0,False,50.0
+100.0,Classic Cars,194.0,Switzerland,Medium,2004.0,8.0,0.0,False,21.0
+100.0,Classic Cars,194.0,Germany,Medium,2003.0,10.0,5.0,False,33.0
+100.0,Classic Cars,194.0,Germany,Medium,2004.0,10.0,5.0,False,33.0
+100.0,Classic Cars,194.0,Sweden,Medium,2004.0,11.0,2.0,False,31.0
+71.47,Classic Cars,194.0,USA,Small,2004.0,11.0,0.0,False,41.0
+79.65,Classic Cars,194.0,Austria,Medium,2004.0,11.0,2.0,False,45.0
+85.39,Classic Cars,194.0,Finland,Small,2005.0,1.0,3.0,False,33.0
+76.0,Classic Cars,194.0,France,Medium,2005.0,2.0,3.0,False,45.0
+99.04,Classic Cars,194.0,Sweden,Small,2005.0,3.0,3.0,False,26.0
+100.0,Classic Cars,194.0,Austria,Small,2005.0,5.0,1.0,False,12.0
+100.0,Classic Cars,207.0,Denmark,Large,2003.0,2.0,1.0,False,41.0
+100.0,Classic Cars,207.0,Singapore,Medium,2003.0,4.0,2.0,False,33.0
+100.0,Classic Cars,207.0,USA,Large,2003.0,6.0,1.0,False,46.0
+100.0,Classic Cars,207.0,USA,Large,2003.0,8.0,4.0,False,33.0
+100.0,Classic Cars,207.0,Spain,Medium,2003.0,9.0,6.0,False,20.0
+100.0,Classic Cars,207.0,Singapore,Large,2003.0,10.0,2.0,False,44.0
+100.0,Classic Cars,207.0,Italy,Large,2003.0,11.0,3.0,False,33.0
+100.0,Classic Cars,207.0,USA,Medium,2003.0,11.0,4.0,False,21.0
+100.0,Classic Cars,207.0,USA,Large,2003.0,11.0,2.0,False,47.0
+100.0,Classic Cars,207.0,France,Large,2004.0,1.0,4.0,False,46.0
+100.0,Classic Cars,207.0,Ireland,Large,2004.0,2.0,3.0,False,32.0
+100.0,Classic Cars,207.0,Spain,Large,2004.0,3.0,4.0,False,42.0
+100.0,Classic Cars,207.0,Finland,Large,2004.0,5.0,2.0,False,44.0
+100.0,Classic Cars,207.0,USA,Medium,2004.0,7.0,1.0,False,35.0
+100.0,Classic Cars,207.0,USA,Large,2004.0,8.0,4.0,False,41.0
+100.0,Classic Cars,207.0,Italy,Large,2004.0,9.0,3.0,False,46.0
+100.0,Classic Cars,207.0,UK,Medium,2004.0,10.0,3.0,False,31.0
+100.0,Classic Cars,207.0,Denmark,Large,2004.0,10.0,4.0,False,38.0
+64.0,Classic Cars,207.0,Norway,Small,2004.0,11.0,4.0,False,42.0
+57.22,Classic Cars,207.0,France,Small,2004.0,11.0,5.0,False,33.0
+52.36,Classic Cars,207.0,Spain,Small,2004.0,11.0,0.0,True,48.0
+100.0,Classic Cars,207.0,France,Medium,2004.0,12.0,2.0,False,42.0
+100.0,Classic Cars,207.0,USA,Medium,2005.0,1.0,6.0,False,32.0
+100.0,Classic Cars,207.0,USA,Medium,2005.0,2.0,3.0,False,34.0
+69.12,Classic Cars,207.0,France,Small,2005.0,3.0,3.0,False,33.0
+100.0,Classic Cars,207.0,USA,Large,2005.0,5.0,3.0,False,36.0
+100.0,Trucks and Buses,136.0,Norway,Medium,2003.0,1.0,2.0,False,27.0
+100.0,Trucks and Buses,136.0,USA,Medium,2003.0,3.0,2.0,False,21.0
+100.0,Trucks and Buses,136.0,Spain,Small,2003.0,5.0,2.0,False,21.0
+100.0,Trucks and Buses,136.0,USA,Medium,2003.0,7.0,3.0,False,38.0
+100.0,Trucks and Buses,136.0,Singapore,Medium,2003.0,9.0,4.0,False,30.0
+100.0,Trucks and Buses,136.0,Austria,Medium,2003.0,10.0,1.0,False,49.0
+100.0,Trucks and Buses,136.0,Australia,Medium,2003.0,11.0,3.0,False,43.0
+100.0,Trucks and Buses,136.0,USA,Medium,2003.0,11.0,3.0,False,41.0
+100.0,Trucks and Buses,136.0,France,Medium,2003.0,11.0,1.0,False,38.0
+100.0,Trucks and Buses,136.0,Canada,Medium,2003.0,12.0,4.0,False,28.0
+100.0,Trucks and Buses,136.0,France,Medium,2004.0,2.0,0.0,False,43.0
+100.0,Trucks and Buses,136.0,USA,Medium,2004.0,3.0,3.0,False,25.0
+100.0,Trucks and Buses,136.0,USA,Medium,2004.0,5.0,1.0,False,38.0
+100.0,Trucks and Buses,136.0,Japan,Medium,2004.0,6.0,1.0,False,41.0
+100.0,Trucks and Buses,136.0,Australia,Medium,2004.0,7.0,0.0,False,28.0
+100.0,Trucks and Buses,136.0,USA,Small,2004.0,8.0,3.0,False,25.0
+100.0,Trucks and Buses,136.0,Sweden,Medium,2004.0,9.0,2.0,False,41.0
+100.0,Trucks and Buses,136.0,France,Medium,2004.0,10.0,0.0,False,39.0
+100.0,Trucks and Buses,136.0,Canada,Small,2004.0,10.0,4.0,False,21.0
+100.0,Trucks and Buses,136.0,USA,Medium,2004.0,11.0,3.0,False,27.0
+99.21,Trucks and Buses,136.0,USA,Medium,2004.0,11.0,3.0,False,33.0
+100.0,Trucks and Buses,136.0,Australia,Medium,2004.0,11.0,0.0,False,29.0
+100.0,Trucks and Buses,136.0,USA,Medium,2004.0,12.0,4.0,False,49.0
+100.0,Trucks and Buses,136.0,Australia,Large,2005.0,1.0,3.0,False,49.0
+100.0,Trucks and Buses,136.0,USA,Small,2005.0,2.0,3.0,False,20.0
+63.2,Trucks and Buses,136.0,Australia,Small,2005.0,3.0,2.0,False,39.0
+100.0,Trucks and Buses,136.0,Canada,Medium,2005.0,5.0,6.0,False,40.0
+100.0,Trucks and Buses,136.0,Spain,Large,2005.0,5.0,1.0,False,49.0
+100.0,Motorcycles,150.0,USA,Medium,2003.0,2.0,0.0,False,21.0
+100.0,Motorcycles,150.0,France,Large,2003.0,5.0,2.0,False,50.0
+100.0,Motorcycles,150.0,France,Small,2003.0,7.0,1.0,False,20.0
+100.0,Motorcycles,150.0,USA,Large,2003.0,8.0,0.0,False,49.0
+100.0,Motorcycles,150.0,USA,Medium,2003.0,10.0,4.0,False,38.0
+100.0,Motorcycles,150.0,Australia,Medium,2003.0,11.0,1.0,False,35.0
+100.0,Motorcycles,150.0,France,Medium,2003.0,11.0,1.0,True,40.0
+100.0,Motorcycles,150.0,USA,Medium,2003.0,11.0,1.0,False,28.0
+100.0,Motorcycles,150.0,USA,Medium,2003.0,12.0,0.0,False,25.0
+100.0,Motorcycles,150.0,France,Medium,2004.0,1.0,3.0,False,36.0
+100.0,Motorcycles,150.0,France,Medium,2004.0,2.0,5.0,False,43.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,4.0,0.0,False,32.0
+100.0,Motorcycles,150.0,USA,Large,2004.0,5.0,1.0,False,46.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,6.0,0.0,False,48.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,8.0,0.0,False,43.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,8.0,4.0,False,49.0
+100.0,Motorcycles,150.0,Finland,Medium,2004.0,9.0,3.0,False,24.0
+100.0,Motorcycles,150.0,Norway,Medium,2004.0,10.0,4.0,False,26.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,11.0,2.0,False,30.0
+100.0,Motorcycles,150.0,USA,Medium,2004.0,11.0,0.0,False,24.0
+100.0,Motorcycles,150.0,Austria,Large,2004.0,11.0,2.0,False,55.0
+100.0,Motorcycles,150.0,USA,Medium,2005.0,1.0,2.0,False,22.0
+78.92,Motorcycles,150.0,France,Medium,2005.0,2.0,3.0,False,49.0
+100.0,Motorcycles,150.0,USA,Medium,2005.0,3.0,3.0,False,44.0
+100.0,Motorcycles,150.0,UK,Large,2005.0,4.0,4.0,False,66.0
+100.0,Motorcycles,150.0,Spain,Medium,2005.0,5.0,4.0,False,21.0
+100.0,Classic Cars,151.0,Spain,Medium,2003.0,1.0,4.0,False,34.0
+100.0,Classic Cars,151.0,Singapore,Medium,2003.0,4.0,2.0,False,43.0
+100.0,Classic Cars,151.0,USA,Large,2003.0,6.0,1.0,False,46.0
+100.0,Classic Cars,151.0,USA,Medium,2003.0,8.0,4.0,False,33.0
+100.0,Classic Cars,151.0,Spain,Medium,2003.0,9.0,6.0,False,42.0
+100.0,Classic Cars,151.0,Singapore,Medium,2003.0,10.0,2.0,False,34.0
+100.0,Classic Cars,151.0,Italy,Large,2003.0,11.0,3.0,False,47.0
+100.0,Classic Cars,151.0,USA,Medium,2003.0,11.0,4.0,False,33.0
+100.0,Classic Cars,151.0,USA,Medium,2003.0,11.0,2.0,False,24.0
+100.0,Classic Cars,151.0,France,Medium,2004.0,1.0,4.0,False,26.0
+100.0,Classic Cars,151.0,Ireland,Medium,2004.0,2.0,3.0,False,30.0
+100.0,Classic Cars,151.0,Germany,Large,2004.0,3.0,0.0,False,43.0
+100.0,Classic Cars,151.0,Finland,Medium,2004.0,5.0,2.0,False,25.0
+100.0,Classic Cars,151.0,USA,Medium,2004.0,7.0,1.0,False,27.0
+100.0,Classic Cars,151.0,USA,Medium,2004.0,8.0,4.0,False,27.0
+100.0,Classic Cars,151.0,Italy,Medium,2004.0,9.0,3.0,False,24.0
+100.0,Classic Cars,151.0,UK,Medium,2004.0,10.0,3.0,False,34.0
+100.0,Classic Cars,151.0,Denmark,Medium,2004.0,10.0,4.0,False,46.0
+54.33,Classic Cars,151.0,USA,Small,2004.0,11.0,4.0,False,27.0
+100.0,Classic Cars,151.0,France,Medium,2004.0,11.0,5.0,False,33.0
+100.0,Classic Cars,151.0,Spain,Medium,2004.0,11.0,0.0,True,47.0
+55.34,Classic Cars,151.0,Spain,Small,2004.0,12.0,4.0,False,49.0
+100.0,Classic Cars,151.0,Japan,Medium,2005.0,1.0,2.0,False,40.0
+100.0,Classic Cars,151.0,USA,Medium,2005.0,2.0,3.0,False,37.0
+100.0,Classic Cars,151.0,USA,Large,2005.0,5.0,3.0,False,47.0
+100.0,Classic Cars,117.0,Philippines,Medium,2003.0,3.0,0.0,False,45.0
+99.82,Classic Cars,117.0,France,Medium,2003.0,5.0,3.0,True,37.0
+100.0,Classic Cars,117.0,USA,Medium,2003.0,7.0,2.0,False,48.0
+100.0,Classic Cars,117.0,USA,Medium,2003.0,9.0,4.0,False,31.0
+100.0,Classic Cars,117.0,USA,Medium,2003.0,10.0,5.0,False,46.0
+100.0,Classic Cars,117.0,Austria,Medium,2003.0,11.0,1.0,False,47.0
+100.0,Classic Cars,117.0,Norway,Small,2003.0,11.0,2.0,False,28.0
+100.0,Classic Cars,117.0,Germany,Medium,2003.0,11.0,3.0,False,40.0
+100.0,Classic Cars,117.0,Spain,Small,2003.0,12.0,1.0,False,20.0
+100.0,Classic Cars,117.0,Spain,Medium,2004.0,1.0,4.0,False,39.0
+99.82,Classic Cars,117.0,Switzerland,Small,2004.0,2.0,6.0,False,25.0
+100.0,Classic Cars,117.0,Denmark,Medium,2004.0,4.0,4.0,False,29.0
+100.0,Classic Cars,117.0,UK,Small,2004.0,6.0,1.0,False,22.0
+100.0,Classic Cars,117.0,Italy,Small,2004.0,7.0,1.0,False,22.0
+100.0,Classic Cars,117.0,USA,Medium,2004.0,8.0,0.0,False,47.0
+100.0,Classic Cars,117.0,Switzerland,Medium,2004.0,8.0,0.0,False,45.0
+100.0,Classic Cars,117.0,Germany,Medium,2003.0,10.0,5.0,False,29.0
+100.0,Classic Cars,117.0,Germany,Medium,2004.0,10.0,5.0,False,24.0
+100.0,Classic Cars,117.0,Sweden,Medium,2004.0,11.0,2.0,False,35.0
+83.63,Classic Cars,117.0,USA,Medium,2004.0,11.0,0.0,False,46.0
+95.93,Classic Cars,117.0,Austria,Medium,2004.0,11.0,2.0,False,44.0
+96.73,Classic Cars,117.0,Finland,Medium,2005.0,1.0,3.0,False,34.0
+100.0,Classic Cars,117.0,USA,Medium,2005.0,2.0,1.0,False,35.0
+72.38,Classic Cars,117.0,Sweden,Small,2005.0,3.0,3.0,False,25.0
+100.0,Classic Cars,117.0,Austria,Small,2005.0,5.0,1.0,False,10.0
+100.0,Classic Cars,173.0,Denmark,Medium,2003.0,2.0,1.0,False,29.0
+100.0,Classic Cars,173.0,Singapore,Medium,2003.0,4.0,2.0,False,39.0
+100.0,Classic Cars,173.0,USA,Large,2003.0,6.0,1.0,False,42.0
+100.0,Classic Cars,173.0,USA,Large,2003.0,8.0,4.0,False,46.0
+100.0,Classic Cars,173.0,Spain,Large,2003.0,9.0,6.0,False,49.0
+100.0,Classic Cars,173.0,Singapore,Medium,2003.0,10.0,2.0,False,27.0
+100.0,Classic Cars,173.0,Italy,Large,2003.0,11.0,3.0,False,50.0
+100.0,Classic Cars,173.0,USA,Large,2003.0,11.0,4.0,False,43.0
+100.0,Classic Cars,173.0,USA,Large,2003.0,11.0,2.0,False,38.0
+100.0,Classic Cars,173.0,France,Medium,2004.0,1.0,4.0,False,20.0
+100.0,Classic Cars,173.0,Ireland,Medium,2004.0,2.0,3.0,False,27.0
+100.0,Classic Cars,173.0,Spain,Medium,2004.0,3.0,4.0,False,49.0
+100.0,Classic Cars,173.0,Finland,Medium,2004.0,5.0,2.0,False,27.0
+100.0,Classic Cars,173.0,USA,Large,2004.0,7.0,1.0,False,39.0
+100.0,Classic Cars,173.0,USA,Medium,2004.0,8.0,4.0,False,24.0
+100.0,Classic Cars,173.0,Italy,Large,2004.0,9.0,3.0,False,45.0
+100.0,Classic Cars,173.0,UK,Medium,2004.0,10.0,3.0,False,20.0
+100.0,Classic Cars,173.0,Denmark,Medium,2004.0,10.0,4.0,False,36.0
+100.0,Classic Cars,173.0,Norway,Small,2004.0,11.0,4.0,False,24.0
+63.38,Classic Cars,173.0,France,Medium,2004.0,11.0,5.0,False,49.0
+100.0,Classic Cars,173.0,USA,Medium,2004.0,12.0,2.0,False,26.0
+62.09,Classic Cars,173.0,France,Medium,2004.0,12.0,2.0,False,49.0
+100.0,Classic Cars,173.0,Japan,Medium,2005.0,1.0,2.0,False,34.0
+95.35,Classic Cars,173.0,USA,Medium,2005.0,2.0,3.0,False,34.0
+100.0,Classic Cars,173.0,USA,Medium,2005.0,3.0,2.0,False,33.0
+100.0,Classic Cars,173.0,USA,Medium,2005.0,5.0,3.0,False,22.0
+89.38,Classic Cars,79.0,Philippines,Medium,2003.0,3.0,0.0,False,39.0
+63.84,Classic Cars,79.0,France,Small,2003.0,5.0,3.0,True,32.0
+75.01,Classic Cars,79.0,USA,Small,2003.0,7.0,2.0,False,24.0
+63.84,Classic Cars,79.0,USA,Small,2003.0,9.0,4.0,False,21.0
+73.42,Classic Cars,79.0,USA,Small,2003.0,10.0,4.0,False,24.0
+63.84,Classic Cars,79.0,Australia,Small,2003.0,11.0,1.0,False,36.0
+81.4,Classic Cars,79.0,Norway,Small,2003.0,11.0,2.0,False,20.0
+64.64,Classic Cars,79.0,Germany,Small,2003.0,11.0,3.0,False,30.0
+82.99,Classic Cars,79.0,Spain,Medium,2003.0,12.0,1.0,False,44.0
+92.57,Classic Cars,79.0,France,Small,2004.0,1.0,3.0,False,28.0
+77.41,Classic Cars,79.0,Switzerland,Small,2004.0,2.0,6.0,False,37.0
+74.21,Classic Cars,79.0,Denmark,Small,2004.0,4.0,4.0,False,20.0
+90.17,Classic Cars,79.0,UK,Small,2004.0,6.0,1.0,False,25.0
+76.61,Classic Cars,79.0,Italy,Small,2004.0,7.0,1.0,False,35.0
+83.79,Classic Cars,79.0,USA,Medium,2004.0,8.0,0.0,False,38.0
+69.43,Classic Cars,79.0,Switzerland,Small,2004.0,8.0,0.0,False,41.0
+76.61,Classic Cars,79.0,Germany,Small,2003.0,10.0,5.0,False,22.0
+81.4,Classic Cars,79.0,Germany,Medium,2004.0,10.0,5.0,False,49.0
+73.42,Classic Cars,79.0,Sweden,Small,2004.0,11.0,2.0,False,38.0
+100.0,Classic Cars,79.0,USA,Medium,2004.0,11.0,0.0,False,33.0
+93.56,Classic Cars,79.0,Austria,Medium,2004.0,11.0,2.0,False,36.0
+81.62,Classic Cars,79.0,Finland,Small,2005.0,1.0,3.0,False,34.0
+67.83,Classic Cars,79.0,Finland,Small,2005.0,2.0,2.0,False,24.0
+70.26,Classic Cars,79.0,Sweden,Small,2005.0,3.0,3.0,False,36.0
+90.17,Classic Cars,79.0,Austria,Medium,2005.0,5.0,1.0,False,34.0
+100.0,Trucks and Buses,118.0,Spain,Medium,2003.0,1.0,4.0,False,41.0
+100.0,Trucks and Buses,118.0,USA,Medium,2003.0,4.0,4.0,False,46.0
+100.0,Trucks and Buses,118.0,USA,Small,2003.0,6.0,1.0,False,24.0
+100.0,Trucks and Buses,118.0,Finland,Small,2003.0,8.0,4.0,False,21.0
+100.0,Trucks and Buses,118.0,Finland,Medium,2003.0,9.0,6.0,False,24.0
+100.0,Trucks and Buses,118.0,Singapore,Medium,2003.0,10.0,2.0,False,48.0
+100.0,Trucks and Buses,118.0,UK,Medium,2003.0,11.0,3.0,False,26.0
+100.0,Trucks and Buses,118.0,Spain,Medium,2003.0,11.0,4.0,False,37.0
+100.0,Trucks and Buses,118.0,USA,Medium,2003.0,11.0,1.0,False,49.0
+99.54,Trucks and Buses,118.0,USA,Medium,2003.0,12.0,1.0,False,34.0
+100.0,Trucks and Buses,118.0,USA,Medium,2004.0,2.0,1.0,False,48.0
+100.0,Trucks and Buses,118.0,USA,Medium,2004.0,3.0,3.0,False,36.0
+100.0,Trucks and Buses,118.0,Spain,Medium,2004.0,5.0,2.0,False,46.0
+100.0,Trucks and Buses,118.0,Singapore,Medium,2004.0,6.0,1.0,False,46.0
+97.17,Trucks and Buses,118.0,USA,Medium,2004.0,7.0,1.0,False,31.0
+100.0,Trucks and Buses,118.0,USA,Medium,2004.0,8.0,3.0,False,41.0
+100.0,Trucks and Buses,118.0,USA,Small,2004.0,9.0,2.0,False,21.0
+100.0,Trucks and Buses,118.0,USA,Medium,2004.0,10.0,2.0,False,38.0
+100.0,Trucks and Buses,118.0,Denmark,Medium,2004.0,10.0,4.0,False,45.0
+58.38,Trucks and Buses,118.0,USA,Small,2004.0,11.0,4.0,False,26.0
+100.0,Trucks and Buses,118.0,France,Medium,2004.0,11.0,5.0,False,38.0
+100.0,Trucks and Buses,118.0,USA,Medium,2004.0,12.0,2.0,False,48.0
+64.16,Trucks and Buses,118.0,Spain,Small,2004.0,12.0,4.0,False,42.0
+35.71,Trucks and Buses,118.0,USA,Small,2005.0,1.0,6.0,False,49.0
+66.58,Trucks and Buses,118.0,USA,Small,2005.0,2.0,3.0,False,32.0
+100.0,Trucks and Buses,118.0,Spain,Medium,2005.0,5.0,1.0,False,54.0
+100.0,Trucks and Buses,118.0,France,Medium,2005.0,5.0,1.0,False,33.0
+100.0,Classic Cars,115.0,Philippines,Medium,2003.0,3.0,0.0,False,36.0
+100.0,Classic Cars,115.0,France,Small,2003.0,5.0,3.0,True,20.0
+97.89,Classic Cars,115.0,USA,Small,2003.0,7.0,2.0,False,29.0
+97.89,Classic Cars,115.0,USA,Medium,2003.0,9.0,4.0,False,33.0
+100.0,Classic Cars,115.0,USA,Medium,2003.0,10.0,5.0,False,50.0
+100.0,Classic Cars,115.0,Austria,Medium,2003.0,11.0,1.0,False,41.0
+100.0,Classic Cars,115.0,Norway,Medium,2003.0,11.0,2.0,False,36.0
+100.0,Classic Cars,115.0,USA,Medium,2003.0,11.0,3.0,False,27.0
+100.0,Classic Cars,115.0,Spain,Medium,2003.0,12.0,1.0,False,47.0
+100.0,Classic Cars,115.0,Spain,Medium,2004.0,1.0,4.0,False,33.0
+100.0,Classic Cars,115.0,Switzerland,Small,2004.0,2.0,6.0,False,21.0
+93.28,Classic Cars,115.0,Finland,Small,2004.0,4.0,0.0,True,21.0
+100.0,Classic Cars,115.0,UK,Medium,2004.0,6.0,1.0,False,41.0
+100.0,Classic Cars,115.0,Italy,Medium,2004.0,7.0,1.0,False,40.0
+100.0,Classic Cars,115.0,Singapore,Medium,2004.0,8.0,2.0,False,28.0
+100.0,Classic Cars,115.0,Switzerland,Small,2004.0,8.0,0.0,False,23.0
+100.0,Classic Cars,115.0,Germany,Small,2003.0,10.0,5.0,False,23.0
+100.0,Classic Cars,115.0,Germany,Small,2004.0,10.0,5.0,False,25.0
+100.0,Classic Cars,115.0,USA,Small,2004.0,11.0,3.0,False,24.0
+64.74,Classic Cars,115.0,USA,Small,2004.0,11.0,0.0,False,39.0
+75.2,Classic Cars,115.0,Austria,Medium,2004.0,11.0,2.0,False,55.0
+88.45,Classic Cars,115.0,Finland,Medium,2005.0,1.0,3.0,False,46.0
+100.0,Classic Cars,115.0,Finland,Medium,2005.0,2.0,2.0,False,50.0
+100.0,Classic Cars,115.0,Sweden,Medium,2005.0,3.0,3.0,False,47.0
+93.28,Classic Cars,115.0,France,Large,2005.0,4.0,3.0,False,97.0
+100.0,Classic Cars,115.0,Austria,Medium,2005.0,5.0,1.0,False,32.0
+100.0,Trucks and Buses,116.0,Norway,Medium,2003.0,1.0,2.0,False,35.0
+100.0,Trucks and Buses,116.0,USA,Medium,2003.0,3.0,2.0,False,49.0
+100.0,Trucks and Buses,116.0,Spain,Medium,2003.0,5.0,2.0,False,38.0
+100.0,Trucks and Buses,116.0,USA,Medium,2003.0,7.0,3.0,False,32.0
+100.0,Trucks and Buses,116.0,Singapore,Medium,2003.0,9.0,4.0,False,34.0
+99.17,Trucks and Buses,116.0,Austria,Medium,2003.0,10.0,1.0,False,36.0
+93.34,Trucks and Buses,116.0,Australia,Medium,2003.0,11.0,3.0,False,48.0
+96.84,Trucks and Buses,116.0,USA,Small,2003.0,11.0,3.0,False,21.0
+93.34,Trucks and Buses,116.0,France,Small,2003.0,11.0,1.0,False,21.0
+100.0,Trucks and Buses,116.0,Canada,Medium,2003.0,12.0,4.0,False,34.0
+100.0,Trucks and Buses,116.0,USA,Medium,2004.0,1.0,3.0,False,46.0
+100.0,Trucks and Buses,116.0,USA,Medium,2004.0,3.0,2.0,False,32.0
+100.0,Trucks and Buses,116.0,USA,Medium,2004.0,5.0,1.0,False,29.0
+100.0,Trucks and Buses,116.0,Japan,Medium,2004.0,6.0,1.0,False,41.0
+96.84,Trucks and Buses,116.0,Australia,Medium,2004.0,7.0,0.0,False,43.0
+100.0,Trucks and Buses,116.0,Italy,Small,2004.0,8.0,1.0,False,24.0
+100.0,Trucks and Buses,116.0,Sweden,Medium,2004.0,9.0,2.0,False,41.0
+98.0,Trucks and Buses,116.0,France,Medium,2004.0,10.0,0.0,False,46.0
+100.0,Trucks and Buses,116.0,USA,Medium,2004.0,10.0,3.0,False,32.0
+100.0,Trucks and Buses,116.0,USA,Small,2004.0,11.0,3.0,False,22.0
+40.25,Trucks and Buses,116.0,USA,Small,2004.0,11.0,3.0,False,29.0
+49.6,Trucks and Buses,116.0,Australia,Small,2004.0,11.0,0.0,False,42.0
+98.0,Trucks and Buses,116.0,USA,Medium,2004.0,12.0,4.0,False,39.0
+100.0,Trucks and Buses,116.0,Australia,Medium,2005.0,1.0,3.0,False,27.0
+98.0,Trucks and Buses,116.0,USA,Medium,2005.0,2.0,3.0,False,48.0
+85.1,Trucks and Buses,116.0,Australia,Small,2005.0,3.0,2.0,False,29.0
+100.0,Trucks and Buses,116.0,Canada,Medium,2005.0,5.0,6.0,False,27.0
+100.0,Trucks and Buses,116.0,Spain,Large,2005.0,5.0,1.0,False,54.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,3.0,0.0,False,26.0
+100.0,Classic Cars,141.0,France,Medium,2003.0,5.0,3.0,True,34.0
+100.0,Classic Cars,141.0,France,Medium,2003.0,7.0,4.0,False,25.0
+100.0,Classic Cars,141.0,Australia,Small,2003.0,9.0,3.0,False,23.0
+100.0,Classic Cars,141.0,Denmark,Medium,2003.0,10.0,4.0,False,28.0
+100.0,Classic Cars,141.0,Canada,Medium,2003.0,11.0,2.0,False,35.0
+100.0,Classic Cars,141.0,Norway,Medium,2003.0,11.0,2.0,False,44.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,11.0,3.0,False,22.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,12.0,1.0,False,42.0
+100.0,Classic Cars,141.0,Spain,Medium,2004.0,1.0,4.0,False,29.0
+100.0,Classic Cars,141.0,Switzerland,Medium,2004.0,2.0,6.0,False,32.0
+100.0,Classic Cars,141.0,Japan,Medium,2004.0,4.0,1.0,False,41.0
+100.0,Classic Cars,141.0,UK,Medium,2004.0,6.0,1.0,False,26.0
+100.0,Classic Cars,141.0,Italy,Small,2004.0,7.0,1.0,False,21.0
+100.0,Classic Cars,141.0,USA,Medium,2004.0,8.0,4.0,False,34.0
+100.0,Classic Cars,141.0,Switzerland,Medium,2004.0,8.0,0.0,False,41.0
+100.0,Classic Cars,141.0,Norway,Medium,2003.0,10.0,6.0,False,37.0
+100.0,Classic Cars,141.0,Germany,Medium,2004.0,10.0,5.0,False,37.0
+100.0,Classic Cars,141.0,USA,Medium,2004.0,11.0,3.0,False,41.0
+100.0,Classic Cars,141.0,USA,Medium,2004.0,11.0,2.0,False,46.0
+100.0,Classic Cars,141.0,Australia,Medium,2004.0,11.0,2.0,False,40.0
+97.6,Classic Cars,141.0,France,Medium,2004.0,12.0,3.0,False,43.0
+87.06,Classic Cars,141.0,USA,Small,2005.0,1.0,4.0,False,30.0
+100.0,Classic Cars,141.0,Finland,Medium,2005.0,2.0,2.0,False,35.0
+93.77,Classic Cars,141.0,USA,Medium,2005.0,3.0,4.0,False,36.0
+100.0,Classic Cars,141.0,Denmark,Large,2005.0,4.0,4.0,False,61.0
+100.0,Classic Cars,141.0,Austria,Medium,2005.0,5.0,1.0,False,38.0
+100.0,Vintage Cars,102.0,USA,Medium,2003.0,1.0,4.0,False,39.0
+99.66,Vintage Cars,102.0,USA,Medium,2003.0,3.0,1.0,False,33.0
+100.0,Vintage Cars,102.0,Australia,Medium,2003.0,5.0,2.0,False,32.0
+100.0,Vintage Cars,102.0,Australia,Medium,2003.0,7.0,2.0,False,31.0
+100.0,Vintage Cars,102.0,USA,Medium,2003.0,9.0,4.0,False,50.0
+91.44,Vintage Cars,102.0,USA,Medium,2003.0,10.0,5.0,False,48.0
+100.0,Vintage Cars,102.0,Italy,Medium,2003.0,11.0,2.0,False,43.0
+87.33,Vintage Cars,102.0,USA,Small,2003.0,11.0,2.0,False,25.0
+100.0,Vintage Cars,102.0,Australia,Medium,2003.0,11.0,4.0,False,28.0
+100.0,Vintage Cars,102.0,Spain,Medium,2003.0,12.0,2.0,False,36.0
+89.38,Vintage Cars,102.0,USA,Small,2004.0,1.0,3.0,False,27.0
+100.0,Vintage Cars,102.0,France,Small,2004.0,3.0,1.0,False,25.0
+100.0,Vintage Cars,102.0,Spain,Medium,2004.0,4.0,3.0,False,40.0
+95.55,Vintage Cars,102.0,Denmark,Medium,2004.0,6.0,1.0,False,34.0
+100.0,Vintage Cars,102.0,Italy,Medium,2004.0,8.0,1.0,False,50.0
+100.0,Vintage Cars,102.0,Norway,Medium,2004.0,9.0,4.0,False,38.0
+95.55,Vintage Cars,102.0,France,Medium,2004.0,10.0,0.0,False,37.0
+89.38,Vintage Cars,102.0,USA,Medium,2004.0,10.0,3.0,False,43.0
+86.3,Vintage Cars,102.0,USA,Medium,2004.0,11.0,3.0,False,43.0
+95.13,Vintage Cars,102.0,UK,Medium,2004.0,11.0,2.0,False,46.0
+36.11,Vintage Cars,102.0,USA,Small,2004.0,11.0,0.0,False,42.0
+50.18,Vintage Cars,102.0,France,Small,2004.0,12.0,3.0,False,50.0
+100.0,Vintage Cars,102.0,USA,Large,2005.0,1.0,3.0,False,44.0
+93.16,Vintage Cars,102.0,Spain,Small,2005.0,2.0,2.0,False,27.0
+100.0,Vintage Cars,102.0,Australia,Medium,2005.0,3.0,2.0,False,35.0
+95.55,Vintage Cars,102.0,USA,Medium,2005.0,5.0,0.0,True,51.0
+50.14,Vintage Cars,53.0,USA,Small,2003.0,1.0,4.0,False,41.0
+49.06,Vintage Cars,53.0,USA,Small,2003.0,3.0,1.0,False,48.0
+54.99,Vintage Cars,53.0,Spain,Small,2003.0,5.0,2.0,False,42.0
+43.13,Vintage Cars,53.0,Australia,Small,2003.0,7.0,2.0,False,49.0
+58.22,Vintage Cars,53.0,USA,Small,2003.0,9.0,4.0,False,30.0
+51.21,Vintage Cars,53.0,USA,Small,2003.0,10.0,5.0,False,45.0
+44.21,Vintage Cars,53.0,Italy,Small,2003.0,11.0,2.0,False,48.0
+54.45,Vintage Cars,53.0,USA,Small,2003.0,11.0,2.0,False,32.0
+53.37,Vintage Cars,53.0,Australia,Small,2003.0,11.0,4.0,False,46.0
+63.61,Vintage Cars,53.0,Spain,Medium,2003.0,12.0,2.0,False,48.0
+43.13,Vintage Cars,53.0,USA,Small,2004.0,1.0,3.0,False,33.0
+48.52,Vintage Cars,53.0,France,Small,2004.0,3.0,1.0,False,31.0
+58.22,Vintage Cars,53.0,Spain,Small,2004.0,4.0,3.0,False,20.0
+51.75,Vintage Cars,53.0,Denmark,Small,2004.0,6.0,1.0,False,29.0
+57.68,Vintage Cars,53.0,Italy,Small,2004.0,8.0,1.0,False,27.0
+56.07,Vintage Cars,53.0,Norway,Small,2004.0,9.0,4.0,False,24.0
+48.52,Vintage Cars,53.0,France,Small,2004.0,10.0,0.0,False,37.0
+44.21,Vintage Cars,53.0,USA,Small,2004.0,10.0,3.0,False,25.0
+57.68,Vintage Cars,53.0,USA,Small,2004.0,11.0,3.0,False,41.0
+89.89,Vintage Cars,53.0,UK,Small,2004.0,11.0,2.0,False,27.0
+58.95,Vintage Cars,53.0,Australia,Small,2004.0,11.0,0.0,False,21.0
+72.41,Vintage Cars,53.0,France,Small,2004.0,12.0,3.0,False,22.0
+98.63,Vintage Cars,53.0,USA,Medium,2005.0,1.0,3.0,False,32.0
+52.83,Vintage Cars,53.0,USA,Small,2005.0,2.0,3.0,False,25.0
+100.0,Vintage Cars,53.0,Australia,Medium,2005.0,3.0,2.0,False,42.0
+51.75,Vintage Cars,53.0,USA,Small,2005.0,5.0,0.0,True,25.0
+100.0,Classic Cars,124.0,UK,Medium,2003.0,3.0,1.0,False,37.0
+100.0,Classic Cars,124.0,France,Medium,2003.0,5.0,1.0,False,26.0
+99.55,Classic Cars,124.0,France,Medium,2003.0,7.0,3.0,False,44.0
+100.0,Classic Cars,124.0,Australia,Medium,2003.0,9.0,3.0,False,47.0
+100.0,Classic Cars,124.0,Denmark,Medium,2003.0,10.0,4.0,False,43.0
+100.0,Classic Cars,124.0,USA,Medium,2003.0,11.0,2.0,False,42.0
+100.0,Classic Cars,124.0,Norway,Medium,2003.0,11.0,2.0,False,42.0
+100.0,Classic Cars,124.0,USA,Medium,2003.0,11.0,3.0,False,29.0
+100.0,Classic Cars,124.0,USA,Medium,2003.0,12.0,1.0,False,40.0
+100.0,Classic Cars,124.0,Spain,Medium,2004.0,1.0,4.0,False,38.0
+100.0,Classic Cars,124.0,USA,Medium,2004.0,2.0,3.0,False,38.0
+100.0,Classic Cars,124.0,France,Small,2004.0,4.0,1.0,False,21.0
+100.0,Classic Cars,124.0,UK,Medium,2004.0,6.0,1.0,False,24.0
+100.0,Classic Cars,124.0,Italy,Medium,2004.0,7.0,1.0,False,36.0
+100.0,Classic Cars,124.0,USA,Small,2004.0,8.0,4.0,False,23.0
+100.0,Classic Cars,124.0,Singapore,Small,2004.0,9.0,2.0,False,20.0
+100.0,Classic Cars,124.0,Norway,Medium,2003.0,10.0,6.0,False,32.0
+100.0,Classic Cars,124.0,Spain,Small,2004.0,10.0,5.0,False,29.0
+100.0,Classic Cars,124.0,USA,Medium,2004.0,11.0,3.0,False,44.0
+100.0,Classic Cars,124.0,USA,Medium,2004.0,11.0,2.0,False,44.0
+100.0,Classic Cars,124.0,France,Medium,2004.0,11.0,2.0,False,36.0
+56.3,Classic Cars,124.0,USA,Small,2005.0,1.0,2.0,False,49.0
+42.64,Classic Cars,124.0,Spain,Small,2005.0,2.0,3.0,False,34.0
+100.0,Classic Cars,124.0,USA,Large,2005.0,4.0,4.0,False,59.0
+100.0,Classic Cars,124.0,Austria,Medium,2005.0,5.0,1.0,False,37.0
+100.0,Planes,157.0,Italy,Medium,2003.0,2.0,0.0,False,36.0
+100.0,Planes,157.0,Austria,Medium,2003.0,4.0,0.0,False,43.0
+100.0,Planes,157.0,USA,Small,2003.0,6.0,0.0,False,21.0
+100.0,Planes,157.0,USA,Medium,2003.0,8.0,6.0,False,32.0
+100.0,Planes,157.0,Finland,Medium,2003.0,10.0,0.0,False,38.0
+100.0,Planes,157.0,Sweden,Medium,2003.0,10.0,3.0,False,43.0
+100.0,Planes,157.0,France,Medium,2003.0,11.0,5.0,False,42.0
+100.0,Planes,157.0,UK,Medium,2003.0,11.0,4.0,False,32.0
+100.0,Planes,157.0,Philippines,Large,2003.0,11.0,3.0,False,42.0
+100.0,Planes,157.0,Japan,Medium,2004.0,1.0,0.0,True,31.0
+100.0,Planes,157.0,USA,Medium,2004.0,2.0,3.0,False,49.0
+100.0,Planes,157.0,USA,Large,2004.0,5.0,1.0,False,45.0
+100.0,Planes,157.0,Spain,Medium,2004.0,6.0,3.0,False,49.0
+100.0,Planes,157.0,USA,Medium,2004.0,7.0,2.0,False,41.0
+100.0,Planes,157.0,Norway,Medium,2004.0,8.0,5.0,False,45.0
+100.0,Planes,157.0,Germany,Medium,2004.0,9.0,2.0,False,36.0
+100.0,Planes,157.0,USA,Large,2004.0,10.0,3.0,False,39.0
+100.0,Planes,157.0,UK,Medium,2004.0,11.0,0.0,False,27.0
+100.0,Planes,157.0,Denmark,Small,2004.0,11.0,2.0,False,25.0
+100.0,Planes,157.0,Belgium,Medium,2004.0,11.0,0.0,False,41.0
+99.52,Planes,157.0,UK,Medium,2004.0,12.0,4.0,False,39.0
+57.55,Planes,157.0,Finland,Small,2005.0,1.0,0.0,False,28.0
+54.57,Planes,157.0,Spain,Small,2005.0,3.0,1.0,False,25.0
+100.0,Planes,157.0,France,Medium,2005.0,3.0,2.0,False,33.0
+100.0,Planes,157.0,USA,Medium,2005.0,4.0,4.0,False,34.0
+100.0,Planes,157.0,Italy,Medium,2005.0,5.0,1.0,False,24.0
+100.0,Vintage Cars,170.0,USA,Medium,2003.0,1.0,0.0,False,30.0
+100.0,Vintage Cars,170.0,UK,Medium,2003.0,3.0,1.0,False,42.0
+100.0,Vintage Cars,170.0,USA,Small,2003.0,5.0,2.0,False,21.0
+100.0,Vintage Cars,170.0,USA,Medium,2003.0,9.0,4.0,False,34.0
+100.0,Vintage Cars,170.0,USA,Medium,2003.0,10.0,5.0,False,29.0
+100.0,Vintage Cars,170.0,Italy,Medium,2003.0,11.0,2.0,False,24.0
+100.0,Vintage Cars,170.0,USA,Large,2003.0,11.0,2.0,False,44.0
+100.0,Vintage Cars,170.0,Australia,Medium,2003.0,11.0,4.0,False,21.0
+100.0,Vintage Cars,170.0,USA,Medium,2003.0,12.0,1.0,False,33.0
+100.0,Vintage Cars,170.0,Spain,Medium,2004.0,1.0,0.0,False,30.0
+100.0,Vintage Cars,170.0,France,Medium,2004.0,3.0,1.0,False,26.0
+100.0,Vintage Cars,170.0,France,Large,2004.0,4.0,1.0,False,41.0
+100.0,Vintage Cars,170.0,Italy,Medium,2004.0,8.0,1.0,False,26.0
+100.0,Vintage Cars,170.0,Singapore,Medium,2004.0,9.0,2.0,False,32.0
+100.0,Vintage Cars,170.0,UK,Large,2003.0,10.0,0.0,False,43.0
+100.0,Vintage Cars,170.0,USA,Large,2004.0,10.0,3.0,False,48.0
+74.04,Vintage Cars,170.0,USA,Medium,2004.0,11.0,2.0,False,44.0
+100.0,Vintage Cars,170.0,France,Large,2004.0,11.0,3.0,False,45.0
+100.0,Vintage Cars,170.0,USA,Medium,2005.0,1.0,2.0,False,37.0
+100.0,Vintage Cars,170.0,Spain,Medium,2005.0,2.0,3.0,False,39.0
+100.0,Vintage Cars,170.0,USA,Large,2005.0,4.0,4.0,False,76.0
+100.0,Vintage Cars,170.0,Australia,Medium,2005.0,5.0,6.0,False,37.0
+82.39,Classic Cars,77.0,Philippines,Medium,2003.0,3.0,0.0,False,38.0
+72.38,Classic Cars,77.0,France,Medium,2003.0,5.0,3.0,True,43.0
+79.31,Classic Cars,77.0,USA,Medium,2003.0,7.0,2.0,False,48.0
+82.39,Classic Cars,77.0,USA,Small,2003.0,9.0,4.0,False,26.0
+88.55,Classic Cars,77.0,USA,Medium,2003.0,10.0,5.0,False,38.0
+63.14,Classic Cars,77.0,Austria,Small,2003.0,11.0,1.0,False,20.0
+73.92,Classic Cars,77.0,Norway,Small,2003.0,11.0,2.0,False,22.0
+90.86,Classic Cars,77.0,USA,Medium,2003.0,11.0,3.0,False,45.0
+85.47,Classic Cars,77.0,Spain,Medium,2003.0,12.0,1.0,False,45.0
+66.99,Classic Cars,77.0,Spain,Small,2004.0,1.0,4.0,False,20.0
+64.68,Classic Cars,77.0,Switzerland,Medium,2004.0,2.0,6.0,False,47.0
+73.92,Classic Cars,77.0,Finland,Medium,2004.0,4.0,0.0,True,46.0
+83.93,Classic Cars,77.0,UK,Small,2004.0,6.0,1.0,False,23.0
+74.69,Classic Cars,77.0,Italy,Small,2004.0,7.0,1.0,False,33.0
+90.86,Classic Cars,77.0,USA,Small,2004.0,8.0,4.0,False,29.0
+82.39,Classic Cars,77.0,Switzerland,Medium,2004.0,8.0,0.0,False,44.0
+92.4,Classic Cars,77.0,Germany,Medium,2003.0,10.0,5.0,False,41.0
+91.63,Classic Cars,77.0,Germany,Small,2004.0,10.0,5.0,False,20.0
+78.54,Classic Cars,77.0,USA,Small,2004.0,11.0,3.0,False,37.0
+100.0,Classic Cars,77.0,USA,Small,2004.0,11.0,0.0,False,29.0
+65.45,Classic Cars,77.0,Australia,Medium,2004.0,11.0,2.0,False,55.0
+100.0,Classic Cars,77.0,Finland,Medium,2005.0,1.0,3.0,False,22.0
+67.76,Classic Cars,77.0,Finland,Small,2005.0,2.0,2.0,False,31.0
+79.22,Classic Cars,77.0,Sweden,Medium,2005.0,3.0,3.0,False,49.0
+73.92,Classic Cars,77.0,France,Medium,2005.0,4.0,3.0,False,61.0
+83.93,Classic Cars,77.0,Austria,Medium,2005.0,5.0,1.0,False,39.0
+100.0,Classic Cars,142.0,USA,Medium,2003.0,3.0,0.0,False,38.0
+100.0,Classic Cars,142.0,France,Medium,2003.0,5.0,3.0,True,31.0
+100.0,Classic Cars,142.0,France,Medium,2003.0,7.0,4.0,False,36.0
+100.0,Classic Cars,142.0,Australia,Medium,2003.0,9.0,3.0,False,25.0
+100.0,Classic Cars,142.0,Denmark,Medium,2003.0,10.0,4.0,False,48.0
+100.0,Classic Cars,142.0,Canada,Medium,2003.0,11.0,2.0,False,35.0
+100.0,Classic Cars,142.0,Norway,Medium,2003.0,11.0,2.0,False,21.0
+100.0,Classic Cars,142.0,USA,Large,2003.0,11.0,3.0,False,47.0
+100.0,Classic Cars,142.0,USA,Medium,2003.0,12.0,1.0,False,38.0
+100.0,Classic Cars,142.0,Spain,Medium,2004.0,1.0,4.0,False,41.0
+100.0,Classic Cars,142.0,USA,Medium,2004.0,2.0,3.0,False,24.0
+100.0,Classic Cars,142.0,Japan,Medium,2004.0,4.0,1.0,False,37.0
+100.0,Classic Cars,142.0,UK,Medium,2004.0,6.0,1.0,False,33.0
+100.0,Classic Cars,142.0,Italy,Medium,2004.0,7.0,1.0,False,49.0
+100.0,Classic Cars,142.0,USA,Medium,2004.0,8.0,4.0,False,29.0
+100.0,Classic Cars,142.0,Switzerland,Medium,2004.0,8.0,0.0,False,24.0
+100.0,Classic Cars,142.0,Norway,Large,2003.0,10.0,6.0,False,47.0
+100.0,Classic Cars,142.0,Germany,Medium,2004.0,10.0,5.0,False,24.0
+100.0,Classic Cars,142.0,USA,Medium,2004.0,11.0,3.0,False,25.0
+32.47,Classic Cars,142.0,USA,Small,2004.0,11.0,2.0,False,30.0
+100.0,Classic Cars,142.0,Australia,Medium,2004.0,11.0,2.0,False,22.0
+64.69,Classic Cars,142.0,France,Small,2004.0,12.0,3.0,False,27.0
+100.0,Classic Cars,142.0,Belgium,Medium,2005.0,1.0,0.0,False,34.0
+100.0,Classic Cars,142.0,Finland,Medium,2005.0,2.0,2.0,False,36.0
+43.05,Classic Cars,142.0,USA,Small,2005.0,3.0,4.0,False,34.0
+100.0,Classic Cars,142.0,Denmark,Large,2005.0,4.0,4.0,False,48.0
+100.0,Classic Cars,142.0,Austria,Medium,2005.0,5.0,1.0,False,34.0
+100.0,Classic Cars,163.0,Spain,Medium,2003.0,1.0,4.0,False,24.0
+100.0,Classic Cars,163.0,USA,Large,2003.0,4.0,4.0,False,46.0
+100.0,Classic Cars,163.0,USA,Large,2003.0,6.0,1.0,False,45.0
+100.0,Classic Cars,163.0,Finland,Medium,2003.0,8.0,4.0,False,39.0
+100.0,Classic Cars,163.0,Finland,Large,2003.0,9.0,6.0,False,43.0
+100.0,Classic Cars,163.0,Singapore,Medium,2003.0,10.0,2.0,False,29.0
+100.0,Classic Cars,163.0,Italy,Medium,2003.0,11.0,3.0,False,20.0
+100.0,Classic Cars,163.0,Spain,Large,2003.0,11.0,4.0,False,46.0
+100.0,Classic Cars,163.0,USA,Medium,2003.0,11.0,1.0,False,27.0
+100.0,Classic Cars,163.0,USA,Large,2003.0,12.0,1.0,False,44.0
+100.0,Classic Cars,163.0,USA,Large,2004.0,2.0,1.0,False,43.0
+100.0,Classic Cars,163.0,Germany,Large,2004.0,3.0,0.0,False,49.0
+100.0,Classic Cars,163.0,Spain,Medium,2004.0,5.0,2.0,False,40.0
+100.0,Classic Cars,163.0,Singapore,Medium,2004.0,6.0,1.0,False,30.0
+100.0,Classic Cars,163.0,USA,Large,2004.0,7.0,1.0,False,50.0
+100.0,Classic Cars,163.0,USA,Medium,2004.0,8.0,4.0,False,23.0
+100.0,Classic Cars,163.0,USA,Medium,2004.0,9.0,2.0,False,26.0
+100.0,Classic Cars,163.0,USA,Medium,2004.0,10.0,2.0,False,27.0
+100.0,Classic Cars,163.0,Denmark,Medium,2004.0,10.0,4.0,False,42.0
+100.0,Classic Cars,163.0,USA,Large,2004.0,11.0,4.0,False,47.0
+100.0,Classic Cars,163.0,France,Large,2004.0,11.0,5.0,False,49.0
+100.0,Classic Cars,163.0,USA,Medium,2004.0,12.0,2.0,False,38.0
+100.0,Classic Cars,163.0,Spain,Small,2004.0,12.0,4.0,False,20.0
+100.0,Classic Cars,163.0,USA,Small,2005.0,1.0,6.0,False,25.0
+88.0,Classic Cars,163.0,USA,Small,2005.0,2.0,3.0,False,25.0
+100.0,Classic Cars,163.0,Spain,Medium,2005.0,5.0,1.0,False,41.0
+100.0,Classic Cars,163.0,France,Medium,2005.0,5.0,1.0,False,28.0
+67.8,Vintage Cars,60.0,USA,Medium,2003.0,1.0,0.0,False,50.0
+50.25,Vintage Cars,60.0,UK,Small,2003.0,3.0,1.0,False,32.0
+53.88,Vintage Cars,60.0,USA,Small,2003.0,5.0,2.0,False,42.0
+62.36,Vintage Cars,60.0,USA,Small,2003.0,9.0,4.0,False,24.0
+69.62,Vintage Cars,60.0,USA,Small,2003.0,10.0,5.0,False,27.0
+57.51,Vintage Cars,60.0,Italy,Small,2003.0,11.0,2.0,False,26.0
+61.15,Vintage Cars,60.0,USA,Small,2003.0,11.0,2.0,False,38.0
+59.33,Vintage Cars,60.0,Australia,Small,2003.0,11.0,4.0,False,42.0
+71.44,Vintage Cars,60.0,USA,Small,2003.0,12.0,1.0,False,23.0
+62.96,Vintage Cars,60.0,Spain,Small,2004.0,1.0,0.0,False,21.0
+50.85,Vintage Cars,60.0,France,Small,2004.0,3.0,1.0,False,28.0
+72.65,Vintage Cars,60.0,France,Small,2004.0,4.0,1.0,False,33.0
+62.96,Vintage Cars,60.0,Italy,Small,2004.0,8.0,1.0,False,25.0
+61.75,Vintage Cars,60.0,Singapore,Small,2004.0,9.0,2.0,False,28.0
+49.04,Vintage Cars,60.0,Spain,Small,2004.0,10.0,2.0,False,46.0
+61.15,Vintage Cars,60.0,USA,Small,2004.0,10.0,3.0,False,30.0
+84.25,Vintage Cars,60.0,UK,Medium,2004.0,11.0,2.0,False,38.0
+56.91,Vintage Cars,60.0,France,Small,2004.0,11.0,3.0,False,40.0
+100.0,Vintage Cars,60.0,USA,Large,2005.0,1.0,2.0,False,45.0
+49.3,Vintage Cars,60.0,Spain,Small,2005.0,2.0,3.0,False,27.0
+72.65,Vintage Cars,60.0,USA,Medium,2005.0,4.0,4.0,False,42.0
+63.57,Vintage Cars,60.0,Australia,Small,2005.0,5.0,6.0,False,36.0
+100.0,Trucks and Buses,122.0,Spain,Medium,2003.0,1.0,4.0,False,29.0
+100.0,Trucks and Buses,122.0,France,Medium,2003.0,4.0,1.0,False,39.0
+100.0,Trucks and Buses,122.0,USA,Medium,2003.0,6.0,1.0,False,45.0
+100.0,Trucks and Buses,122.0,Finland,Medium,2003.0,8.0,4.0,False,47.0
+100.0,Trucks and Buses,122.0,Finland,Medium,2003.0,9.0,6.0,False,49.0
+100.0,Trucks and Buses,122.0,Singapore,Medium,2003.0,10.0,2.0,False,46.0
+100.0,Trucks and Buses,122.0,UK,Medium,2003.0,11.0,3.0,False,48.0
+100.0,Trucks and Buses,122.0,Spain,Medium,2003.0,11.0,4.0,False,46.0
+100.0,Trucks and Buses,122.0,USA,Medium,2003.0,11.0,1.0,False,35.0
+100.0,Trucks and Buses,122.0,USA,Medium,2003.0,12.0,1.0,False,43.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,3.0,3.0,False,26.0
+98.18,Trucks and Buses,122.0,Spain,Small,2004.0,5.0,2.0,False,22.0
+99.41,Trucks and Buses,122.0,Singapore,Medium,2004.0,6.0,1.0,False,34.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,7.0,1.0,False,50.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,8.0,3.0,False,48.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,9.0,2.0,False,41.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,10.0,2.0,False,36.0
+100.0,Trucks and Buses,122.0,Canada,Medium,2004.0,10.0,4.0,False,29.0
+37.48,Trucks and Buses,122.0,USA,Small,2004.0,11.0,4.0,False,33.0
+100.0,Trucks and Buses,122.0,Sweden,Medium,2004.0,11.0,4.0,False,46.0
+100.0,Trucks and Buses,122.0,USA,Medium,2004.0,12.0,2.0,False,38.0
+36.42,Trucks and Buses,122.0,Spain,Small,2004.0,12.0,4.0,False,20.0
+100.0,Trucks and Buses,122.0,Australia,Medium,2005.0,1.0,3.0,False,22.0
+100.0,Trucks and Buses,122.0,Spain,Medium,2005.0,2.0,1.0,False,27.0
+98.18,Trucks and Buses,122.0,Spain,Medium,2005.0,5.0,1.0,False,56.0
+99.41,Trucks and Buses,122.0,France,Medium,2005.0,5.0,1.0,False,38.0
+100.0,Vintage Cars,127.0,Germany,Medium,2003.0,1.0,3.0,False,25.0
+100.0,Vintage Cars,127.0,UK,Medium,2003.0,3.0,1.0,False,33.0
+100.0,Vintage Cars,127.0,USA,Medium,2003.0,5.0,2.0,False,42.0
+100.0,Vintage Cars,127.0,USA,Medium,2003.0,9.0,4.0,False,33.0
+100.0,Vintage Cars,127.0,USA,Medium,2003.0,10.0,5.0,False,38.0
+100.0,Vintage Cars,127.0,Italy,Medium,2003.0,11.0,2.0,False,31.0
+100.0,Vintage Cars,127.0,USA,Small,2003.0,11.0,2.0,False,20.0
+100.0,Vintage Cars,127.0,Australia,Medium,2003.0,11.0,4.0,False,44.0
+100.0,Vintage Cars,127.0,USA,Medium,2003.0,12.0,1.0,False,26.0
+100.0,Vintage Cars,127.0,Spain,Medium,2004.0,1.0,0.0,False,27.0
+100.0,Vintage Cars,127.0,France,Large,2004.0,3.0,1.0,False,46.0
+100.0,Vintage Cars,127.0,USA,Medium,2004.0,4.0,0.0,False,47.0
+100.0,Vintage Cars,127.0,Italy,Medium,2004.0,8.0,1.0,False,37.0
+100.0,Vintage Cars,127.0,Singapore,Medium,2004.0,9.0,2.0,False,31.0
+100.0,Vintage Cars,127.0,France,Small,2004.0,10.0,0.0,False,24.0
+100.0,Vintage Cars,127.0,USA,Medium,2004.0,10.0,3.0,False,31.0
+100.0,Vintage Cars,127.0,USA,Large,2004.0,11.0,3.0,False,50.0
+64.69,Vintage Cars,127.0,UK,Small,2004.0,11.0,2.0,False,35.0
+100.0,Vintage Cars,127.0,France,Medium,2004.0,11.0,3.0,False,30.0
+100.0,Vintage Cars,127.0,France,Medium,2004.0,12.0,3.0,False,29.0
+100.0,Vintage Cars,127.0,USA,Medium,2005.0,1.0,2.0,False,27.0
+100.0,Vintage Cars,127.0,Spain,Medium,2005.0,2.0,2.0,False,40.0
+98.99,Vintage Cars,127.0,USA,Medium,2005.0,3.0,4.0,False,31.0
+100.0,Vintage Cars,127.0,Singapore,Small,2005.0,4.0,5.0,False,6.0
+100.0,Vintage Cars,127.0,Australia,Medium,2005.0,5.0,6.0,False,45.0
+54.09,Trucks and Buses,60.0,Norway,Small,2003.0,1.0,2.0,False,22.0
+68.67,Trucks and Buses,60.0,France,Medium,2003.0,4.0,1.0,False,45.0
+65.02,Trucks and Buses,60.0,Spain,Small,2003.0,5.0,2.0,False,43.0
+61.99,Trucks and Buses,60.0,USA,Small,2003.0,7.0,3.0,False,46.0
+69.28,Trucks and Buses,60.0,Finland,Small,2003.0,9.0,6.0,False,39.0
+71.1,Trucks and Buses,60.0,Singapore,Small,2003.0,10.0,2.0,False,31.0
+69.28,Trucks and Buses,60.0,UK,Small,2003.0,11.0,3.0,False,41.0
+60.16,Trucks and Buses,60.0,Spain,Small,2003.0,11.0,4.0,False,44.0
+70.49,Trucks and Buses,60.0,France,Medium,2003.0,11.0,1.0,False,45.0
+69.89,Trucks and Buses,60.0,USA,Small,2003.0,12.0,1.0,False,37.0
+61.38,Trucks and Buses,60.0,Singapore,Small,2004.0,2.0,2.0,False,35.0
+59.55,Trucks and Buses,60.0,USA,Small,2004.0,3.0,3.0,False,28.0
+61.99,Trucks and Buses,60.0,Spain,Small,2004.0,5.0,2.0,False,30.0
+49.22,Trucks and Buses,60.0,Singapore,Small,2004.0,6.0,1.0,False,30.0
+69.28,Trucks and Buses,60.0,USA,Small,2004.0,7.0,1.0,False,25.0
+57.73,Trucks and Buses,60.0,USA,Small,2004.0,8.0,3.0,False,29.0
+57.73,Trucks and Buses,60.0,Sweden,Small,2004.0,9.0,2.0,False,26.0
+53.48,Trucks and Buses,60.0,USA,Small,2004.0,10.0,2.0,False,41.0
+52.87,Trucks and Buses,60.0,Canada,Small,2004.0,10.0,4.0,False,34.0
+61.21,Trucks and Buses,60.0,USA,Small,2004.0,11.0,3.0,False,35.0
+61.38,Trucks and Buses,60.0,Sweden,Small,2004.0,11.0,4.0,False,34.0
+100.0,Trucks and Buses,60.0,Australia,Medium,2004.0,11.0,0.0,False,50.0
+61.99,Trucks and Buses,60.0,USA,Small,2004.0,12.0,4.0,False,41.0
+96.86,Trucks and Buses,60.0,Australia,Small,2005.0,1.0,3.0,False,22.0
+48.62,Trucks and Buses,60.0,USA,Small,2005.0,2.0,3.0,False,35.0
+38.5,Trucks and Buses,60.0,Australia,Small,2005.0,3.0,2.0,False,44.0
+61.99,Trucks and Buses,60.0,Spain,Small,2005.0,5.0,1.0,False,47.0
+49.22,Trucks and Buses,60.0,France,Small,2005.0,5.0,1.0,False,19.0
+90.39,Planes,84.0,Italy,Medium,2003.0,2.0,0.0,False,34.0
+71.81,Planes,84.0,Australia,Small,2003.0,4.0,1.0,False,29.0
+69.27,Planes,84.0,Spain,Medium,2003.0,6.0,4.0,False,49.0
+85.32,Planes,84.0,USA,Small,2003.0,8.0,0.0,False,30.0
+70.96,Planes,84.0,USA,Small,2003.0,10.0,1.0,False,21.0
+76.88,Planes,84.0,Japan,Medium,2004.0,1.0,0.0,True,50.0
+100.0,Planes,84.0,Australia,Medium,2004.0,2.0,4.0,False,47.0
+76.03,Planes,84.0,Canada,Small,2004.0,4.0,4.0,False,24.0
+98.84,Planes,84.0,USA,Small,2004.0,5.0,1.0,False,27.0
+86.17,Planes,84.0,USA,Small,2004.0,6.0,0.0,False,33.0
+90.39,Planes,84.0,France,Medium,2004.0,7.0,4.0,False,35.0
+71.81,Planes,84.0,Norway,Small,2004.0,8.0,5.0,False,31.0
+82.79,Planes,84.0,Ireland,Small,2004.0,9.0,3.0,False,25.0
+82.79,Planes,84.0,USA,Small,2004.0,10.0,4.0,False,27.0
+100.0,Planes,84.0,USA,Medium,2004.0,11.0,1.0,False,31.0
+100.0,Planes,84.0,Denmark,Medium,2004.0,11.0,2.0,False,45.0
+100.0,Planes,84.0,Japan,Small,2004.0,11.0,1.0,True,27.0
+100.0,Planes,84.0,USA,Medium,2004.0,12.0,5.0,False,27.0
+69.27,Planes,84.0,Australia,Small,2005.0,2.0,2.0,False,42.0
+74.77,Planes,84.0,Spain,Small,2005.0,3.0,1.0,False,21.0
+76.88,Planes,84.0,France,Small,2005.0,3.0,2.0,False,34.0
+76.03,Planes,84.0,USA,Medium,2005.0,4.0,6.0,False,42.0
+98.84,Planes,84.0,Italy,Small,2005.0,5.0,1.0,False,15.0
+70.87,Motorcycles,60.0,USA,Small,2003.0,2.0,0.0,False,29.0
+58.15,Motorcycles,60.0,Australia,Small,2003.0,4.0,1.0,False,46.0
+61.78,Motorcycles,60.0,France,Small,2003.0,7.0,1.0,False,30.0
+49.67,Motorcycles,60.0,USA,Small,2003.0,8.0,0.0,False,30.0
+51.48,Motorcycles,60.0,USA,Small,2003.0,10.0,4.0,False,42.0
+61.18,Motorcycles,60.0,USA,Small,2003.0,10.0,1.0,False,46.0
+64.2,Motorcycles,60.0,France,Small,2003.0,11.0,1.0,True,25.0
+65.42,Motorcycles,60.0,Norway,Small,2003.0,11.0,1.0,False,32.0
+64.81,Motorcycles,60.0,USA,Small,2003.0,12.0,0.0,False,30.0
+49.67,Motorcycles,60.0,Japan,Small,2004.0,1.0,0.0,True,40.0
+60.57,Motorcycles,60.0,Australia,Small,2004.0,2.0,4.0,False,28.0
+55.72,Motorcycles,60.0,USA,Small,2004.0,4.0,5.0,False,23.0
+61.18,Motorcycles,60.0,USA,Small,2004.0,5.0,1.0,False,29.0
+58.75,Motorcycles,60.0,USA,Small,2004.0,6.0,0.0,False,34.0
+63.6,Motorcycles,60.0,France,Small,2004.0,7.0,4.0,False,37.0
+49.06,Motorcycles,60.0,USA,Small,2004.0,8.0,4.0,False,20.0
+48.46,Motorcycles,60.0,France,Small,2004.0,9.0,0.0,False,32.0
+52.09,Motorcycles,60.0,USA,Small,2004.0,10.0,4.0,False,34.0
+52.7,Motorcycles,60.0,USA,Small,2004.0,11.0,1.0,False,42.0
+100.0,Motorcycles,60.0,USA,Medium,2004.0,11.0,0.0,False,38.0
+62.16,Motorcycles,60.0,Japan,Small,2004.0,11.0,1.0,True,30.0
+49.67,Motorcycles,60.0,USA,Small,2005.0,1.0,2.0,False,23.0
+53.3,Motorcycles,60.0,Australia,Small,2005.0,2.0,2.0,False,22.0
+100.0,Motorcycles,60.0,Sweden,Medium,2005.0,3.0,3.0,False,39.0
+55.72,Motorcycles,60.0,France,Medium,2005.0,4.0,3.0,False,55.0
+61.18,Motorcycles,60.0,Spain,Small,2005.0,5.0,4.0,False,36.0
+100.0,Vintage Cars,168.0,Germany,Medium,2003.0,1.0,3.0,False,26.0
+100.0,Vintage Cars,168.0,UK,Medium,2003.0,3.0,1.0,False,31.0
+100.0,Vintage Cars,168.0,Australia,Medium,2003.0,5.0,2.0,False,34.0
+100.0,Vintage Cars,168.0,Australia,Large,2003.0,7.0,2.0,False,41.0
+100.0,Vintage Cars,168.0,USA,Medium,2003.0,9.0,4.0,False,23.0
+100.0,Vintage Cars,168.0,USA,Large,2003.0,10.0,5.0,False,48.0
+100.0,Vintage Cars,168.0,Italy,Medium,2003.0,11.0,2.0,False,22.0
+100.0,Vintage Cars,168.0,USA,Medium,2003.0,11.0,2.0,False,21.0
+100.0,Vintage Cars,168.0,Australia,Medium,2003.0,11.0,4.0,False,22.0
+100.0,Vintage Cars,168.0,Spain,Large,2003.0,12.0,2.0,False,40.0
+100.0,Vintage Cars,168.0,Spain,Large,2004.0,1.0,0.0,False,50.0
+100.0,Vintage Cars,168.0,France,Medium,2004.0,3.0,1.0,False,29.0
+100.0,Vintage Cars,168.0,Spain,Medium,2004.0,4.0,3.0,False,43.0
+100.0,Vintage Cars,168.0,France,Medium,2004.0,6.0,4.0,False,24.0
+100.0,Vintage Cars,168.0,Italy,Medium,2004.0,8.0,1.0,False,22.0
+100.0,Vintage Cars,168.0,Norway,Large,2004.0,9.0,4.0,False,43.0
+100.0,Vintage Cars,168.0,France,Medium,2004.0,10.0,0.0,False,20.0
+100.0,Vintage Cars,168.0,USA,Medium,2004.0,10.0,3.0,False,25.0
+100.0,Vintage Cars,168.0,USA,Medium,2004.0,11.0,3.0,False,36.0
+52.67,Vintage Cars,168.0,UK,Small,2004.0,11.0,2.0,False,24.0
+100.0,Vintage Cars,168.0,Australia,Medium,2004.0,11.0,0.0,False,21.0
+100.0,Vintage Cars,168.0,France,Medium,2004.0,12.0,3.0,False,30.0
+94.79,Vintage Cars,168.0,USA,Medium,2005.0,1.0,2.0,False,32.0
+47.18,Vintage Cars,168.0,Spain,Small,2005.0,2.0,2.0,False,21.0
+78.11,Vintage Cars,168.0,USA,Small,2005.0,3.0,4.0,False,26.0
+100.0,Vintage Cars,168.0,USA,Medium,2005.0,5.0,6.0,False,35.0
+100.0,Classic Cars,132.0,USA,Medium,2003.0,3.0,0.0,False,26.0
+100.0,Classic Cars,132.0,France,Medium,2003.0,5.0,1.0,False,46.0
+100.0,Classic Cars,132.0,France,Medium,2003.0,7.0,3.0,False,37.0
+100.0,Classic Cars,132.0,Australia,Medium,2003.0,9.0,3.0,False,27.0
+100.0,Classic Cars,132.0,Denmark,Medium,2003.0,10.0,4.0,False,23.0
+100.0,Classic Cars,132.0,USA,Medium,2003.0,11.0,2.0,False,39.0
+100.0,Classic Cars,132.0,Norway,Medium,2003.0,11.0,2.0,False,27.0
+100.0,Classic Cars,132.0,USA,Medium,2003.0,11.0,3.0,False,38.0
+100.0,Classic Cars,132.0,USA,Medium,2003.0,12.0,1.0,False,27.0
+100.0,Classic Cars,132.0,Spain,Medium,2004.0,1.0,4.0,False,40.0
+100.0,Classic Cars,132.0,USA,Medium,2004.0,2.0,3.0,False,24.0
+100.0,Classic Cars,132.0,France,Medium,2004.0,4.0,1.0,False,44.0
+100.0,Classic Cars,132.0,UK,Medium,2004.0,6.0,1.0,False,37.0
+100.0,Classic Cars,132.0,Italy,Small,2004.0,7.0,1.0,False,20.0
+100.0,Classic Cars,132.0,USA,Medium,2004.0,8.0,4.0,False,39.0
+100.0,Classic Cars,132.0,Switzerland,Medium,2004.0,8.0,0.0,False,44.0
+100.0,Classic Cars,132.0,Norway,Medium,2003.0,10.0,6.0,False,22.0
+100.0,Classic Cars,132.0,Spain,Medium,2004.0,10.0,5.0,False,43.0
+100.0,Classic Cars,132.0,USA,Small,2004.0,11.0,3.0,False,27.0
+64.9,Classic Cars,132.0,USA,Small,2004.0,11.0,2.0,False,26.0
+52.32,Classic Cars,132.0,France,Small,2004.0,11.0,2.0,False,25.0
+100.0,Classic Cars,132.0,Belgium,Medium,2005.0,1.0,0.0,False,49.0
+100.0,Classic Cars,132.0,Spain,Medium,2005.0,2.0,3.0,False,29.0
+100.0,Classic Cars,132.0,USA,Medium,2005.0,4.0,4.0,False,41.0
+100.0,Classic Cars,132.0,Austria,Large,2005.0,5.0,1.0,False,55.0
+83.07,Vintage Cars,101.0,Norway,Small,2003.0,1.0,2.0,False,27.0
+100.0,Vintage Cars,101.0,Sweden,Small,2003.0,3.0,0.0,False,23.0
+90.17,Vintage Cars,101.0,Spain,Small,2003.0,5.0,2.0,False,31.0
+100.0,Vintage Cars,101.0,Australia,Medium,2003.0,7.0,2.0,False,46.0
+91.18,Vintage Cars,101.0,Singapore,Medium,2003.0,9.0,4.0,False,47.0
+100.0,Vintage Cars,101.0,USA,Medium,2003.0,10.0,0.0,False,31.0
+100.0,Vintage Cars,101.0,Australia,Medium,2003.0,11.0,3.0,False,46.0
+89.15,Vintage Cars,101.0,USA,Medium,2003.0,11.0,3.0,False,37.0
+93.21,Vintage Cars,101.0,Australia,Small,2003.0,11.0,4.0,False,28.0
+90.17,Vintage Cars,101.0,Canada,Medium,2003.0,12.0,4.0,False,37.0
+100.0,Vintage Cars,101.0,USA,Medium,2004.0,1.0,3.0,False,49.0
+100.0,Vintage Cars,101.0,USA,Small,2004.0,3.0,2.0,False,24.0
+100.0,Vintage Cars,101.0,Spain,Medium,2004.0,4.0,3.0,False,30.0
+88.14,Vintage Cars,101.0,USA,Medium,2004.0,6.0,0.0,False,50.0
+96.24,Vintage Cars,101.0,Australia,Small,2004.0,7.0,0.0,False,31.0
+100.0,Vintage Cars,101.0,Italy,Medium,2004.0,8.0,1.0,False,46.0
+100.0,Vintage Cars,101.0,Sweden,Medium,2004.0,9.0,2.0,False,47.0
+100.0,Vintage Cars,101.0,France,Medium,2004.0,10.0,0.0,False,46.0
+100.0,Vintage Cars,101.0,USA,Medium,2004.0,10.0,3.0,False,37.0
+100.0,Vintage Cars,101.0,USA,Medium,2004.0,11.0,3.0,False,33.0
+90.17,Vintage Cars,101.0,USA,Small,2004.0,11.0,3.0,False,31.0
+100.0,Vintage Cars,101.0,Australia,Medium,2004.0,11.0,0.0,False,48.0
+87.13,Vintage Cars,101.0,USA,Medium,2004.0,12.0,4.0,False,41.0
+100.0,Vintage Cars,101.0,USA,Medium,2005.0,1.0,3.0,False,42.0
+100.0,Vintage Cars,101.0,USA,Medium,2005.0,2.0,3.0,False,41.0
+45.25,Vintage Cars,101.0,Australia,Small,2005.0,3.0,2.0,False,32.0
+88.14,Vintage Cars,101.0,Belgium,Small,2005.0,5.0,0.0,False,10.0
+57.46,Vintage Cars,62.0,Norway,Small,2003.0,1.0,2.0,False,35.0
+64.33,Vintage Cars,62.0,USA,Small,2003.0,3.0,1.0,False,28.0
+73.7,Vintage Cars,62.0,Spain,Medium,2003.0,5.0,2.0,False,46.0
+71.2,Vintage Cars,62.0,Australia,Small,2003.0,7.0,2.0,False,20.0
+49.97,Vintage Cars,62.0,Singapore,Small,2003.0,9.0,4.0,False,30.0
+69.96,Vintage Cars,62.0,USA,Medium,2003.0,10.0,0.0,False,48.0
+53.72,Vintage Cars,62.0,Italy,Small,2003.0,11.0,2.0,False,28.0
+68.08,Vintage Cars,62.0,USA,Small,2003.0,11.0,3.0,False,39.0
+51.84,Vintage Cars,62.0,Australia,Small,2003.0,11.0,4.0,False,24.0
+67.46,Vintage Cars,62.0,Canada,Small,2003.0,12.0,4.0,False,28.0
+58.71,Vintage Cars,62.0,USA,Small,2004.0,1.0,3.0,False,31.0
+63.71,Vintage Cars,62.0,USA,Small,2004.0,3.0,2.0,False,45.0
+58.09,Vintage Cars,62.0,Spain,Small,2004.0,4.0,3.0,False,24.0
+53.72,Vintage Cars,62.0,USA,Small,2004.0,6.0,0.0,False,49.0
+63.08,Vintage Cars,62.0,Austria,Small,2004.0,7.0,4.0,False,32.0
+68.71,Vintage Cars,62.0,Italy,Small,2004.0,8.0,1.0,False,43.0
+50.59,Vintage Cars,62.0,Sweden,Small,2004.0,9.0,2.0,False,37.0
+64.96,Vintage Cars,62.0,France,Small,2004.0,10.0,0.0,False,24.0
+53.72,Vintage Cars,62.0,USA,Small,2004.0,10.0,3.0,False,35.0
+29.87,Vintage Cars,62.0,USA,Small,2004.0,11.0,3.0,False,41.0
+100.0,Vintage Cars,62.0,UK,Small,2004.0,11.0,2.0,False,26.0
+64.96,Vintage Cars,62.0,Australia,Small,2004.0,11.0,0.0,False,34.0
+70.58,Vintage Cars,62.0,USA,Medium,2004.0,12.0,4.0,False,49.0
+44.21,Vintage Cars,62.0,USA,Small,2005.0,1.0,3.0,False,28.0
+68.08,Vintage Cars,62.0,USA,Small,2005.0,2.0,3.0,False,40.0
+59.96,Vintage Cars,62.0,Austria,Small,2005.0,3.0,3.0,False,37.0
+53.72,Vintage Cars,62.0,Belgium,Small,2005.0,5.0,0.0,False,31.0
+83.44,Ships,86.0,Italy,Medium,2003.0,2.0,0.0,False,41.0
+89.46,Ships,86.0,Austria,Small,2003.0,4.0,0.0,False,21.0
+96.34,Ships,86.0,USA,Medium,2003.0,6.0,0.0,False,40.0
+74.84,Ships,86.0,USA,Medium,2003.0,8.0,6.0,False,46.0
+79.14,Ships,86.0,Finland,Medium,2003.0,10.0,0.0,False,44.0
+73.12,Ships,86.0,Sweden,Medium,2003.0,10.0,3.0,False,46.0
+81.72,Ships,86.0,France,Medium,2003.0,11.0,5.0,False,41.0
+89.46,Ships,86.0,UK,Small,2003.0,11.0,4.0,False,32.0
+87.74,Ships,86.0,Spain,Medium,2003.0,11.0,2.0,False,46.0
+100.0,Ships,86.0,USA,Small,2004.0,1.0,4.0,False,28.0
+94.62,Ships,86.0,USA,Medium,2004.0,2.0,3.0,False,49.0
+73.98,Ships,86.0,USA,Small,2004.0,5.0,4.0,False,21.0
+84.3,Ships,86.0,Spain,Small,2004.0,6.0,3.0,False,32.0
+98.06,Ships,86.0,Belgium,Medium,2004.0,7.0,2.0,True,34.0
+98.06,Ships,86.0,Canada,Small,2004.0,8.0,4.0,False,21.0
+96.34,Ships,86.0,Germany,Small,2004.0,9.0,2.0,False,21.0
+83.44,Ships,86.0,USA,Small,2004.0,10.0,3.0,False,31.0
+94.62,Ships,86.0,UK,Small,2004.0,11.0,0.0,False,21.0
+45.86,Ships,86.0,Denmark,Small,2004.0,11.0,2.0,False,25.0
+82.58,Ships,86.0,Belgium,Small,2004.0,11.0,0.0,False,28.0
+64.97,Ships,86.0,Spain,Small,2004.0,12.0,3.0,False,43.0
+86.74,Ships,86.0,Finland,Small,2005.0,1.0,0.0,False,22.0
+93.01,Ships,86.0,Spain,Medium,2005.0,3.0,1.0,False,37.0
+72.26,Ships,86.0,France,Small,2005.0,3.0,2.0,False,28.0
+74.84,Ships,86.0,USA,Small,2005.0,4.0,4.0,False,30.0
+73.98,Ships,86.0,USA,Medium,2005.0,5.0,4.0,False,44.0
+100.0,Vintage Cars,104.0,Norway,Small,2003.0,1.0,2.0,False,25.0
+100.0,Vintage Cars,104.0,USA,Medium,2003.0,3.0,1.0,False,43.0
+97.39,Vintage Cars,104.0,Spain,Small,2003.0,5.0,2.0,False,30.0
+90.06,Vintage Cars,104.0,Australia,Small,2003.0,7.0,2.0,False,20.0
+100.0,Vintage Cars,104.0,Singapore,Small,2003.0,9.0,4.0,False,26.0
+100.0,Vintage Cars,104.0,USA,Medium,2003.0,10.0,0.0,False,40.0
+89.01,Vintage Cars,104.0,Italy,Small,2003.0,11.0,2.0,False,31.0
+100.0,Vintage Cars,104.0,USA,Small,2003.0,11.0,3.0,False,22.0
+100.0,Vintage Cars,104.0,Australia,Small,2003.0,11.0,4.0,False,23.0
+100.0,Vintage Cars,104.0,Canada,Medium,2003.0,12.0,4.0,False,30.0
+100.0,Vintage Cars,104.0,USA,Medium,2004.0,1.0,3.0,False,49.0
+100.0,Vintage Cars,104.0,USA,Medium,2004.0,3.0,2.0,False,31.0
+100.0,Vintage Cars,104.0,Spain,Medium,2004.0,4.0,3.0,False,29.0
+84.82,Vintage Cars,104.0,USA,Medium,2004.0,6.0,0.0,False,37.0
+100.0,Vintage Cars,104.0,Australia,Medium,2004.0,7.0,0.0,False,38.0
+100.0,Vintage Cars,104.0,Italy,Medium,2004.0,8.0,1.0,False,29.0
+100.0,Vintage Cars,104.0,Sweden,Small,2004.0,9.0,2.0,False,23.0
+85.87,Vintage Cars,104.0,France,Small,2004.0,10.0,0.0,False,26.0
+100.0,Vintage Cars,104.0,USA,Medium,2004.0,10.0,3.0,False,38.0
+47.04,Vintage Cars,104.0,USA,Small,2004.0,11.0,3.0,False,48.0
+39.8,Vintage Cars,104.0,UK,Small,2004.0,11.0,2.0,False,40.0
+100.0,Vintage Cars,104.0,Australia,Medium,2004.0,11.0,0.0,False,45.0
+100.0,Vintage Cars,104.0,USA,Medium,2004.0,12.0,4.0,False,44.0
+94.22,Vintage Cars,104.0,USA,Small,2005.0,1.0,3.0,False,21.0
+100.0,Vintage Cars,104.0,USA,Medium,2005.0,2.0,3.0,False,35.0
+86.92,Vintage Cars,104.0,Austria,Small,2005.0,3.0,3.0,False,29.0
+84.82,Vintage Cars,104.0,Belgium,Small,2005.0,5.0,0.0,False,21.0
+100.0,Vintage Cars,136.0,Denmark,Medium,2003.0,2.0,1.0,False,22.0
+100.0,Vintage Cars,136.0,Singapore,Medium,2003.0,4.0,2.0,False,26.0
+100.0,Vintage Cars,136.0,Spain,Medium,2003.0,6.0,4.0,False,41.0
+100.0,Vintage Cars,136.0,USA,Medium,2003.0,8.0,4.0,False,47.0
+100.0,Vintage Cars,136.0,Spain,Medium,2003.0,9.0,6.0,False,31.0
+100.0,Vintage Cars,136.0,USA,Medium,2003.0,10.0,1.0,False,43.0
+100.0,Vintage Cars,136.0,Spain,Medium,2003.0,11.0,4.0,False,23.0
+100.0,Vintage Cars,136.0,USA,Medium,2003.0,11.0,4.0,False,28.0
+100.0,Vintage Cars,136.0,USA,Medium,2003.0,11.0,2.0,False,49.0
+100.0,Vintage Cars,136.0,France,Small,2004.0,1.0,4.0,False,24.0
+100.0,Vintage Cars,136.0,Belgium,Medium,2004.0,2.0,2.0,False,33.0
+100.0,Vintage Cars,136.0,UK,Medium,2004.0,3.0,5.0,False,22.0
+100.0,Vintage Cars,136.0,USA,Medium,2004.0,5.0,4.0,False,32.0
+100.0,Vintage Cars,136.0,Belgium,Medium,2004.0,7.0,2.0,True,40.0
+100.0,Vintage Cars,136.0,USA,Medium,2004.0,8.0,4.0,False,43.0
+100.0,Vintage Cars,136.0,Italy,Small,2004.0,9.0,3.0,False,24.0
+100.0,Vintage Cars,136.0,UK,Medium,2004.0,10.0,3.0,False,32.0
+100.0,Vintage Cars,136.0,Denmark,Small,2004.0,10.0,4.0,False,20.0
+69.12,Vintage Cars,136.0,Norway,Small,2004.0,11.0,4.0,False,24.0
+100.0,Vintage Cars,136.0,France,Medium,2004.0,11.0,5.0,False,48.0
+100.0,Vintage Cars,136.0,Spain,Medium,2004.0,12.0,3.0,False,44.0
+100.0,Vintage Cars,136.0,Japan,Medium,2005.0,1.0,2.0,False,28.0
+61.52,Vintage Cars,136.0,Spain,Small,2005.0,2.0,1.0,False,24.0
+100.0,Vintage Cars,136.0,USA,Medium,2005.0,3.0,2.0,False,33.0
+100.0,Vintage Cars,136.0,USA,Medium,2005.0,5.0,4.0,False,41.0
+100.0,Classic Cars,169.0,Spain,Medium,2003.0,1.0,4.0,False,23.0
+100.0,Classic Cars,169.0,USA,Large,2003.0,3.0,0.0,False,46.0
+100.0,Classic Cars,169.0,France,Large,2003.0,4.0,1.0,False,48.0
+100.0,Classic Cars,169.0,France,Medium,2003.0,5.0,3.0,True,25.0
+100.0,Classic Cars,169.0,USA,Medium,2003.0,6.0,1.0,False,22.0
+100.0,Classic Cars,169.0,France,Large,2003.0,7.0,4.0,False,41.0
+100.0,Classic Cars,169.0,Finland,Medium,2003.0,8.0,4.0,False,34.0
+100.0,Classic Cars,169.0,Australia,Medium,2003.0,9.0,3.0,False,32.0
+100.0,Classic Cars,169.0,Finland,Medium,2003.0,9.0,6.0,False,21.0
+100.0,Classic Cars,169.0,USA,Medium,2003.0,10.0,5.0,False,20.0
+100.0,Classic Cars,169.0,Singapore,Large,2003.0,10.0,2.0,False,47.0
+100.0,Classic Cars,169.0,Canada,Medium,2003.0,11.0,2.0,False,39.0
+100.0,Classic Cars,169.0,UK,Medium,2003.0,11.0,3.0,False,29.0
+100.0,Classic Cars,169.0,Norway,Medium,2003.0,11.0,2.0,False,45.0
+100.0,Classic Cars,169.0,Spain,Medium,2003.0,11.0,4.0,False,28.0
+100.0,Classic Cars,169.0,USA,Medium,2003.0,11.0,3.0,False,26.0
+100.0,Classic Cars,169.0,USA,Large,2003.0,11.0,1.0,False,50.0
+100.0,Classic Cars,169.0,Spain,Large,2003.0,12.0,1.0,False,48.0
+100.0,Classic Cars,169.0,USA,Medium,2003.0,12.0,1.0,False,25.0
+100.0,Classic Cars,169.0,Spain,Medium,2004.0,1.0,4.0,False,40.0
+100.0,Classic Cars,169.0,Switzerland,Medium,2004.0,2.0,6.0,False,43.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,3.0,3.0,False,22.0
+100.0,Classic Cars,169.0,Finland,Large,2004.0,4.0,0.0,True,47.0
+100.0,Classic Cars,169.0,Spain,Large,2004.0,5.0,2.0,False,36.0
+100.0,Classic Cars,169.0,UK,Medium,2004.0,6.0,1.0,False,40.0
+100.0,Classic Cars,169.0,Singapore,Medium,2004.0,6.0,1.0,False,27.0
+100.0,Classic Cars,169.0,Italy,Medium,2004.0,7.0,1.0,False,29.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,7.0,1.0,False,20.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,8.0,4.0,False,42.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,8.0,3.0,False,25.0
+100.0,Classic Cars,169.0,Switzerland,Medium,2004.0,8.0,0.0,False,36.0
+100.0,Classic Cars,169.0,USA,Small,2004.0,9.0,2.0,False,21.0
+100.0,Classic Cars,169.0,Norway,Medium,2003.0,10.0,6.0,False,23.0
+100.0,Classic Cars,169.0,USA,Large,2004.0,10.0,2.0,False,37.0
+100.0,Classic Cars,169.0,Germany,Large,2004.0,10.0,5.0,False,48.0
+100.0,Classic Cars,169.0,Canada,Medium,2004.0,10.0,4.0,False,25.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,11.0,3.0,False,33.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,11.0,4.0,False,27.0
+100.0,Classic Cars,169.0,USA,Medium,2004.0,11.0,2.0,False,27.0
+100.0,Classic Cars,169.0,Sweden,Small,2004.0,11.0,4.0,False,20.0
+100.0,Classic Cars,169.0,Australia,Medium,2004.0,11.0,2.0,False,30.0
+100.0,Classic Cars,169.0,USA,Large,2004.0,12.0,2.0,False,48.0
+93.49,Classic Cars,169.0,Spain,Small,2004.0,12.0,4.0,False,32.0
+100.0,Classic Cars,169.0,Belgium,Medium,2005.0,1.0,0.0,False,34.0
+56.85,Classic Cars,169.0,Australia,Small,2005.0,1.0,3.0,False,27.0
+100.0,Classic Cars,169.0,Finland,Large,2005.0,2.0,2.0,False,39.0
+100.0,Classic Cars,169.0,Spain,Medium,2005.0,2.0,1.0,False,47.0
+100.0,Classic Cars,169.0,Spain,Medium,2005.0,3.0,1.0,False,22.0
+100.0,Classic Cars,169.0,France,Large,2005.0,4.0,3.0,False,55.0
+100.0,Classic Cars,169.0,Spain,Large,2005.0,5.0,1.0,False,60.0
+100.0,Classic Cars,169.0,Austria,Medium,2005.0,5.0,1.0,False,35.0
+100.0,Classic Cars,169.0,France,Medium,2005.0,5.0,1.0,False,28.0
+100.0,Trains,100.0,Denmark,Medium,2003.0,2.0,1.0,False,38.0
+95.8,Trains,100.0,Singapore,Small,2003.0,4.0,2.0,False,21.0
+100.0,Trains,100.0,Spain,Medium,2003.0,6.0,4.0,False,41.0
+97.81,Trains,100.0,USA,Small,2003.0,8.0,4.0,False,22.0
+88.74,Trains,100.0,Spain,Small,2003.0,9.0,6.0,False,29.0
+100.0,Trains,100.0,Singapore,Medium,2003.0,10.0,2.0,False,50.0
+100.0,Trains,100.0,Spain,Medium,2003.0,11.0,4.0,False,29.0
+80.67,Trains,100.0,USA,Medium,2003.0,11.0,4.0,False,49.0
+100.0,Trains,100.0,USA,Medium,2003.0,11.0,2.0,False,35.0
+100.0,Trains,100.0,France,Medium,2004.0,1.0,4.0,False,48.0
+80.67,Trains,100.0,Belgium,Small,2004.0,2.0,2.0,False,23.0
+95.8,Trains,100.0,UK,Medium,2004.0,3.0,5.0,False,48.0
+100.0,Trains,100.0,USA,Medium,2004.0,5.0,4.0,False,42.0
+100.0,Trains,100.0,Belgium,Medium,2004.0,7.0,2.0,True,47.0
+100.0,Trains,100.0,USA,Medium,2004.0,8.0,4.0,False,36.0
+100.0,Trains,100.0,Italy,Small,2004.0,9.0,3.0,False,22.0
+91.76,Trains,100.0,UK,Medium,2004.0,10.0,3.0,False,40.0
+100.0,Trains,100.0,Denmark,Small,2004.0,10.0,4.0,False,23.0
+100.0,Trains,100.0,Sweden,Medium,2004.0,11.0,1.0,False,32.0
+100.0,Trains,100.0,France,Small,2004.0,11.0,5.0,False,21.0
+93.04,Trains,100.0,Spain,Medium,2004.0,12.0,3.0,False,41.0
+84.71,Trains,100.0,Japan,Small,2005.0,1.0,2.0,False,25.0
+100.0,Trains,100.0,Spain,Medium,2005.0,2.0,1.0,False,26.0
+89.75,Trains,100.0,USA,Small,2005.0,3.0,2.0,False,24.0
+100.0,Trains,100.0,USA,Medium,2005.0,5.0,4.0,False,48.0
+68.35,Classic Cars,80.0,Philippines,Small,2003.0,3.0,0.0,False,26.0
+73.17,Classic Cars,80.0,France,Small,2003.0,5.0,3.0,True,21.0
+78.0,Classic Cars,80.0,USA,Medium,2003.0,7.0,2.0,False,45.0
+86.04,Classic Cars,80.0,USA,Medium,2003.0,9.0,4.0,False,36.0
+81.21,Classic Cars,80.0,USA,Small,2003.0,10.0,4.0,False,21.0
+70.76,Classic Cars,80.0,Australia,Small,2003.0,11.0,1.0,False,32.0
+82.82,Classic Cars,80.0,Norway,Small,2003.0,11.0,2.0,False,30.0
+94.88,Classic Cars,80.0,Germany,Medium,2003.0,11.0,3.0,False,36.0
+86.04,Classic Cars,80.0,Spain,Small,2003.0,12.0,1.0,False,33.0
+78.0,Classic Cars,80.0,France,Small,2004.0,1.0,3.0,False,35.0
+95.69,Classic Cars,80.0,Switzerland,Medium,2004.0,2.0,6.0,False,37.0
+73.17,Classic Cars,80.0,Denmark,Small,2004.0,4.0,4.0,False,41.0
+76.39,Classic Cars,80.0,France,Small,2004.0,5.0,2.0,False,20.0
+86.84,Classic Cars,80.0,Australia,Medium,2004.0,7.0,4.0,False,45.0
+69.96,Classic Cars,80.0,USA,Small,2004.0,8.0,0.0,False,38.0
+70.76,Classic Cars,80.0,Switzerland,Medium,2004.0,8.0,0.0,False,43.0
+78.8,Classic Cars,80.0,Germany,Medium,2003.0,10.0,5.0,False,49.0
+80.41,Classic Cars,80.0,Germany,Small,2004.0,10.0,5.0,False,27.0
+73.98,Classic Cars,80.0,USA,Medium,2004.0,11.0,2.0,False,46.0
+59.1,Classic Cars,80.0,USA,Small,2004.0,11.0,0.0,False,38.0
+66.74,Classic Cars,80.0,Australia,Small,2004.0,11.0,2.0,False,25.0
+60.3,Classic Cars,80.0,Finland,Small,2005.0,1.0,3.0,False,46.0
+100.0,Classic Cars,80.0,Spain,Small,2005.0,2.0,3.0,False,22.0
+100.0,Classic Cars,80.0,USA,Medium,2005.0,3.0,4.0,False,40.0
+100.0,Vintage Cars,99.0,Norway,Medium,2003.0,1.0,2.0,False,46.0
+100.0,Vintage Cars,99.0,USA,Medium,2003.0,3.0,1.0,False,39.0
+82.34,Vintage Cars,99.0,Spain,Medium,2003.0,5.0,2.0,False,38.0
+100.0,Vintage Cars,99.0,Australia,Medium,2003.0,7.0,2.0,False,30.0
+94.25,Vintage Cars,99.0,USA,Medium,2003.0,9.0,4.0,False,42.0
+100.0,Vintage Cars,99.0,USA,Medium,2003.0,10.0,0.0,False,43.0
+95.24,Vintage Cars,99.0,Italy,Small,2003.0,11.0,2.0,False,29.0
+86.31,Vintage Cars,99.0,USA,Small,2003.0,11.0,2.0,False,33.0
+79.37,Vintage Cars,99.0,Australia,Small,2003.0,11.0,4.0,False,32.0
+87.3,Vintage Cars,99.0,Canada,Small,2003.0,12.0,4.0,False,28.0
+100.0,Vintage Cars,99.0,USA,Medium,2004.0,1.0,3.0,False,41.0
+100.0,Vintage Cars,99.0,France,Medium,2004.0,3.0,1.0,False,33.0
+84.33,Vintage Cars,99.0,Spain,Medium,2004.0,4.0,3.0,False,36.0
+89.29,Vintage Cars,99.0,USA,Small,2004.0,6.0,0.0,False,26.0
+100.0,Vintage Cars,99.0,Italy,Medium,2004.0,8.0,1.0,False,34.0
+96.23,Vintage Cars,99.0,USA,Small,2004.0,9.0,1.0,False,26.0
+100.0,Vintage Cars,99.0,France,Medium,2004.0,10.0,0.0,False,38.0
+100.0,Vintage Cars,99.0,USA,Medium,2004.0,10.0,3.0,False,33.0
+91.27,Vintage Cars,99.0,Germany,Medium,2004.0,11.0,4.0,False,33.0
+100.0,Vintage Cars,99.0,USA,Large,2004.0,11.0,3.0,False,46.0
+100.0,Vintage Cars,99.0,Australia,Small,2004.0,11.0,0.0,False,26.0
+100.0,Vintage Cars,99.0,USA,Small,2004.0,12.0,4.0,False,25.0
+73.08,Vintage Cars,99.0,USA,Medium,2005.0,1.0,3.0,False,45.0
+100.0,Vintage Cars,99.0,USA,Large,2005.0,2.0,3.0,False,50.0
+100.0,Vintage Cars,99.0,Austria,Medium,2005.0,3.0,3.0,False,36.0
+89.29,Vintage Cars,99.0,Belgium,Small,2005.0,5.0,0.0,False,21.0
+100.0,Classic Cars,146.0,Philippines,Medium,2003.0,3.0,0.0,False,29.0
+100.0,Classic Cars,146.0,France,Small,2003.0,5.0,3.0,True,21.0
+100.0,Classic Cars,146.0,USA,Medium,2003.0,7.0,2.0,False,42.0
+100.0,Classic Cars,146.0,USA,Medium,2003.0,9.0,4.0,False,37.0
+100.0,Classic Cars,146.0,USA,Medium,2003.0,10.0,4.0,False,25.0
+100.0,Classic Cars,146.0,Australia,Medium,2003.0,11.0,1.0,False,36.0
+100.0,Classic Cars,146.0,Norway,Medium,2003.0,11.0,2.0,False,22.0
+100.0,Classic Cars,146.0,Germany,Medium,2003.0,11.0,3.0,False,23.0
+100.0,Classic Cars,146.0,Spain,Medium,2003.0,12.0,1.0,False,32.0
+100.0,Classic Cars,146.0,France,Medium,2004.0,1.0,3.0,False,28.0
+100.0,Classic Cars,146.0,Switzerland,Medium,2004.0,2.0,6.0,False,27.0
+100.0,Classic Cars,146.0,Denmark,Medium,2004.0,4.0,4.0,False,49.0
+100.0,Classic Cars,146.0,France,Medium,2004.0,5.0,2.0,False,41.0
+100.0,Classic Cars,146.0,Australia,Large,2004.0,7.0,4.0,False,49.0
+100.0,Classic Cars,146.0,USA,Medium,2004.0,8.0,0.0,False,30.0
+100.0,Classic Cars,146.0,Switzerland,Medium,2004.0,8.0,0.0,False,40.0
+100.0,Classic Cars,146.0,Germany,Medium,2003.0,10.0,5.0,False,23.0
+100.0,Classic Cars,146.0,Germany,Medium,2004.0,10.0,5.0,False,49.0
+100.0,Classic Cars,146.0,Sweden,Medium,2004.0,11.0,2.0,False,25.0
+100.0,Classic Cars,146.0,Philippines,Medium,2004.0,11.0,1.0,False,37.0
+100.0,Classic Cars,146.0,Australia,Medium,2004.0,11.0,2.0,False,55.0
+100.0,Classic Cars,146.0,Spain,Medium,2004.0,12.0,1.0,False,23.0
+100.0,Classic Cars,146.0,Finland,Medium,2005.0,1.0,3.0,False,24.0
+96.49,Classic Cars,146.0,Spain,Medium,2005.0,2.0,3.0,False,43.0
+100.0,Classic Cars,146.0,USA,Large,2005.0,3.0,4.0,False,50.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,3.0,0.0,False,47.0
+100.0,Classic Cars,141.0,France,Medium,2003.0,5.0,1.0,False,34.0
+100.0,Classic Cars,141.0,France,Medium,2003.0,7.0,3.0,False,31.0
+100.0,Classic Cars,141.0,Australia,Medium,2003.0,9.0,3.0,False,28.0
+100.0,Classic Cars,141.0,Denmark,Medium,2003.0,10.0,4.0,False,36.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,11.0,2.0,False,48.0
+100.0,Classic Cars,141.0,Norway,Medium,2003.0,11.0,2.0,False,39.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,11.0,3.0,False,45.0
+100.0,Classic Cars,141.0,USA,Medium,2003.0,12.0,1.0,False,35.0
+100.0,Classic Cars,141.0,Spain,Medium,2004.0,1.0,4.0,False,45.0
+100.0,Classic Cars,141.0,USA,Large,2004.0,2.0,3.0,False,46.0
+100.0,Classic Cars,141.0,Japan,Medium,2004.0,4.0,1.0,False,37.0
+100.0,Classic Cars,141.0,UK,Medium,2004.0,6.0,1.0,False,31.0
+100.0,Classic Cars,141.0,Italy,Medium,2004.0,7.0,1.0,False,33.0
+100.0,Classic Cars,141.0,USA,Medium,2004.0,8.0,4.0,False,31.0
+100.0,Classic Cars,141.0,Switzerland,Medium,2004.0,8.0,0.0,False,27.0
+100.0,Classic Cars,141.0,Norway,Medium,2003.0,10.0,6.0,False,39.0
+100.0,Classic Cars,141.0,Spain,Medium,2004.0,10.0,5.0,False,32.0
+100.0,Classic Cars,141.0,USA,Medium,2004.0,11.0,3.0,False,28.0
+67.91,Classic Cars,141.0,USA,Small,2004.0,11.0,2.0,False,26.0
+84.88,Classic Cars,141.0,France,Medium,2004.0,11.0,2.0,False,44.0
+100.0,Classic Cars,141.0,USA,Medium,2005.0,1.0,2.0,False,46.0
+70.83,Classic Cars,141.0,Spain,Small,2005.0,2.0,3.0,False,32.0
+100.0,Classic Cars,141.0,Denmark,Large,2005.0,4.0,4.0,False,65.0
+100.0,Classic Cars,141.0,Austria,Medium,2005.0,5.0,1.0,False,43.0
+67.77,Motorcycles,62.0,Philippines,Small,2003.0,3.0,0.0,False,43.0
+49.74,Motorcycles,62.0,France,Small,2003.0,5.0,3.0,True,35.0
+50.36,Motorcycles,62.0,USA,Small,2003.0,7.0,2.0,False,45.0
+67.14,Motorcycles,62.0,USA,Medium,2003.0,9.0,2.0,False,47.0
+64.66,Motorcycles,62.0,USA,Small,2003.0,10.0,4.0,False,21.0
+68.39,Motorcycles,62.0,Australia,Small,2003.0,11.0,1.0,False,38.0
+50.36,Motorcycles,62.0,France,Small,2003.0,11.0,1.0,True,21.0
+72.74,Motorcycles,62.0,Germany,Medium,2003.0,11.0,3.0,False,43.0
+54.09,Motorcycles,62.0,France,Small,2004.0,1.0,3.0,False,46.0
+58.44,Motorcycles,62.0,France,Small,2004.0,2.0,5.0,False,38.0
+52.22,Motorcycles,62.0,USA,Small,2004.0,4.0,0.0,False,26.0
+52.84,Motorcycles,62.0,France,Small,2004.0,5.0,2.0,False,31.0
+54.71,Motorcycles,62.0,USA,Small,2004.0,6.0,2.0,False,48.0
+50.36,Motorcycles,62.0,USA,Small,2004.0,8.0,0.0,False,33.0
+57.2,Motorcycles,62.0,France,Small,2004.0,8.0,5.0,False,38.0
+55.95,Motorcycles,62.0,Finland,Small,2004.0,9.0,3.0,False,39.0
+67.14,Motorcycles,62.0,Germany,Small,2004.0,10.0,5.0,False,42.0
+59.06,Motorcycles,62.0,USA,Small,2004.0,11.0,2.0,False,44.0
+69.63,Motorcycles,62.0,Philippines,Small,2004.0,11.0,1.0,False,29.0
+55.95,Motorcycles,62.0,Australia,Small,2004.0,11.0,2.0,False,26.0
+53.47,Motorcycles,62.0,Spain,Small,2004.0,12.0,1.0,False,31.0
+89.12,Motorcycles,62.0,Finland,Small,2005.0,1.0,3.0,False,32.0
+100.0,Motorcycles,62.0,Spain,Medium,2005.0,2.0,3.0,False,28.0
+100.0,Motorcycles,62.0,USA,Medium,2005.0,3.0,4.0,False,36.0
+52.22,Motorcycles,62.0,UK,Small,2005.0,4.0,4.0,False,36.0
+100.0,Vintage Cars,105.0,Italy,Medium,2003.0,2.0,0.0,False,41.0
+99.52,Vintage Cars,105.0,Austria,Small,2003.0,4.0,0.0,False,27.0
+100.0,Vintage Cars,105.0,USA,Medium,2003.0,6.0,0.0,False,33.0
+100.0,Vintage Cars,105.0,USA,Medium,2003.0,8.0,6.0,False,34.0
+100.0,Vintage Cars,105.0,Finland,Medium,2003.0,10.0,0.0,False,29.0
+100.0,Vintage Cars,105.0,Sweden,Medium,2003.0,10.0,3.0,False,34.0
+100.0,Vintage Cars,105.0,France,Medium,2003.0,11.0,5.0,False,48.0
+100.0,Vintage Cars,105.0,UK,Medium,2003.0,11.0,4.0,False,46.0
+100.0,Vintage Cars,105.0,Spain,Small,2003.0,11.0,2.0,False,22.0
+100.0,Vintage Cars,105.0,USA,Small,2004.0,1.0,4.0,False,20.0
+85.75,Vintage Cars,105.0,USA,Medium,2004.0,2.0,3.0,False,45.0
+100.0,Vintage Cars,105.0,USA,Medium,2004.0,5.0,5.0,False,46.0
+100.0,Vintage Cars,105.0,Spain,Medium,2004.0,6.0,3.0,False,34.0
+85.75,Vintage Cars,105.0,Belgium,Medium,2004.0,7.0,2.0,True,50.0
+100.0,Vintage Cars,105.0,Canada,Medium,2004.0,8.0,4.0,False,46.0
+84.7,Vintage Cars,105.0,Germany,Small,2004.0,9.0,2.0,False,22.0
+86.81,Vintage Cars,105.0,USA,Medium,2004.0,10.0,3.0,False,48.0
+86.81,Vintage Cars,105.0,UK,Medium,2004.0,11.0,0.0,False,47.0
+100.0,Vintage Cars,105.0,Italy,Medium,2004.0,11.0,4.0,False,34.0
+100.0,Vintage Cars,105.0,Belgium,Medium,2004.0,11.0,0.0,False,45.0
+100.0,Vintage Cars,105.0,UK,Medium,2004.0,12.0,4.0,False,20.0
+60.49,Vintage Cars,105.0,Finland,Medium,2005.0,1.0,0.0,False,50.0
+57.55,Vintage Cars,105.0,Spain,Small,2005.0,3.0,1.0,False,22.0
+100.0,Vintage Cars,105.0,France,Medium,2005.0,3.0,2.0,False,45.0
+100.0,Vintage Cars,105.0,USA,Large,2005.0,4.0,4.0,False,58.0
+100.0,Vintage Cars,105.0,Australia,Medium,2005.0,5.0,0.0,False,51.0
+100.0,Classic Cars,143.0,Spain,Medium,2003.0,1.0,4.0,False,38.0
+100.0,Classic Cars,143.0,Singapore,Small,2003.0,4.0,2.0,False,22.0
+100.0,Classic Cars,143.0,USA,Medium,2003.0,6.0,1.0,False,25.0
+100.0,Classic Cars,143.0,USA,Medium,2003.0,8.0,4.0,False,24.0
+100.0,Classic Cars,143.0,Australia,Medium,2003.0,9.0,3.0,False,35.0
+100.0,Classic Cars,143.0,Singapore,Medium,2003.0,10.0,2.0,False,28.0
+100.0,Classic Cars,143.0,Italy,Medium,2003.0,11.0,3.0,False,36.0
+100.0,Classic Cars,143.0,USA,Medium,2003.0,11.0,4.0,False,39.0
+100.0,Classic Cars,143.0,USA,Medium,2003.0,11.0,2.0,False,27.0
+100.0,Classic Cars,143.0,USA,Medium,2003.0,12.0,1.0,False,40.0
+100.0,Classic Cars,143.0,Ireland,Large,2004.0,2.0,3.0,False,50.0
+100.0,Classic Cars,143.0,Germany,Large,2004.0,3.0,0.0,False,42.0
+100.0,Classic Cars,143.0,Finland,Medium,2004.0,5.0,2.0,False,48.0
+100.0,Classic Cars,143.0,USA,Medium,2004.0,7.0,1.0,False,25.0
+100.0,Classic Cars,143.0,USA,Medium,2004.0,8.0,4.0,False,31.0
+100.0,Classic Cars,143.0,USA,Large,2004.0,9.0,2.0,False,44.0
+100.0,Classic Cars,143.0,UK,Medium,2004.0,10.0,3.0,False,23.0
+100.0,Classic Cars,143.0,Denmark,Medium,2004.0,10.0,4.0,False,29.0
+100.0,Classic Cars,143.0,USA,Medium,2004.0,11.0,4.0,False,49.0
+100.0,Classic Cars,143.0,USA,Medium,2004.0,11.0,6.0,False,36.0
+100.0,Classic Cars,143.0,USA,Medium,2004.0,12.0,2.0,False,34.0
+100.0,Classic Cars,143.0,Spain,Small,2004.0,12.0,4.0,False,25.0
+100.0,Classic Cars,143.0,Japan,Large,2005.0,1.0,2.0,False,48.0
+100.0,Classic Cars,143.0,Spain,Medium,2005.0,2.0,1.0,False,38.0
+100.0,Classic Cars,143.0,Spain,Medium,2005.0,3.0,1.0,False,37.0
+100.0,Classic Cars,143.0,USA,Medium,2005.0,5.0,3.0,False,49.0
+86.51,Vintage Cars,92.0,USA,Small,2003.0,1.0,0.0,False,22.0
+89.27,Vintage Cars,92.0,UK,Small,2003.0,3.0,1.0,False,28.0
+85.59,Vintage Cars,92.0,USA,Medium,2003.0,5.0,2.0,False,36.0
+100.0,Vintage Cars,92.0,Australia,Medium,2003.0,9.0,3.0,False,34.0
+100.0,Vintage Cars,92.0,USA,Medium,2003.0,10.0,5.0,False,39.0
+75.46,Vintage Cars,92.0,Italy,Small,2003.0,11.0,2.0,False,21.0
+100.0,Vintage Cars,92.0,USA,Medium,2003.0,11.0,2.0,False,36.0
+97.55,Vintage Cars,92.0,Australia,Small,2003.0,11.0,4.0,False,24.0
+85.59,Vintage Cars,92.0,USA,Small,2003.0,12.0,1.0,False,29.0
+94.79,Vintage Cars,92.0,UK,Medium,2004.0,1.0,3.0,False,38.0
+100.0,Vintage Cars,92.0,France,Medium,2004.0,3.0,1.0,False,34.0
+90.19,Vintage Cars,92.0,France,Medium,2004.0,4.0,1.0,False,42.0
+100.0,Vintage Cars,92.0,Italy,Medium,2004.0,8.0,1.0,False,35.0
+80.99,Vintage Cars,92.0,Singapore,Small,2004.0,9.0,2.0,False,35.0
+89.27,Vintage Cars,92.0,UK,Medium,2003.0,10.0,0.0,False,38.0
+81.91,Vintage Cars,92.0,Spain,Medium,2004.0,10.0,5.0,False,41.0
+100.0,Vintage Cars,92.0,UK,Large,2004.0,11.0,2.0,False,50.0
+100.0,Vintage Cars,92.0,France,Small,2004.0,11.0,3.0,False,21.0
+62.72,Vintage Cars,92.0,USA,Small,2005.0,1.0,2.0,False,43.0
+100.0,Vintage Cars,92.0,Spain,Medium,2005.0,2.0,2.0,False,32.0
+90.19,Vintage Cars,92.0,USA,Small,2005.0,4.0,4.0,False,6.0
+92.95,Vintage Cars,92.0,Australia,Medium,2005.0,5.0,6.0,False,66.0
+82.5,Vintage Cars,87.0,Denmark,Medium,2003.0,2.0,1.0,False,41.0
+97.42,Vintage Cars,87.0,Singapore,Small,2003.0,4.0,2.0,False,23.0
+92.16,Vintage Cars,87.0,Spain,Medium,2003.0,6.0,4.0,False,43.0
+70.22,Vintage Cars,87.0,USA,Small,2003.0,8.0,4.0,False,24.0
+83.38,Vintage Cars,87.0,Spain,Small,2003.0,9.0,6.0,False,22.0
+73.73,Vintage Cars,87.0,USA,Small,2003.0,10.0,1.0,False,26.0
+74.6,Vintage Cars,87.0,Spain,Small,2003.0,11.0,4.0,False,35.0
+77.24,Vintage Cars,87.0,USA,Medium,2003.0,11.0,4.0,False,47.0
+100.0,Vintage Cars,87.0,Spain,Medium,2003.0,11.0,2.0,False,50.0
+87.77,Vintage Cars,87.0,France,Medium,2004.0,1.0,4.0,False,45.0
+89.53,Vintage Cars,87.0,Belgium,Medium,2004.0,2.0,2.0,False,39.0
+89.53,Vintage Cars,87.0,UK,Small,2004.0,3.0,5.0,False,23.0
+75.48,Vintage Cars,87.0,USA,Medium,2004.0,5.0,4.0,False,42.0
+89.53,Vintage Cars,87.0,Canada,Small,2004.0,6.0,3.0,False,20.0
+71.09,Vintage Cars,87.0,Belgium,Small,2004.0,7.0,2.0,True,33.0
+100.0,Vintage Cars,87.0,Canada,Medium,2004.0,8.0,4.0,False,34.0
+100.0,Vintage Cars,87.0,Italy,Medium,2004.0,9.0,3.0,False,49.0
+90.4,Vintage Cars,87.0,UK,Medium,2004.0,10.0,3.0,False,39.0
+100.0,Vintage Cars,87.0,France,Medium,2004.0,10.0,4.0,False,36.0
+86.01,Vintage Cars,87.0,Sweden,Medium,2004.0,11.0,1.0,False,50.0
+100.0,Vintage Cars,87.0,USA,Medium,2004.0,11.0,6.0,False,29.0
+100.0,Vintage Cars,87.0,Spain,Medium,2004.0,12.0,3.0,False,30.0
+86.89,Vintage Cars,87.0,Japan,Medium,2005.0,1.0,2.0,False,41.0
+58.58,Vintage Cars,87.0,Spain,Small,2005.0,2.0,1.0,False,28.0
+100.0,Vintage Cars,87.0,USA,Medium,2005.0,3.0,2.0,False,45.0
+75.48,Vintage Cars,87.0,USA,Small,2005.0,5.0,4.0,False,16.0
+100.0,Trucks and Buses,121.0,Norway,Medium,2003.0,1.0,2.0,False,36.0
+100.0,Trucks and Buses,121.0,France,Medium,2003.0,4.0,1.0,False,41.0
+100.0,Trucks and Buses,121.0,Spain,Large,2003.0,5.0,2.0,False,50.0
+100.0,Trucks and Buses,121.0,USA,Medium,2003.0,7.0,3.0,False,40.0
+100.0,Trucks and Buses,121.0,Singapore,Medium,2003.0,9.0,4.0,False,49.0
+100.0,Trucks and Buses,121.0,Austria,Medium,2003.0,10.0,1.0,False,45.0
+100.0,Trucks and Buses,121.0,UK,Medium,2003.0,11.0,3.0,False,47.0
+100.0,Trucks and Buses,121.0,USA,Small,2003.0,11.0,3.0,False,21.0
+100.0,Trucks and Buses,121.0,France,Medium,2003.0,11.0,1.0,False,32.0
+100.0,Trucks and Buses,121.0,USA,Medium,2003.0,12.0,1.0,False,47.0
+100.0,Trucks and Buses,121.0,Singapore,Medium,2004.0,2.0,2.0,False,38.0
+100.0,Trucks and Buses,121.0,USA,Medium,2004.0,3.0,3.0,False,41.0
+100.0,Trucks and Buses,121.0,USA,Small,2004.0,5.0,1.0,False,21.0
+100.0,Trucks and Buses,121.0,Singapore,Medium,2004.0,6.0,1.0,False,41.0
+100.0,Trucks and Buses,121.0,Australia,Medium,2004.0,7.0,0.0,False,38.0
+99.29,Trucks and Buses,121.0,USA,Small,2004.0,8.0,3.0,False,25.0
+100.0,Trucks and Buses,121.0,Sweden,Medium,2004.0,9.0,2.0,False,48.0
+99.29,Trucks and Buses,121.0,USA,Small,2004.0,10.0,2.0,False,22.0
+100.0,Trucks and Buses,121.0,Canada,Small,2004.0,10.0,4.0,False,28.0
+100.0,Trucks and Buses,121.0,Germany,Medium,2004.0,11.0,4.0,False,47.0
+100.0,Trucks and Buses,121.0,Sweden,Medium,2004.0,11.0,4.0,False,49.0
+100.0,Trucks and Buses,121.0,Australia,Medium,2004.0,11.0,0.0,False,45.0
+100.0,Trucks and Buses,121.0,USA,Medium,2004.0,12.0,4.0,False,28.0
+57.53,Trucks and Buses,121.0,Australia,Small,2005.0,1.0,3.0,False,29.0
+100.0,Trucks and Buses,121.0,USA,Medium,2005.0,2.0,3.0,False,39.0
+100.0,Trucks and Buses,121.0,Canada,Medium,2005.0,5.0,6.0,False,46.0
+100.0,Trucks and Buses,121.0,France,Medium,2005.0,5.0,1.0,False,38.0
+47.29,Vintage Cars,50.0,Norway,Small,2003.0,1.0,2.0,False,41.0
+49.81,Vintage Cars,50.0,USA,Small,2003.0,3.0,2.0,False,50.0
+53.83,Vintage Cars,50.0,Spain,Small,2003.0,5.0,2.0,False,43.0
+43.27,Vintage Cars,50.0,USA,Small,2003.0,7.0,3.0,False,29.0
+42.76,Vintage Cars,50.0,Singapore,Small,2003.0,9.0,4.0,False,30.0
+53.83,Vintage Cars,50.0,Austria,Small,2003.0,10.0,1.0,False,25.0
+44.78,Vintage Cars,50.0,Australia,Small,2003.0,11.0,3.0,False,49.0
+49.3,Vintage Cars,50.0,USA,Small,2003.0,11.0,3.0,False,40.0
+44.78,Vintage Cars,50.0,France,Small,2003.0,11.0,1.0,False,41.0
+53.33,Vintage Cars,50.0,Canada,Small,2003.0,12.0,4.0,False,21.0
+45.28,Vintage Cars,50.0,USA,Small,2004.0,1.0,3.0,False,46.0
+40.25,Vintage Cars,50.0,USA,Small,2004.0,3.0,3.0,False,39.0
+59.87,Vintage Cars,50.0,USA,Small,2004.0,5.0,1.0,False,45.0
+59.87,Vintage Cars,50.0,Japan,Small,2004.0,6.0,1.0,False,21.0
+58.36,Vintage Cars,50.0,Australia,Small,2004.0,7.0,0.0,False,44.0
+59.87,Vintage Cars,50.0,USA,Small,2004.0,8.0,3.0,False,44.0
+51.82,Vintage Cars,50.0,Sweden,Small,2004.0,9.0,2.0,False,29.0
+49.3,Vintage Cars,50.0,France,Small,2004.0,10.0,0.0,False,34.0
+56.85,Vintage Cars,50.0,USA,Small,2004.0,10.0,3.0,False,39.0
+100.0,Vintage Cars,50.0,USA,Medium,2004.0,11.0,4.0,False,38.0
+79.86,Vintage Cars,50.0,USA,Small,2004.0,11.0,3.0,False,24.0
+100.0,Vintage Cars,50.0,Spain,Large,2004.0,11.0,0.0,True,29.0
+100.0,Vintage Cars,50.0,Spain,Medium,2004.0,12.0,4.0,False,30.0
+100.0,Vintage Cars,50.0,Australia,Small,2005.0,1.0,3.0,False,20.0
+100.0,Vintage Cars,50.0,USA,Large,2005.0,2.0,3.0,False,39.0
+59.87,Vintage Cars,50.0,Canada,Small,2005.0,5.0,6.0,False,35.0
+59.87,Vintage Cars,50.0,Spain,Small,2005.0,5.0,1.0,False,26.0
+100.0,Classic Cars,148.0,Philippines,Medium,2003.0,3.0,0.0,False,44.0
+100.0,Classic Cars,148.0,France,Medium,2003.0,5.0,3.0,True,28.0
+100.0,Classic Cars,148.0,USA,Medium,2003.0,7.0,2.0,False,31.0
+100.0,Classic Cars,148.0,USA,Medium,2003.0,9.0,2.0,False,29.0
+100.0,Classic Cars,148.0,USA,Medium,2003.0,10.0,4.0,False,32.0
+100.0,Classic Cars,148.0,Australia,Medium,2003.0,11.0,1.0,False,33.0
+100.0,Classic Cars,148.0,France,Medium,2003.0,11.0,1.0,True,44.0
+100.0,Classic Cars,148.0,Germany,Medium,2003.0,11.0,3.0,False,32.0
+100.0,Classic Cars,148.0,France,Medium,2004.0,1.0,3.0,False,41.0
+100.0,Classic Cars,148.0,Switzerland,Medium,2004.0,2.0,6.0,False,35.0
+100.0,Classic Cars,148.0,Denmark,Medium,2004.0,4.0,4.0,False,44.0
+100.0,Classic Cars,148.0,France,Medium,2004.0,5.0,2.0,False,26.0
+100.0,Classic Cars,148.0,USA,Small,2004.0,6.0,2.0,False,20.0
+100.0,Classic Cars,148.0,USA,Medium,2004.0,8.0,0.0,False,48.0
+100.0,Classic Cars,148.0,Switzerland,Medium,2004.0,8.0,0.0,False,34.0
+100.0,Classic Cars,148.0,Finland,Large,2004.0,9.0,3.0,False,49.0
+100.0,Classic Cars,148.0,Germany,Medium,2004.0,10.0,5.0,False,40.0
+100.0,Classic Cars,148.0,USA,Large,2004.0,11.0,2.0,False,45.0
+100.0,Classic Cars,148.0,Philippines,Medium,2004.0,11.0,1.0,False,50.0
+100.0,Classic Cars,148.0,Australia,Medium,2004.0,11.0,2.0,False,38.0
+100.0,Classic Cars,148.0,Spain,Medium,2004.0,12.0,1.0,False,25.0
+58.18,Classic Cars,148.0,Finland,Small,2005.0,1.0,3.0,False,28.0
+67.14,Classic Cars,148.0,Spain,Medium,2005.0,2.0,3.0,False,49.0
+100.0,Classic Cars,148.0,USA,Medium,2005.0,3.0,4.0,False,49.0
+61.29,Classic Cars,71.0,UK,Small,2003.0,3.0,1.0,False,42.0
+57.73,Classic Cars,71.0,USA,Small,2003.0,5.0,2.0,False,23.0
+81.25,Classic Cars,71.0,Australia,Small,2003.0,9.0,3.0,False,29.0
+80.54,Classic Cars,71.0,Denmark,Small,2003.0,10.0,4.0,False,25.0
+71.98,Classic Cars,71.0,Italy,Small,2003.0,11.0,2.0,False,39.0
+69.84,Classic Cars,71.0,USA,Medium,2003.0,11.0,2.0,False,44.0
+76.26,Classic Cars,71.0,Australia,Small,2003.0,11.0,4.0,False,25.0
+76.26,Classic Cars,71.0,USA,Medium,2003.0,12.0,1.0,False,45.0
+83.39,Classic Cars,71.0,UK,Small,2004.0,1.0,3.0,False,25.0
+57.73,Classic Cars,71.0,France,Small,2004.0,3.0,1.0,False,37.0
+66.99,Classic Cars,71.0,France,Small,2004.0,4.0,1.0,False,30.0
+75.55,Classic Cars,71.0,USA,Small,2004.0,7.0,2.0,False,36.0
+60.58,Classic Cars,71.0,Spain,Small,2004.0,8.0,0.0,False,26.0
+73.41,Classic Cars,71.0,Singapore,Small,2004.0,9.0,2.0,False,23.0
+72.7,Classic Cars,71.0,UK,Small,2003.0,10.0,0.0,False,23.0
+66.99,Classic Cars,71.0,Spain,Small,2004.0,10.0,5.0,False,25.0
+100.0,Classic Cars,71.0,UK,Medium,2004.0,11.0,2.0,False,21.0
+63.43,Classic Cars,71.0,France,Small,2004.0,11.0,3.0,False,26.0
+85.25,Classic Cars,71.0,USA,Medium,2005.0,1.0,2.0,False,44.0
+100.0,Classic Cars,71.0,Spain,Medium,2005.0,2.0,2.0,False,24.0
+66.99,Classic Cars,71.0,USA,Medium,2005.0,4.0,4.0,False,66.0
+57.73,Classic Cars,71.0,Australia,Small,2005.0,5.0,6.0,False,36.0
+85.25,Classic Cars,73.0,UK,Medium,2003.0,3.0,1.0,False,36.0
+77.9,Classic Cars,73.0,USA,Small,2003.0,5.0,2.0,False,22.0
+60.26,Classic Cars,73.0,Australia,Small,2003.0,9.0,3.0,False,25.0
+72.76,Classic Cars,73.0,Denmark,Small,2003.0,10.0,4.0,False,37.0
+75.69,Classic Cars,73.0,USA,Small,2003.0,11.0,2.0,False,32.0
+74.22,Classic Cars,73.0,USA,Medium,2003.0,11.0,2.0,False,47.0
+69.82,Classic Cars,73.0,USA,Small,2003.0,11.0,3.0,False,37.0
+62.47,Classic Cars,73.0,USA,Small,2003.0,12.0,1.0,False,20.0
+82.31,Classic Cars,73.0,Spain,Medium,2004.0,1.0,4.0,False,41.0
+60.26,Classic Cars,73.0,USA,Small,2004.0,2.0,3.0,False,21.0
+76.43,Classic Cars,73.0,France,Small,2004.0,4.0,1.0,False,22.0
+80.1,Classic Cars,73.0,USA,Medium,2004.0,7.0,2.0,False,40.0
+74.96,Classic Cars,73.0,Spain,Small,2004.0,8.0,0.0,False,32.0
+66.14,Classic Cars,73.0,Singapore,Small,2004.0,9.0,2.0,False,36.0
+72.02,Classic Cars,73.0,Norway,Small,2003.0,10.0,6.0,False,27.0
+87.45,Classic Cars,73.0,Spain,Small,2004.0,10.0,5.0,False,26.0
+70.55,Classic Cars,73.0,USA,Small,2004.0,11.0,3.0,False,30.0
+56.84,Classic Cars,73.0,UK,Small,2004.0,11.0,2.0,False,23.0
+59.53,Classic Cars,73.0,France,Small,2004.0,11.0,3.0,False,29.0
+60.37,Classic Cars,73.0,USA,Small,2005.0,1.0,2.0,False,21.0
+100.0,Classic Cars,73.0,Spain,Medium,2005.0,2.0,2.0,False,34.0
+76.43,Classic Cars,73.0,USA,Small,2005.0,4.0,4.0,False,26.0
+64.67,Classic Cars,73.0,Australia,Medium,2005.0,5.0,6.0,False,60.0
+55.49,Classic Cars,57.0,Spain,Small,2003.0,1.0,4.0,False,35.0
+69.36,Classic Cars,57.0,USA,Medium,2003.0,4.0,4.0,False,47.0
+60.69,Classic Cars,57.0,USA,Small,2003.0,6.0,1.0,False,20.0
+54.33,Classic Cars,57.0,Finland,Small,2003.0,8.0,4.0,False,20.0
+65.31,Classic Cars,57.0,Australia,Small,2003.0,9.0,3.0,False,25.0
+69.36,Classic Cars,57.0,Singapore,Small,2003.0,10.0,2.0,False,25.0
+68.78,Classic Cars,57.0,Italy,Small,2003.0,11.0,3.0,False,27.0
+60.11,Classic Cars,57.0,Spain,Small,2003.0,11.0,4.0,False,31.0
+66.47,Classic Cars,57.0,USA,Small,2003.0,11.0,1.0,False,44.0
+46.82,Classic Cars,57.0,USA,Small,2003.0,12.0,1.0,False,49.0
+56.07,Classic Cars,57.0,Ireland,Small,2004.0,2.0,3.0,False,26.0
+54.33,Classic Cars,57.0,Germany,Small,2004.0,3.0,0.0,False,36.0
+52.6,Classic Cars,57.0,Spain,Small,2004.0,5.0,2.0,False,44.0
+46.82,Classic Cars,57.0,Singapore,Small,2004.0,6.0,1.0,False,28.0
+64.74,Classic Cars,57.0,USA,Small,2004.0,7.0,1.0,False,45.0
+46.82,Classic Cars,57.0,USA,Small,2004.0,8.0,4.0,False,29.0
+53.75,Classic Cars,57.0,USA,Small,2004.0,9.0,2.0,False,40.0
+61.85,Classic Cars,57.0,USA,Small,2004.0,10.0,2.0,False,45.0
+53.18,Classic Cars,57.0,Denmark,Small,2004.0,10.0,4.0,False,44.0
+69.16,Classic Cars,57.0,USA,Small,2004.0,11.0,4.0,False,25.0
+100.0,Classic Cars,57.0,France,Medium,2004.0,11.0,5.0,False,45.0
+47.4,Classic Cars,57.0,USA,Small,2004.0,12.0,2.0,False,48.0
+60.76,Classic Cars,57.0,Spain,Small,2004.0,12.0,4.0,False,44.0
+97.27,Classic Cars,57.0,USA,Small,2005.0,1.0,6.0,False,25.0
+91.76,Classic Cars,57.0,Spain,Small,2005.0,2.0,1.0,False,22.0
+50.29,Classic Cars,57.0,Spain,Small,2005.0,3.0,1.0,False,31.0
+52.6,Classic Cars,57.0,Spain,Small,2005.0,5.0,1.0,False,21.0
+46.82,Classic Cars,57.0,France,Small,2005.0,5.0,1.0,False,55.0
+100.0,Motorcycles,112.0,USA,Small,2003.0,2.0,0.0,False,25.0
+98.05,Motorcycles,112.0,Australia,Medium,2003.0,4.0,1.0,False,35.0
+93.54,Motorcycles,112.0,France,Medium,2003.0,7.0,1.0,False,35.0
+95.8,Motorcycles,112.0,USA,Medium,2003.0,8.0,0.0,False,43.0
+100.0,Motorcycles,112.0,USA,Medium,2003.0,10.0,4.0,False,44.0
+100.0,Motorcycles,112.0,USA,Medium,2003.0,10.0,1.0,False,50.0
+100.0,Motorcycles,112.0,France,Medium,2003.0,11.0,1.0,True,48.0
+100.0,Motorcycles,112.0,Norway,Small,2003.0,11.0,1.0,False,25.0
+100.0,Motorcycles,112.0,USA,Medium,2003.0,12.0,0.0,False,39.0
+90.16,Motorcycles,112.0,France,Small,2004.0,1.0,3.0,False,25.0
+91.29,Motorcycles,112.0,Australia,Small,2004.0,2.0,4.0,False,32.0
+100.0,Motorcycles,112.0,USA,Small,2004.0,4.0,0.0,False,20.0
+100.0,Motorcycles,112.0,USA,Small,2004.0,5.0,1.0,False,26.0
+100.0,Motorcycles,112.0,USA,Medium,2004.0,6.0,0.0,False,42.0
+100.0,Motorcycles,112.0,France,Small,2004.0,7.0,4.0,False,21.0
+100.0,Motorcycles,112.0,USA,Medium,2004.0,8.0,4.0,False,34.0
+100.0,Motorcycles,112.0,Finland,Medium,2004.0,9.0,3.0,False,47.0
+100.0,Motorcycles,112.0,Norway,Small,2004.0,10.0,4.0,False,21.0
+100.0,Motorcycles,112.0,USA,Medium,2004.0,11.0,1.0,False,48.0
+87.78,Motorcycles,112.0,USA,Small,2004.0,11.0,0.0,False,30.0
+84.39,Motorcycles,112.0,Japan,Small,2004.0,11.0,1.0,True,27.0
+96.92,Motorcycles,112.0,USA,Medium,2005.0,1.0,2.0,False,50.0
+100.0,Motorcycles,112.0,Australia,Medium,2005.0,2.0,2.0,False,38.0
+100.0,Motorcycles,112.0,Sweden,Medium,2005.0,3.0,3.0,False,45.0
+100.0,Motorcycles,112.0,UK,Medium,2005.0,4.0,4.0,False,46.0
+100.0,Motorcycles,112.0,Spain,Medium,2005.0,5.0,4.0,False,35.0
+59.37,Classic Cars,50.0,UK,Small,2003.0,3.0,1.0,False,29.0
+59.87,Classic Cars,50.0,France,Small,2003.0,5.0,1.0,False,50.0
+49.81,Classic Cars,50.0,France,Small,2003.0,7.0,3.0,False,26.0
+56.85,Classic Cars,50.0,Australia,Small,2003.0,9.0,3.0,False,47.0
+53.33,Classic Cars,50.0,Denmark,Small,2003.0,10.0,4.0,False,23.0
+42.76,Classic Cars,50.0,USA,Small,2003.0,11.0,2.0,False,34.0
+53.83,Classic Cars,50.0,Norway,Small,2003.0,11.0,2.0,False,34.0
+53.83,Classic Cars,50.0,USA,Small,2003.0,11.0,3.0,False,47.0
+49.81,Classic Cars,50.0,USA,Small,2003.0,12.0,1.0,False,45.0
+53.33,Classic Cars,50.0,Spain,Small,2004.0,1.0,4.0,False,45.0
+43.27,Classic Cars,50.0,USA,Small,2004.0,2.0,3.0,False,36.0
+40.25,Classic Cars,50.0,France,Small,2004.0,4.0,1.0,False,21.0
+48.3,Classic Cars,50.0,Italy,Small,2004.0,7.0,1.0,False,28.0
+45.28,Classic Cars,50.0,USA,Small,2004.0,8.0,4.0,False,35.0
+52.32,Classic Cars,50.0,Singapore,Small,2004.0,9.0,2.0,False,50.0
+51.32,Classic Cars,50.0,Norway,Small,2003.0,10.0,6.0,False,22.0
+49.3,Classic Cars,50.0,Spain,Small,2004.0,10.0,5.0,False,45.0
+42.26,Classic Cars,50.0,USA,Small,2004.0,11.0,3.0,False,48.0
+87.96,Classic Cars,50.0,UK,Small,2004.0,11.0,2.0,False,20.0
+36.21,Classic Cars,50.0,France,Small,2004.0,11.0,2.0,False,27.0
+38.5,Classic Cars,50.0,USA,Small,2005.0,1.0,2.0,False,38.0
+100.0,Classic Cars,50.0,Spain,Medium,2005.0,2.0,3.0,False,32.0
+40.25,Classic Cars,50.0,USA,Small,2005.0,4.0,4.0,False,64.0
+60.37,Classic Cars,50.0,Australia,Small,2005.0,5.0,6.0,False,37.0
+88.63,Planes,109.0,Italy,Small,2003.0,2.0,0.0,False,28.0
+100.0,Planes,109.0,Australia,Medium,2003.0,4.0,1.0,False,39.0
+94.1,Planes,109.0,Spain,Medium,2003.0,6.0,4.0,False,41.0
+87.54,Planes,109.0,USA,Medium,2003.0,8.0,0.0,False,40.0
+100.0,Planes,109.0,USA,Medium,2003.0,10.0,1.0,False,49.0
+98.48,Planes,109.0,Japan,Small,2004.0,1.0,0.0,True,27.0
+100.0,Planes,109.0,Australia,Medium,2004.0,2.0,4.0,False,34.0
+96.29,Planes,109.0,Canada,Small,2004.0,4.0,4.0,False,23.0
+88.63,Planes,109.0,USA,Small,2004.0,5.0,1.0,False,31.0
+97.38,Planes,109.0,Spain,Medium,2004.0,6.0,3.0,False,34.0
+95.2,Planes,109.0,France,Small,2004.0,7.0,4.0,False,25.0
+100.0,Planes,109.0,Norway,Small,2004.0,8.0,5.0,False,22.0
+100.0,Planes,109.0,Ireland,Medium,2004.0,9.0,3.0,False,32.0
+100.0,Planes,109.0,USA,Medium,2004.0,10.0,4.0,False,31.0
+100.0,Planes,109.0,UK,Small,2004.0,11.0,0.0,False,25.0
+87.54,Planes,109.0,Italy,Medium,2004.0,11.0,4.0,False,47.0
+50.65,Planes,109.0,Japan,Small,2004.0,11.0,1.0,True,21.0
+71.73,Planes,109.0,USA,Small,2004.0,12.0,5.0,False,28.0
+94.1,Planes,109.0,Australia,Medium,2005.0,2.0,2.0,False,46.0
+41.71,Planes,109.0,Spain,Small,2005.0,3.0,1.0,False,33.0
+100.0,Planes,109.0,France,Medium,2005.0,3.0,2.0,False,43.0
+96.29,Planes,109.0,USA,Medium,2005.0,4.0,6.0,False,38.0
+88.63,Planes,109.0,Italy,Medium,2005.0,5.0,1.0,False,47.0
+31.2,Vintage Cars,33.0,Germany,Small,2003.0,1.0,3.0,False,45.0
+35.51,Vintage Cars,33.0,UK,Small,2003.0,3.0,1.0,False,20.0
+37.84,Vintage Cars,33.0,USA,Small,2003.0,5.0,2.0,False,45.0
+33.19,Vintage Cars,33.0,USA,Small,2003.0,9.0,4.0,False,36.0
+27.22,Vintage Cars,33.0,USA,Small,2003.0,10.0,5.0,False,37.0
+31.53,Vintage Cars,33.0,Italy,Small,2003.0,11.0,2.0,False,31.0
+36.84,Vintage Cars,33.0,USA,Small,2003.0,11.0,2.0,False,39.0
+29.21,Vintage Cars,33.0,Australia,Small,2003.0,11.0,4.0,False,26.0
+37.17,Vintage Cars,33.0,Spain,Small,2003.0,12.0,2.0,False,32.0
+34.19,Vintage Cars,33.0,Spain,Small,2004.0,1.0,0.0,False,20.0
+29.21,Vintage Cars,33.0,France,Small,2004.0,3.0,1.0,False,42.0
+29.54,Vintage Cars,33.0,USA,Small,2004.0,4.0,0.0,False,33.0
+28.88,Vintage Cars,33.0,Italy,Small,2004.0,8.0,1.0,False,20.0
+38.17,Vintage Cars,33.0,Singapore,Small,2004.0,9.0,2.0,False,29.0
+30.2,Vintage Cars,33.0,France,Small,2004.0,10.0,0.0,False,23.0
+29.54,Vintage Cars,33.0,USA,Small,2004.0,10.0,3.0,False,39.0
+100.0,Vintage Cars,33.0,USA,Small,2004.0,11.0,3.0,False,20.0
+81.91,Vintage Cars,33.0,UK,Medium,2004.0,11.0,2.0,False,45.0
+35.18,Vintage Cars,33.0,France,Small,2004.0,11.0,3.0,False,20.0
+100.0,Vintage Cars,33.0,France,Large,2004.0,12.0,3.0,False,48.0
+36.29,Vintage Cars,33.0,USA,Small,2005.0,1.0,2.0,False,23.0
+70.56,Vintage Cars,33.0,Spain,Small,2005.0,2.0,2.0,False,32.0
+100.0,Vintage Cars,33.0,Australia,Large,2005.0,3.0,2.0,False,33.0
+29.54,Vintage Cars,33.0,Singapore,Small,2005.0,4.0,5.0,False,61.0
+26.88,Vintage Cars,33.0,Australia,Small,2005.0,5.0,6.0,False,45.0
+83.03,Motorcycles,76.0,USA,Medium,2003.0,2.0,0.0,False,38.0
+83.79,Motorcycles,76.0,Australia,Small,2003.0,4.0,1.0,False,34.0
+83.03,Motorcycles,76.0,France,Medium,2003.0,7.0,1.0,False,43.0
+83.03,Motorcycles,76.0,USA,Medium,2003.0,8.0,0.0,False,47.0
+67.03,Motorcycles,76.0,Norway,Small,2003.0,10.0,4.0,False,22.0
+75.41,Motorcycles,76.0,USA,Small,2003.0,10.0,1.0,False,29.0
+68.55,Motorcycles,76.0,France,Small,2003.0,11.0,1.0,True,28.0
+91.4,Motorcycles,76.0,Norway,Medium,2003.0,11.0,1.0,False,40.0
+73.88,Motorcycles,76.0,USA,Small,2003.0,12.0,0.0,False,25.0
+61.7,Motorcycles,76.0,Japan,Small,2004.0,1.0,0.0,True,30.0
+69.31,Motorcycles,76.0,Australia,Small,2004.0,2.0,4.0,False,38.0
+87.6,Motorcycles,76.0,USA,Medium,2004.0,4.0,5.0,False,36.0
+87.6,Motorcycles,76.0,USA,Small,2004.0,5.0,1.0,False,32.0
+62.46,Motorcycles,76.0,USA,Small,2004.0,6.0,0.0,False,37.0
+79.98,Motorcycles,76.0,France,Small,2004.0,7.0,4.0,False,30.0
+70.08,Motorcycles,76.0,USA,Small,2004.0,8.0,4.0,False,39.0
+65.51,Motorcycles,76.0,Ireland,Small,2004.0,9.0,3.0,False,32.0
+63.22,Motorcycles,76.0,USA,Small,2004.0,10.0,4.0,False,47.0
+86.83,Motorcycles,76.0,USA,Small,2004.0,11.0,1.0,False,26.0
+94.43,Motorcycles,76.0,USA,Medium,2004.0,11.0,0.0,False,37.0
+79.98,Motorcycles,76.0,Spain,Medium,2004.0,11.0,2.0,False,55.0
+100.0,Motorcycles,76.0,Finland,Medium,2005.0,1.0,3.0,False,21.0
+100.0,Motorcycles,76.0,France,Small,2005.0,2.0,3.0,False,23.0
+81.4,Motorcycles,76.0,Sweden,Medium,2005.0,3.0,3.0,False,49.0
+87.6,Motorcycles,76.0,France,Medium,2005.0,4.0,3.0,False,59.0
+87.6,Motorcycles,76.0,Italy,Small,2005.0,5.0,1.0,False,32.0
+100.0,Ships,122.0,Denmark,Medium,2003.0,2.0,1.0,False,43.0
+100.0,Ships,122.0,Singapore,Medium,2003.0,4.0,2.0,False,41.0
+100.0,Ships,122.0,UK,Medium,2003.0,6.0,3.0,False,45.0
+100.0,Ships,122.0,USA,Medium,2003.0,8.0,4.0,False,33.0
+100.0,Ships,122.0,Spain,Medium,2003.0,9.0,6.0,False,40.0
+100.0,Ships,122.0,Sweden,Medium,2003.0,10.0,3.0,False,33.0
+100.0,Ships,122.0,Spain,Medium,2003.0,11.0,4.0,False,50.0
+100.0,Ships,122.0,USA,Medium,2003.0,11.0,4.0,False,30.0
+100.0,Ships,122.0,Spain,Medium,2003.0,11.0,2.0,False,41.0
+100.0,Ships,122.0,France,Medium,2004.0,1.0,4.0,False,35.0
+100.0,Ships,122.0,Belgium,Medium,2004.0,2.0,2.0,False,49.0
+100.0,Ships,122.0,UK,Medium,2004.0,3.0,5.0,False,46.0
+100.0,Ships,122.0,USA,Medium,2004.0,5.0,4.0,False,48.0
+100.0,Ships,122.0,Canada,Medium,2004.0,6.0,3.0,False,36.0
+100.0,Ships,122.0,Belgium,Small,2004.0,7.0,2.0,True,22.0
+100.0,Ships,122.0,Canada,Medium,2004.0,8.0,4.0,False,42.0
+100.0,Ships,122.0,Italy,Small,2004.0,9.0,3.0,False,21.0
+100.0,Ships,122.0,UK,Medium,2004.0,10.0,3.0,False,29.0
+100.0,Ships,122.0,France,Medium,2004.0,10.0,4.0,False,35.0
+100.0,Ships,122.0,Sweden,Medium,2004.0,11.0,1.0,False,41.0
+71.97,Ships,122.0,USA,Small,2004.0,11.0,6.0,False,29.0
+50.33,Ships,122.0,Spain,Small,2004.0,12.0,3.0,False,34.0
+100.0,Ships,122.0,Japan,Medium,2005.0,1.0,2.0,False,37.0
+80.54,Ships,122.0,USA,Small,2005.0,2.0,2.0,False,28.0
+100.0,Ships,122.0,USA,Medium,2005.0,3.0,2.0,False,49.0
+100.0,Ships,122.0,USA,Medium,2005.0,5.0,4.0,False,23.0
+53.76,Vintage Cars,44.0,Germany,Small,2003.0,1.0,3.0,False,46.0
+44.35,Vintage Cars,44.0,UK,Small,2003.0,3.0,1.0,False,39.0
+45.25,Vintage Cars,44.0,USA,Small,2003.0,5.0,2.0,False,22.0
+49.28,Vintage Cars,44.0,USA,Small,2003.0,9.0,4.0,False,49.0
+36.29,Vintage Cars,44.0,USA,Small,2003.0,10.0,5.0,False,43.0
+41.22,Vintage Cars,44.0,Italy,Small,2003.0,11.0,2.0,False,27.0
+36.74,Vintage Cars,44.0,USA,Small,2003.0,11.0,2.0,False,31.0
+50.62,Vintage Cars,44.0,Australia,Small,2003.0,11.0,4.0,False,20.0
+38.08,Vintage Cars,44.0,Spain,Small,2003.0,12.0,2.0,False,24.0
+47.94,Vintage Cars,44.0,Spain,Small,2004.0,1.0,0.0,False,49.0
+48.38,Vintage Cars,44.0,France,Small,2004.0,3.0,1.0,False,24.0
+45.25,Vintage Cars,44.0,Spain,Small,2004.0,4.0,3.0,False,39.0
+45.7,Vintage Cars,44.0,France,Small,2004.0,6.0,4.0,False,37.0
+47.49,Vintage Cars,44.0,Italy,Small,2004.0,8.0,1.0,False,45.0
+48.38,Vintage Cars,44.0,Norway,Small,2004.0,9.0,4.0,False,45.0
+39.42,Vintage Cars,44.0,France,Small,2004.0,10.0,0.0,False,44.0
+37.63,Vintage Cars,44.0,USA,Small,2004.0,10.0,3.0,False,23.0
+100.0,Vintage Cars,44.0,USA,Medium,2004.0,11.0,3.0,False,30.0
+85.52,Vintage Cars,44.0,UK,Small,2004.0,11.0,2.0,False,26.0
+53.76,Vintage Cars,44.0,France,Small,2004.0,11.0,3.0,False,43.0
+31.86,Vintage Cars,44.0,France,Small,2004.0,12.0,3.0,False,26.0
+30.59,Vintage Cars,44.0,USA,Small,2005.0,1.0,2.0,False,28.0
+68.35,Vintage Cars,44.0,Spain,Small,2005.0,2.0,2.0,False,27.0
+100.0,Vintage Cars,44.0,Australia,Medium,2005.0,3.0,2.0,False,24.0
+45.7,Vintage Cars,44.0,USA,Small,2005.0,5.0,6.0,False,40.0
+100.0,Trucks and Buses,127.0,Norway,Medium,2003.0,1.0,2.0,False,36.0
+100.0,Trucks and Buses,127.0,France,Small,2003.0,4.0,1.0,False,21.0
+100.0,Trucks and Buses,127.0,Spain,Medium,2003.0,5.0,2.0,False,27.0
+100.0,Trucks and Buses,127.0,USA,Medium,2003.0,7.0,3.0,False,47.0
+100.0,Trucks and Buses,127.0,Finland,Medium,2003.0,9.0,6.0,False,42.0
+100.0,Trucks and Buses,127.0,Singapore,Medium,2003.0,10.0,2.0,False,32.0
+100.0,Trucks and Buses,127.0,UK,Small,2003.0,11.0,3.0,False,28.0
+100.0,Trucks and Buses,127.0,Spain,Medium,2003.0,11.0,4.0,False,24.0
+100.0,Trucks and Buses,127.0,France,Medium,2003.0,11.0,1.0,False,49.0
+100.0,Trucks and Buses,127.0,USA,Medium,2003.0,12.0,1.0,False,46.0
+100.0,Trucks and Buses,127.0,Singapore,Medium,2004.0,2.0,2.0,False,28.0
+100.0,Trucks and Buses,127.0,USA,Medium,2004.0,3.0,3.0,False,48.0
+100.0,Trucks and Buses,127.0,Spain,Medium,2004.0,5.0,2.0,False,29.0
+100.0,Trucks and Buses,127.0,Singapore,Medium,2004.0,6.0,1.0,False,47.0
+100.0,Trucks and Buses,127.0,USA,Medium,2004.0,7.0,1.0,False,43.0
+100.0,Trucks and Buses,127.0,USA,Small,2004.0,8.0,3.0,False,25.0
+100.0,Trucks and Buses,127.0,Sweden,Medium,2004.0,9.0,2.0,False,48.0
+100.0,Trucks and Buses,127.0,USA,Medium,2004.0,10.0,2.0,False,24.0
+100.0,Trucks and Buses,127.0,Canada,Medium,2004.0,10.0,4.0,False,42.0
+100.0,Trucks and Buses,127.0,USA,Medium,2004.0,11.0,4.0,False,31.0
+100.0,Trucks and Buses,127.0,Sweden,Medium,2004.0,11.0,4.0,False,42.0
+100.0,Trucks and Buses,127.0,Spain,Medium,2004.0,11.0,0.0,True,37.0
+100.0,Trucks and Buses,127.0,Spain,Medium,2004.0,12.0,4.0,False,41.0
+100.0,Trucks and Buses,127.0,USA,Medium,2005.0,1.0,6.0,False,20.0
+100.0,Trucks and Buses,127.0,USA,Small,2005.0,2.0,3.0,False,20.0
+100.0,Trucks and Buses,127.0,Spain,Large,2005.0,5.0,1.0,False,70.0
+100.0,Trucks and Buses,127.0,France,Medium,2005.0,5.0,1.0,False,49.0
+58.87,Motorcycles,69.0,Philippines,Small,2003.0,3.0,0.0,False,35.0
+76.88,Motorcycles,69.0,France,Small,2003.0,5.0,2.0,False,32.0
+61.64,Motorcycles,69.0,USA,Small,2003.0,7.0,2.0,False,29.0
+60.95,Motorcycles,69.0,USA,Small,2003.0,8.0,0.0,False,27.0
+80.34,Motorcycles,69.0,USA,Small,2003.0,10.0,4.0,False,27.0
+74.11,Motorcycles,69.0,Australia,Small,2003.0,11.0,1.0,False,38.0
+72.03,Motorcycles,69.0,France,Small,2003.0,11.0,1.0,True,35.0
+76.19,Motorcycles,69.0,Spain,Medium,2003.0,11.0,2.0,False,42.0
+63.72,Motorcycles,69.0,France,Small,2004.0,1.0,3.0,False,21.0
+80.34,Motorcycles,69.0,France,Small,2004.0,2.0,5.0,False,37.0
+79.65,Motorcycles,69.0,USA,Small,2004.0,4.0,0.0,False,26.0
+65.8,Motorcycles,69.0,France,Medium,2004.0,5.0,2.0,False,47.0
+65.1,Motorcycles,69.0,USA,Small,2004.0,6.0,2.0,False,37.0
+75.49,Motorcycles,69.0,USA,Medium,2004.0,8.0,0.0,False,46.0
+59.56,Motorcycles,69.0,USA,Small,2004.0,8.0,4.0,False,38.0
+66.49,Motorcycles,69.0,Finland,Small,2004.0,9.0,3.0,False,33.0
+56.1,Motorcycles,69.0,Norway,Small,2004.0,10.0,4.0,False,24.0
+81.73,Motorcycles,69.0,USA,Small,2004.0,11.0,2.0,False,31.0
+81.03,Motorcycles,69.0,Philippines,Medium,2004.0,11.0,1.0,False,42.0
+100.0,Motorcycles,69.0,Austria,Medium,2004.0,11.0,2.0,False,32.0
+70.65,Motorcycles,69.0,Spain,Small,2004.0,12.0,1.0,False,41.0
+61.23,Motorcycles,69.0,Finland,Small,2005.0,1.0,3.0,False,43.0
+100.0,Motorcycles,69.0,France,Small,2005.0,2.0,3.0,False,20.0
+65.13,Motorcycles,69.0,USA,Small,2005.0,3.0,4.0,False,35.0
+79.65,Motorcycles,69.0,UK,Small,2005.0,4.0,4.0,False,27.0
+78.15,Classic Cars,90.0,UK,Medium,2003.0,3.0,1.0,False,43.0
+72.7,Classic Cars,90.0,USA,Small,2003.0,5.0,2.0,False,32.0
+73.6,Classic Cars,90.0,Australia,Small,2003.0,9.0,3.0,False,21.0
+100.0,Classic Cars,90.0,Denmark,Small,2003.0,10.0,4.0,False,20.0
+74.51,Classic Cars,90.0,USA,Small,2003.0,11.0,2.0,False,22.0
+73.6,Classic Cars,90.0,USA,Small,2003.0,11.0,2.0,False,36.0
+83.6,Classic Cars,90.0,USA,Medium,2003.0,11.0,3.0,False,46.0
+96.32,Classic Cars,90.0,USA,Medium,2003.0,12.0,1.0,False,47.0
+88.14,Classic Cars,90.0,Spain,Medium,2004.0,1.0,4.0,False,45.0
+88.14,Classic Cars,90.0,France,Medium,2004.0,3.0,1.0,False,47.0
+94.5,Classic Cars,90.0,France,Medium,2004.0,4.0,1.0,False,47.0
+87.24,Classic Cars,90.0,USA,Medium,2004.0,7.0,2.0,False,38.0
+79.97,Classic Cars,90.0,Spain,Medium,2004.0,8.0,0.0,False,49.0
+80.87,Classic Cars,90.0,Singapore,Small,2004.0,9.0,2.0,False,35.0
+100.0,Classic Cars,90.0,UK,Medium,2003.0,10.0,0.0,False,49.0
+93.6,Classic Cars,90.0,Spain,Small,2004.0,10.0,5.0,False,28.0
+72.7,Classic Cars,90.0,USA,Small,2004.0,11.0,3.0,False,30.0
+86.72,Classic Cars,90.0,UK,Medium,2004.0,11.0,2.0,False,39.0
+100.0,Classic Cars,90.0,USA,Small,2004.0,11.0,0.0,False,25.0
+100.0,Classic Cars,90.0,USA,Medium,2005.0,1.0,2.0,False,40.0
+37.5,Classic Cars,90.0,Spain,Small,2005.0,2.0,2.0,False,36.0
+94.5,Classic Cars,90.0,USA,Large,2005.0,4.0,4.0,False,76.0
+100.0,Classic Cars,90.0,Australia,Medium,2005.0,5.0,6.0,False,39.0
+39.6,Classic Cars,35.0,Spain,Small,2003.0,1.0,4.0,False,44.0
+30.06,Classic Cars,35.0,France,Small,2003.0,4.0,1.0,False,24.0
+38.19,Classic Cars,35.0,USA,Small,2003.0,6.0,1.0,False,39.0
+42.43,Classic Cars,35.0,Finland,Small,2003.0,8.0,4.0,False,21.0
+40.31,Classic Cars,35.0,Finland,Small,2003.0,9.0,6.0,False,30.0
+31.82,Classic Cars,35.0,Singapore,Small,2003.0,10.0,2.0,False,27.0
+31.12,Classic Cars,35.0,UK,Small,2003.0,11.0,3.0,False,37.0
+31.82,Classic Cars,35.0,Spain,Small,2003.0,11.0,4.0,False,42.0
+28.29,Classic Cars,35.0,USA,Small,2003.0,11.0,1.0,False,32.0
+29.7,Classic Cars,35.0,USA,Small,2003.0,12.0,1.0,False,42.0
+40.31,Classic Cars,35.0,USA,Small,2004.0,2.0,1.0,False,21.0
+32.88,Classic Cars,35.0,USA,Small,2004.0,3.0,3.0,False,33.0
+36.07,Classic Cars,35.0,Spain,Small,2004.0,5.0,2.0,False,49.0
+33.24,Classic Cars,35.0,Singapore,Small,2004.0,6.0,1.0,False,31.0
+41.72,Classic Cars,35.0,USA,Small,2004.0,7.0,1.0,False,38.0
+40.66,Classic Cars,35.0,USA,Small,2004.0,8.0,3.0,False,20.0
+30.06,Classic Cars,35.0,USA,Small,2004.0,9.0,2.0,False,39.0
+31.47,Classic Cars,35.0,USA,Small,2004.0,10.0,2.0,False,48.0
+37.13,Classic Cars,35.0,Denmark,Small,2004.0,10.0,4.0,False,39.0
+100.0,Classic Cars,35.0,USA,Medium,2004.0,11.0,4.0,False,30.0
+37.13,Classic Cars,35.0,USA,Small,2004.0,11.0,4.0,False,33.0
+37.13,Classic Cars,35.0,USA,Small,2004.0,12.0,2.0,False,36.0
+82.94,Classic Cars,35.0,Spain,Small,2004.0,12.0,4.0,False,36.0
+100.0,Classic Cars,35.0,USA,Medium,2005.0,1.0,6.0,False,45.0
+100.0,Classic Cars,35.0,Spain,Medium,2005.0,2.0,1.0,False,40.0
+38.9,Classic Cars,35.0,Spain,Small,2005.0,3.0,1.0,False,46.0
+36.07,Classic Cars,35.0,Spain,Small,2005.0,5.0,1.0,False,30.0
+33.24,Classic Cars,35.0,France,Small,2005.0,5.0,1.0,False,31.0
+74.68,Planes,68.0,Italy,Medium,2003.0,2.0,0.0,False,49.0
+59.6,Planes,68.0,Austria,Small,2003.0,4.0,0.0,False,41.0
+67.14,Planes,68.0,USA,Small,2003.0,6.0,0.0,False,35.0
+60.97,Planes,68.0,USA,Small,2003.0,8.0,6.0,False,27.0
+72.62,Planes,68.0,Finland,Small,2003.0,10.0,0.0,False,23.0
+69.88,Planes,68.0,Sweden,Small,2003.0,10.0,3.0,False,21.0
+80.84,Planes,68.0,France,Small,2003.0,11.0,5.0,False,34.0
+69.2,Planes,68.0,UK,Small,2003.0,11.0,4.0,False,22.0
+67.82,Planes,68.0,Philippines,Medium,2003.0,11.0,3.0,False,48.0
+82.21,Planes,68.0,USA,Medium,2004.0,1.0,4.0,False,43.0
+81.53,Planes,68.0,USA,Small,2004.0,2.0,3.0,False,32.0
+67.82,Planes,68.0,USA,Small,2004.0,5.0,5.0,False,20.0
+67.14,Planes,68.0,Spain,Small,2004.0,6.0,3.0,False,24.0
+65.08,Planes,68.0,USA,Small,2004.0,7.0,2.0,False,40.0
+73.99,Planes,68.0,Norway,Small,2004.0,8.0,5.0,False,30.0
+71.25,Planes,68.0,Germany,Small,2004.0,9.0,2.0,False,21.0
+75.36,Planes,68.0,USA,Small,2004.0,10.0,3.0,False,25.0
+63.71,Planes,68.0,UK,Small,2004.0,11.0,0.0,False,34.0
+58.92,Planes,68.0,Italy,Small,2004.0,11.0,4.0,False,48.0
+100.0,Planes,68.0,Japan,Medium,2004.0,11.0,1.0,True,55.0
+74.68,Planes,68.0,UK,Small,2004.0,12.0,4.0,False,25.0
+70.44,Planes,68.0,Finland,Small,2005.0,1.0,0.0,False,38.0
+55.96,Planes,68.0,Spain,Small,2005.0,3.0,1.0,False,39.0
+57.55,Planes,68.0,France,Small,2005.0,3.0,2.0,False,28.0
+61.66,Planes,68.0,USA,Small,2005.0,4.0,4.0,False,24.0
+67.82,Planes,68.0,Australia,Small,2005.0,5.0,0.0,False,21.0
+100.0,Classic Cars,117.0,UK,Medium,2003.0,3.0,1.0,False,46.0
+93.95,Classic Cars,117.0,USA,Small,2003.0,5.0,2.0,False,25.0
+100.0,Classic Cars,117.0,Australia,Medium,2003.0,9.0,3.0,False,34.0
+100.0,Classic Cars,117.0,Denmark,Small,2003.0,10.0,4.0,False,25.0
+100.0,Classic Cars,117.0,Italy,Small,2003.0,11.0,2.0,False,23.0
+100.0,Classic Cars,117.0,USA,Small,2003.0,11.0,2.0,False,20.0
+100.0,Classic Cars,117.0,USA,Medium,2003.0,11.0,3.0,False,23.0
+100.0,Classic Cars,117.0,USA,Medium,2003.0,12.0,1.0,False,42.0
+100.0,Classic Cars,117.0,UK,Small,2004.0,1.0,3.0,False,27.0
+100.0,Classic Cars,117.0,France,Medium,2004.0,3.0,1.0,False,33.0
+98.65,Classic Cars,117.0,France,Small,2004.0,4.0,1.0,False,28.0
+100.0,Classic Cars,117.0,USA,Medium,2004.0,7.0,2.0,False,43.0
+100.0,Classic Cars,117.0,Spain,Medium,2004.0,8.0,0.0,False,48.0
+100.0,Classic Cars,117.0,Singapore,Medium,2004.0,9.0,2.0,False,48.0
+100.0,Classic Cars,117.0,UK,Medium,2003.0,10.0,0.0,False,45.0
+100.0,Classic Cars,117.0,Spain,Medium,2004.0,10.0,5.0,False,43.0
+42.26,Classic Cars,117.0,UK,Small,2004.0,11.0,2.0,False,44.0
+87.24,Classic Cars,117.0,USA,Small,2004.0,11.0,0.0,False,24.0
+100.0,Classic Cars,117.0,USA,Medium,2005.0,1.0,2.0,False,31.0
+36.29,Classic Cars,117.0,Spain,Small,2005.0,2.0,2.0,False,44.0
+98.65,Classic Cars,117.0,USA,Medium,2005.0,4.0,4.0,False,59.0
+96.3,Classic Cars,117.0,Australia,Medium,2005.0,5.0,6.0,False,55.0
+32.1,Classic Cars,37.0,USA,Small,2003.0,3.0,0.0,False,29.0
+30.96,Classic Cars,37.0,France,Small,2003.0,5.0,3.0,True,39.0
+35.87,Classic Cars,37.0,USA,Small,2003.0,7.0,2.0,False,20.0
+42.67,Classic Cars,37.0,USA,Small,2003.0,9.0,4.0,False,25.0
+37.0,Classic Cars,37.0,USA,Small,2003.0,10.0,5.0,False,42.0
+35.49,Classic Cars,37.0,Canada,Small,2003.0,11.0,2.0,False,36.0
+42.67,Classic Cars,37.0,Norway,Small,2003.0,11.0,2.0,False,37.0
+30.59,Classic Cars,37.0,USA,Small,2003.0,11.0,3.0,False,30.0
+37.0,Classic Cars,37.0,Spain,Small,2003.0,12.0,1.0,False,21.0
+43.42,Classic Cars,37.0,Spain,Small,2004.0,1.0,4.0,False,34.0
+36.63,Classic Cars,37.0,Switzerland,Small,2004.0,2.0,6.0,False,42.0
+44.56,Classic Cars,37.0,Finland,Small,2004.0,4.0,0.0,True,20.0
+42.67,Classic Cars,37.0,UK,Small,2004.0,6.0,1.0,False,40.0
+40.4,Classic Cars,37.0,Italy,Small,2004.0,7.0,1.0,False,34.0
+38.89,Classic Cars,37.0,USA,Small,2004.0,8.0,4.0,False,31.0
+39.65,Classic Cars,37.0,Switzerland,Small,2004.0,8.0,0.0,False,36.0
+34.36,Classic Cars,37.0,Norway,Small,2003.0,10.0,6.0,False,48.0
+41.91,Classic Cars,37.0,Germany,Small,2004.0,10.0,5.0,False,33.0
+33.23,Classic Cars,37.0,USA,Small,2004.0,11.0,3.0,False,37.0
+42.24,Classic Cars,37.0,USA,Small,2004.0,11.0,2.0,False,27.0
+40.4,Classic Cars,37.0,Australia,Small,2004.0,11.0,2.0,False,39.0
+38.52,Classic Cars,37.0,Spain,Small,2004.0,12.0,1.0,False,36.0
+100.0,Classic Cars,37.0,USA,Medium,2005.0,1.0,2.0,False,36.0
+100.0,Classic Cars,37.0,Spain,Medium,2005.0,2.0,3.0,False,41.0
+100.0,Classic Cars,37.0,USA,Medium,2005.0,3.0,4.0,False,37.0
+44.56,Classic Cars,37.0,France,Small,2005.0,4.0,3.0,False,47.0
+42.67,Classic Cars,37.0,Austria,Small,2005.0,5.0,1.0,False,15.0
+72.58,Vintage Cars,88.0,Denmark,Medium,2003.0,2.0,1.0,False,44.0
+87.62,Vintage Cars,88.0,Austria,Medium,2003.0,4.0,0.0,False,35.0
+94.71,Vintage Cars,88.0,UK,Medium,2003.0,6.0,3.0,False,41.0
+98.25,Vintage Cars,88.0,USA,Medium,2003.0,8.0,4.0,False,49.0
+91.17,Vintage Cars,88.0,USA,Small,2003.0,10.0,3.0,False,31.0
+79.66,Vintage Cars,88.0,Sweden,Small,2003.0,10.0,3.0,False,20.0
+72.58,Vintage Cars,88.0,Spain,Medium,2003.0,11.0,4.0,False,45.0
+74.35,Vintage Cars,88.0,USA,Small,2003.0,11.0,4.0,False,33.0
+83.2,Vintage Cars,88.0,Spain,Medium,2003.0,11.0,2.0,False,47.0
+89.4,Vintage Cars,88.0,France,Small,2004.0,1.0,4.0,False,20.0
+70.81,Vintage Cars,88.0,USA,Medium,2004.0,2.0,3.0,False,47.0
+94.71,Vintage Cars,88.0,USA,Medium,2004.0,3.0,0.0,False,40.0
+100.0,Vintage Cars,88.0,USA,Medium,2004.0,5.0,4.0,False,30.0
+91.17,Vintage Cars,88.0,Canada,Small,2004.0,6.0,3.0,False,22.0
+100.0,Vintage Cars,88.0,Belgium,Small,2004.0,7.0,2.0,True,27.0
+92.94,Vintage Cars,88.0,Canada,Medium,2004.0,8.0,4.0,False,34.0
+84.97,Vintage Cars,88.0,USA,Medium,2004.0,9.0,4.0,False,46.0
+84.08,Vintage Cars,88.0,UK,Small,2004.0,10.0,3.0,False,31.0
+86.74,Vintage Cars,88.0,France,Small,2004.0,10.0,4.0,False,24.0
+85.85,Vintage Cars,88.0,Sweden,Medium,2004.0,11.0,1.0,False,41.0
+100.0,Vintage Cars,88.0,Japan,Large,2004.0,11.0,1.0,True,55.0
+100.0,Vintage Cars,88.0,Spain,Medium,2004.0,12.0,3.0,False,30.0
+57.32,Vintage Cars,88.0,Finland,Small,2005.0,1.0,0.0,False,33.0
+97.87,Vintage Cars,88.0,USA,Medium,2005.0,2.0,2.0,False,43.0
+83.2,Vintage Cars,88.0,USA,Small,2005.0,3.0,2.0,False,27.0
+100.0,Vintage Cars,88.0,USA,Medium,2005.0,5.0,4.0,False,60.0
+73.62,Classic Cars,85.0,UK,Small,2003.0,3.0,1.0,False,27.0
+83.04,Classic Cars,85.0,USA,Medium,2003.0,5.0,2.0,False,49.0
+73.62,Classic Cars,85.0,Australia,Small,2003.0,9.0,3.0,False,31.0
+77.05,Classic Cars,85.0,Denmark,Small,2003.0,10.0,4.0,False,20.0
+81.33,Classic Cars,85.0,USA,Small,2003.0,11.0,2.0,False,24.0
+94.17,Classic Cars,85.0,USA,Medium,2003.0,11.0,2.0,False,33.0
+72.77,Classic Cars,85.0,USA,Small,2003.0,11.0,3.0,False,32.0
+79.62,Classic Cars,85.0,USA,Medium,2003.0,12.0,1.0,False,40.0
+79.62,Classic Cars,85.0,Spain,Small,2004.0,1.0,4.0,False,27.0
+79.62,Classic Cars,85.0,France,Medium,2004.0,3.0,1.0,False,40.0
+81.33,Classic Cars,85.0,France,Small,2004.0,4.0,1.0,False,26.0
+96.74,Classic Cars,85.0,USA,Medium,2004.0,7.0,2.0,False,44.0
+71.06,Classic Cars,85.0,Spain,Small,2004.0,8.0,0.0,False,33.0
+68.49,Classic Cars,85.0,Singapore,Small,2004.0,9.0,2.0,False,34.0
+74.48,Classic Cars,85.0,UK,Medium,2003.0,10.0,0.0,False,48.0
+83.04,Classic Cars,85.0,Spain,Small,2004.0,10.0,5.0,False,25.0
+84.75,Classic Cars,85.0,USA,Medium,2004.0,11.0,3.0,False,39.0
+34.19,Classic Cars,85.0,UK,Small,2004.0,11.0,2.0,False,45.0
+100.0,Classic Cars,85.0,USA,Medium,2004.0,11.0,0.0,False,24.0
+79.62,Classic Cars,85.0,USA,Medium,2005.0,1.0,2.0,False,46.0
+79.06,Classic Cars,85.0,Spain,Medium,2005.0,2.0,2.0,False,44.0
+81.33,Classic Cars,85.0,USA,Small,2005.0,4.0,4.0,False,13.0
+96.74,Classic Cars,85.0,Australia,Medium,2005.0,5.0,6.0,False,35.0
+63.07,Classic Cars,61.0,Philippines,Small,2003.0,3.0,0.0,False,30.0
+50.21,Classic Cars,61.0,France,Small,2003.0,5.0,3.0,True,34.0
+66.13,Classic Cars,61.0,USA,Small,2003.0,7.0,2.0,False,27.0
+68.58,Classic Cars,61.0,USA,Small,2003.0,9.0,4.0,False,30.0
+69.8,Classic Cars,61.0,USA,Medium,2003.0,10.0,4.0,False,50.0
+50.21,Classic Cars,61.0,Australia,Small,2003.0,11.0,1.0,False,34.0
+65.52,Classic Cars,61.0,Norway,Small,2003.0,11.0,2.0,False,23.0
+60.01,Classic Cars,61.0,Germany,Small,2003.0,11.0,3.0,False,48.0
+64.9,Classic Cars,61.0,Spain,Small,2003.0,12.0,1.0,False,34.0
+48.98,Classic Cars,61.0,France,Small,2004.0,1.0,3.0,False,48.0
+50.21,Classic Cars,61.0,Switzerland,Small,2004.0,2.0,6.0,False,24.0
+62.45,Classic Cars,61.0,Denmark,Small,2004.0,4.0,4.0,False,47.0
+52.66,Classic Cars,61.0,UK,Small,2004.0,6.0,1.0,False,24.0
+62.45,Classic Cars,61.0,Italy,Small,2004.0,7.0,1.0,False,47.0
+61.23,Classic Cars,61.0,USA,Small,2004.0,8.0,0.0,False,20.0
+67.97,Classic Cars,61.0,Switzerland,Small,2004.0,8.0,0.0,False,20.0
+58.78,Classic Cars,61.0,Germany,Small,2003.0,10.0,5.0,False,31.0
+56.94,Classic Cars,61.0,Germany,Small,2004.0,10.0,5.0,False,38.0
+61.23,Classic Cars,61.0,Sweden,Small,2004.0,11.0,2.0,False,26.0
+100.0,Classic Cars,61.0,USA,Medium,2004.0,11.0,2.0,False,25.0
+62.45,Classic Cars,61.0,Australia,Small,2004.0,11.0,2.0,False,48.0
+62.45,Classic Cars,61.0,Spain,Small,2004.0,12.0,1.0,False,44.0
+100.0,Classic Cars,61.0,Finland,Small,2005.0,1.0,3.0,False,21.0
+41.54,Classic Cars,61.0,Spain,Small,2005.0,2.0,3.0,False,46.0
+52.84,Classic Cars,61.0,USA,Small,2005.0,3.0,4.0,False,46.0
+52.66,Classic Cars,61.0,Austria,Small,2005.0,5.0,1.0,False,55.0
+52.6,Vintage Cars,65.0,Italy,Small,2003.0,2.0,0.0,False,31.0
+72.98,Vintage Cars,65.0,Austria,Small,2003.0,4.0,0.0,False,20.0
+59.18,Vintage Cars,65.0,USA,Small,2003.0,6.0,0.0,False,29.0
+77.59,Vintage Cars,65.0,USA,Small,2003.0,8.0,6.0,False,33.0
+55.89,Vintage Cars,65.0,Finland,Small,2003.0,10.0,0.0,False,34.0
+63.12,Vintage Cars,65.0,Sweden,Small,2003.0,10.0,3.0,False,32.0
+73.64,Vintage Cars,65.0,France,Small,2003.0,11.0,5.0,False,27.0
+69.04,Vintage Cars,65.0,UK,Small,2003.0,11.0,4.0,False,21.0
+71.67,Vintage Cars,65.0,Philippines,Small,2003.0,11.0,3.0,False,27.0
+77.59,Vintage Cars,65.0,USA,Small,2004.0,1.0,4.0,False,36.0
+70.35,Vintage Cars,65.0,USA,Medium,2004.0,2.0,3.0,False,43.0
+69.7,Vintage Cars,65.0,USA,Small,2004.0,5.0,5.0,False,25.0
+70.35,Vintage Cars,65.0,Spain,Medium,2004.0,6.0,3.0,False,46.0
+72.33,Vintage Cars,65.0,USA,Small,2004.0,7.0,2.0,False,24.0
+71.67,Vintage Cars,65.0,Norway,Small,2004.0,8.0,5.0,False,39.0
+53.92,Vintage Cars,65.0,Germany,Small,2004.0,9.0,2.0,False,31.0
+71.67,Vintage Cars,65.0,USA,Small,2004.0,10.0,3.0,False,22.0
+76.93,Vintage Cars,65.0,UK,Medium,2004.0,11.0,0.0,False,47.0
+72.98,Vintage Cars,65.0,Italy,Small,2004.0,11.0,4.0,False,20.0
+99.69,Vintage Cars,65.0,Japan,Small,2004.0,11.0,1.0,True,29.0
+68.38,Vintage Cars,65.0,UK,Small,2004.0,12.0,4.0,False,38.0
+100.0,Vintage Cars,65.0,Australia,Medium,2004.0,12.0,4.0,False,34.0
+66.0,Vintage Cars,65.0,Finland,Medium,2005.0,1.0,0.0,False,46.0
+63.76,Vintage Cars,65.0,Spain,Small,2005.0,3.0,1.0,False,35.0
+71.67,Vintage Cars,65.0,France,Small,2005.0,3.0,2.0,False,34.0
+57.2,Vintage Cars,65.0,USA,Small,2005.0,4.0,4.0,False,38.0
+69.7,Vintage Cars,65.0,Australia,Small,2005.0,5.0,0.0,False,18.0
+100.0,Classic Cars,107.0,UK,Medium,2003.0,3.0,1.0,False,37.0
+100.0,Classic Cars,107.0,USA,Medium,2003.0,5.0,2.0,False,43.0
+100.0,Classic Cars,107.0,Australia,Medium,2003.0,9.0,3.0,False,27.0
+100.0,Classic Cars,107.0,Denmark,Medium,2003.0,10.0,4.0,False,30.0
+98.51,Classic Cars,107.0,USA,Small,2003.0,11.0,2.0,False,22.0
+100.0,Classic Cars,107.0,USA,Medium,2003.0,11.0,2.0,False,49.0
+100.0,Classic Cars,107.0,USA,Medium,2003.0,11.0,3.0,False,46.0
+91.02,Classic Cars,107.0,USA,Medium,2003.0,12.0,1.0,False,48.0
+87.81,Classic Cars,107.0,Spain,Medium,2004.0,1.0,4.0,False,46.0
+92.09,Classic Cars,107.0,USA,Medium,2004.0,2.0,3.0,False,48.0
+86.73,Classic Cars,107.0,France,Small,2004.0,4.0,1.0,False,27.0
+100.0,Classic Cars,107.0,USA,Medium,2004.0,7.0,2.0,False,43.0
+100.0,Classic Cars,107.0,Spain,Medium,2004.0,8.0,0.0,False,48.0
+100.0,Classic Cars,107.0,Singapore,Medium,2004.0,9.0,2.0,False,41.0
+96.37,Classic Cars,107.0,Norway,Small,2003.0,10.0,6.0,False,22.0
+92.09,Classic Cars,107.0,Spain,Medium,2004.0,10.0,5.0,False,46.0
+89.95,Classic Cars,107.0,USA,Small,2004.0,11.0,3.0,False,21.0
+37.18,Classic Cars,107.0,UK,Small,2004.0,11.0,2.0,False,31.0
+95.88,Classic Cars,107.0,USA,Small,2004.0,11.0,0.0,False,26.0
+99.58,Classic Cars,107.0,USA,Small,2005.0,1.0,2.0,False,20.0
+100.0,Classic Cars,107.0,Spain,Medium,2005.0,2.0,2.0,False,34.0
+86.73,Classic Cars,107.0,USA,Medium,2005.0,4.0,4.0,False,43.0
+100.0,Classic Cars,107.0,Australia,Small,2005.0,5.0,6.0,False,26.0
+79.67,Vintage Cars,83.0,Denmark,Medium,2003.0,2.0,1.0,False,50.0
+90.57,Vintage Cars,83.0,Austria,Medium,2003.0,4.0,0.0,False,35.0
+77.99,Vintage Cars,83.0,UK,Medium,2003.0,6.0,3.0,False,50.0
+80.51,Vintage Cars,83.0,USA,Small,2003.0,8.0,6.0,False,23.0
+67.93,Vintage Cars,83.0,Finland,Small,2003.0,10.0,0.0,False,37.0
+83.86,Vintage Cars,83.0,Sweden,Small,2003.0,10.0,3.0,False,29.0
+72.12,Vintage Cars,83.0,France,Small,2003.0,11.0,5.0,False,21.0
+85.54,Vintage Cars,83.0,UK,Medium,2003.0,11.0,4.0,False,36.0
+86.38,Vintage Cars,83.0,Spain,Small,2003.0,11.0,2.0,False,22.0
+89.73,Vintage Cars,83.0,USA,Small,2004.0,1.0,4.0,False,22.0
+80.51,Vintage Cars,83.0,USA,Medium,2004.0,2.0,3.0,False,46.0
+76.31,Vintage Cars,83.0,USA,Small,2004.0,5.0,4.0,False,23.0
+87.21,Vintage Cars,83.0,Spain,Medium,2004.0,6.0,3.0,False,49.0
+83.02,Vintage Cars,83.0,Belgium,Medium,2004.0,7.0,2.0,True,48.0
+72.96,Vintage Cars,83.0,Canada,Small,2004.0,8.0,4.0,False,33.0
+77.15,Vintage Cars,83.0,Germany,Small,2004.0,9.0,2.0,False,22.0
+91.41,Vintage Cars,83.0,USA,Small,2004.0,10.0,3.0,False,22.0
+92.25,Vintage Cars,83.0,UK,Small,2004.0,11.0,0.0,False,25.0
+92.25,Vintage Cars,83.0,Sweden,Small,2004.0,11.0,1.0,False,20.0
+59.36,Vintage Cars,83.0,Japan,Small,2004.0,11.0,1.0,True,42.0
+60.34,Vintage Cars,83.0,Spain,Small,2004.0,12.0,3.0,False,25.0
+100.0,Vintage Cars,83.0,Finland,Small,2005.0,1.0,0.0,False,23.0
+85.54,Vintage Cars,83.0,USA,Medium,2005.0,2.0,0.0,False,37.0
+90.57,Vintage Cars,83.0,USA,Medium,2005.0,3.0,2.0,False,37.0
+72.96,Vintage Cars,83.0,USA,Medium,2005.0,4.0,4.0,False,42.0
+76.31,Vintage Cars,83.0,USA,Medium,2005.0,5.0,4.0,False,51.0
+100.0,Classic Cars,140.0,Philippines,Medium,2003.0,3.0,0.0,False,40.0
+100.0,Classic Cars,140.0,France,Medium,2003.0,5.0,3.0,True,43.0
+100.0,Classic Cars,140.0,USA,Medium,2003.0,7.0,2.0,False,47.0
+100.0,Classic Cars,140.0,USA,Small,2003.0,9.0,4.0,False,23.0
+100.0,Classic Cars,140.0,USA,Medium,2003.0,10.0,5.0,False,35.0
+100.0,Classic Cars,140.0,Austria,Medium,2003.0,11.0,1.0,False,34.0
+100.0,Classic Cars,140.0,Norway,Medium,2003.0,11.0,2.0,False,25.0
+100.0,Classic Cars,140.0,USA,Medium,2003.0,11.0,3.0,False,45.0
+100.0,Classic Cars,140.0,Spain,Medium,2003.0,12.0,1.0,False,47.0
+100.0,Classic Cars,140.0,Spain,Medium,2004.0,1.0,4.0,False,49.0
+100.0,Classic Cars,140.0,Switzerland,Medium,2004.0,2.0,6.0,False,40.0
+100.0,Classic Cars,140.0,Finland,Medium,2004.0,4.0,0.0,True,29.0
+100.0,Classic Cars,140.0,UK,Medium,2004.0,6.0,1.0,False,39.0
+100.0,Classic Cars,140.0,Italy,Small,2004.0,7.0,1.0,False,24.0
+100.0,Classic Cars,140.0,USA,Medium,2004.0,8.0,4.0,False,25.0
+100.0,Classic Cars,140.0,Switzerland,Medium,2004.0,8.0,0.0,False,36.0
+100.0,Classic Cars,140.0,Norway,Large,2003.0,10.0,6.0,False,50.0
+100.0,Classic Cars,140.0,Germany,Medium,2004.0,10.0,5.0,False,45.0
+100.0,Classic Cars,140.0,USA,Medium,2004.0,11.0,3.0,False,26.0
+100.0,Classic Cars,140.0,USA,Medium,2004.0,11.0,2.0,False,21.0
+100.0,Classic Cars,140.0,Australia,Medium,2004.0,11.0,2.0,False,42.0
+100.0,Classic Cars,140.0,Spain,Medium,2004.0,12.0,1.0,False,32.0
+94.58,Classic Cars,140.0,Finland,Small,2005.0,1.0,3.0,False,31.0
+53.27,Classic Cars,140.0,Spain,Small,2005.0,2.0,3.0,False,33.0
+100.0,Classic Cars,140.0,USA,Medium,2005.0,3.0,4.0,False,45.0
+100.0,Classic Cars,140.0,France,Large,2005.0,4.0,3.0,False,76.0
+100.0,Classic Cars,140.0,Austria,Large,2005.0,5.0,1.0,False,70.0
+64.83,Planes,68.0,Italy,Medium,2003.0,2.0,0.0,False,50.0
+70.29,Planes,68.0,Austria,Small,2003.0,4.0,0.0,False,28.0
+81.89,Planes,68.0,USA,Medium,2003.0,6.0,0.0,False,50.0
+66.19,Planes,68.0,USA,Small,2003.0,8.0,6.0,False,28.0
+77.11,Planes,68.0,Finland,Medium,2003.0,10.0,0.0,False,44.0
+73.02,Planes,68.0,USA,Small,2003.0,10.0,1.0,False,27.0
+72.33,Planes,68.0,France,Small,2003.0,11.0,5.0,False,30.0
+66.19,Planes,68.0,Philippines,Small,2003.0,11.0,3.0,False,43.0
+69.6,Planes,68.0,Japan,Small,2004.0,1.0,0.0,True,29.0
+56.64,Planes,68.0,USA,Small,2004.0,2.0,3.0,False,48.0
+60.05,Planes,68.0,Canada,Small,2004.0,4.0,4.0,False,33.0
+75.06,Planes,68.0,USA,Medium,2004.0,5.0,1.0,False,40.0
+61.42,Planes,68.0,Spain,Small,2004.0,6.0,3.0,False,48.0
+81.89,Planes,68.0,France,Medium,2004.0,7.0,4.0,False,41.0
+55.96,Planes,68.0,Norway,Small,2004.0,8.0,5.0,False,21.0
+71.65,Planes,68.0,Germany,Small,2004.0,9.0,2.0,False,32.0
+76.43,Planes,68.0,USA,Medium,2004.0,10.0,4.0,False,43.0
+77.79,Planes,68.0,UK,Small,2004.0,11.0,0.0,False,30.0
+76.43,Planes,68.0,Italy,Small,2004.0,11.0,4.0,False,35.0
+96.92,Planes,68.0,Japan,Medium,2004.0,11.0,1.0,True,45.0
+59.37,Planes,68.0,UK,Small,2004.0,12.0,4.0,False,34.0
+100.0,Planes,68.0,Australia,Medium,2004.0,12.0,4.0,False,26.0
+73.0,Planes,68.0,Finland,Small,2005.0,1.0,0.0,False,39.0
+73.32,Planes,68.0,Spain,Medium,2005.0,3.0,1.0,False,41.0
+68.24,Planes,68.0,France,Small,2005.0,3.0,2.0,False,41.0
+60.05,Planes,68.0,USA,Medium,2005.0,4.0,6.0,False,64.0
+75.06,Planes,68.0,Italy,Small,2005.0,5.0,1.0,False,18.0
+34.47,Vintage Cars,41.0,USA,Small,2003.0,1.0,0.0,False,49.0
+34.47,Vintage Cars,41.0,UK,Small,2003.0,3.0,1.0,False,48.0
+33.23,Vintage Cars,41.0,USA,Small,2003.0,5.0,2.0,False,46.0
+38.98,Vintage Cars,41.0,USA,Small,2003.0,9.0,4.0,False,26.0
+38.98,Vintage Cars,41.0,USA,Small,2003.0,10.0,5.0,False,37.0
+33.23,Vintage Cars,41.0,Italy,Small,2003.0,11.0,2.0,False,35.0
+42.26,Vintage Cars,41.0,USA,Small,2003.0,11.0,2.0,False,23.0
+41.03,Vintage Cars,41.0,Australia,Small,2003.0,11.0,4.0,False,22.0
+33.23,Vintage Cars,41.0,USA,Small,2003.0,12.0,1.0,False,39.0
+34.88,Vintage Cars,41.0,Spain,Small,2004.0,1.0,0.0,False,44.0
+43.9,Vintage Cars,41.0,France,Small,2004.0,3.0,1.0,False,27.0
+36.93,Vintage Cars,41.0,USA,Small,2004.0,4.0,1.0,False,46.0
+41.85,Vintage Cars,41.0,Italy,Small,2004.0,8.0,1.0,False,33.0
+40.62,Vintage Cars,41.0,Singapore,Small,2004.0,9.0,2.0,False,33.0
+40.21,Vintage Cars,41.0,Spain,Small,2004.0,10.0,2.0,False,24.0
+35.29,Vintage Cars,41.0,USA,Small,2004.0,10.0,3.0,False,31.0
+77.24,Vintage Cars,41.0,UK,Medium,2004.0,11.0,2.0,False,41.0
+97.44,Vintage Cars,41.0,USA,Small,2004.0,11.0,0.0,False,22.0
+37.34,Vintage Cars,41.0,USA,Small,2005.0,1.0,2.0,False,46.0
+95.03,Vintage Cars,41.0,Spain,Medium,2005.0,2.0,2.0,False,43.0
+36.93,Vintage Cars,41.0,Japan,Small,2005.0,4.0,4.0,False,15.0
+43.49,Vintage Cars,41.0,Australia,Small,2005.0,5.0,6.0,False,15.0
+100.0,Classic Cars,118.0,Spain,Small,2003.0,1.0,4.0,False,26.0
+100.0,Classic Cars,118.0,USA,Medium,2003.0,4.0,4.0,False,44.0
+96.99,Classic Cars,118.0,USA,Small,2003.0,6.0,1.0,False,20.0
+94.62,Classic Cars,118.0,Finland,Medium,2003.0,8.0,4.0,False,40.0
+100.0,Classic Cars,118.0,Australia,Small,2003.0,9.0,3.0,False,23.0
+99.36,Classic Cars,118.0,Singapore,Small,2003.0,10.0,2.0,False,24.0
+100.0,Classic Cars,118.0,Italy,Small,2003.0,11.0,3.0,False,29.0
+100.0,Classic Cars,118.0,Spain,Medium,2003.0,11.0,4.0,False,49.0
+100.0,Classic Cars,118.0,USA,Medium,2003.0,11.0,1.0,False,34.0
+100.0,Classic Cars,118.0,USA,Small,2003.0,12.0,1.0,False,28.0
+100.0,Classic Cars,118.0,Ireland,Medium,2004.0,2.0,3.0,False,37.0
+100.0,Classic Cars,118.0,Germany,Medium,2004.0,3.0,0.0,False,45.0
+100.0,Classic Cars,118.0,Spain,Medium,2004.0,5.0,2.0,False,46.0
+100.0,Classic Cars,118.0,USA,Medium,2004.0,7.0,1.0,False,22.0
+100.0,Classic Cars,118.0,USA,Medium,2004.0,8.0,4.0,False,39.0
+100.0,Classic Cars,118.0,USA,Medium,2004.0,9.0,2.0,False,27.0
+100.0,Classic Cars,118.0,USA,Medium,2004.0,10.0,2.0,False,36.0
+100.0,Classic Cars,118.0,Denmark,Medium,2004.0,10.0,4.0,False,38.0
+100.0,Classic Cars,118.0,Norway,Medium,2004.0,11.0,4.0,False,44.0
+100.0,Classic Cars,118.0,France,Medium,2004.0,11.0,5.0,False,31.0
+100.0,Classic Cars,118.0,USA,Medium,2004.0,12.0,2.0,False,23.0
+100.0,Classic Cars,118.0,France,Small,2004.0,12.0,2.0,False,22.0
+50.32,Classic Cars,118.0,USA,Small,2005.0,1.0,6.0,False,28.0
+93.91,Classic Cars,118.0,Spain,Small,2005.0,2.0,1.0,False,21.0
+100.0,Classic Cars,118.0,Spain,Medium,2005.0,3.0,1.0,False,37.0
+100.0,Classic Cars,118.0,Spain,Medium,2005.0,5.0,1.0,False,31.0
+100.0,Vintage Cars,97.0,Norway,Small,2003.0,1.0,2.0,False,25.0
+86.68,Vintage Cars,97.0,USA,Small,2003.0,3.0,1.0,False,26.0
+100.0,Vintage Cars,97.0,Spain,Medium,2003.0,5.0,2.0,False,34.0
+100.0,Vintage Cars,97.0,Australia,Medium,2003.0,7.0,2.0,False,29.0
+90.57,Vintage Cars,97.0,USA,Small,2003.0,9.0,4.0,False,20.0
+91.55,Vintage Cars,97.0,USA,Medium,2003.0,10.0,0.0,False,42.0
+100.0,Vintage Cars,97.0,Italy,Small,2003.0,11.0,2.0,False,22.0
+100.0,Vintage Cars,97.0,USA,Medium,2003.0,11.0,3.0,False,47.0
+100.0,Vintage Cars,97.0,Australia,Small,2003.0,11.0,4.0,False,20.0
+97.39,Vintage Cars,97.0,Canada,Medium,2003.0,12.0,4.0,False,33.0
+90.57,Vintage Cars,97.0,USA,Medium,2004.0,1.0,3.0,False,39.0
+100.0,Vintage Cars,97.0,USA,Medium,2004.0,3.0,2.0,False,33.0
+86.68,Vintage Cars,97.0,Spain,Medium,2004.0,4.0,3.0,False,40.0
+78.89,Vintage Cars,97.0,USA,Medium,2004.0,6.0,0.0,False,46.0
+97.39,Vintage Cars,97.0,Austria,Medium,2004.0,7.0,4.0,False,48.0
+78.89,Vintage Cars,97.0,Italy,Small,2004.0,8.0,1.0,False,21.0
+100.0,Vintage Cars,97.0,USA,Medium,2004.0,9.0,1.0,False,45.0
+100.0,Vintage Cars,97.0,France,Medium,2004.0,10.0,0.0,False,33.0
+100.0,Vintage Cars,97.0,USA,Medium,2004.0,10.0,3.0,False,44.0
+100.0,Vintage Cars,97.0,USA,Medium,2004.0,11.0,4.0,False,33.0
+100.0,Vintage Cars,97.0,USA,Medium,2004.0,11.0,3.0,False,39.0
+50.31,Vintage Cars,97.0,Spain,Small,2004.0,11.0,0.0,True,39.0
+100.0,Vintage Cars,97.0,Spain,Medium,2004.0,12.0,4.0,False,41.0
+86.92,Vintage Cars,97.0,USA,Medium,2005.0,1.0,3.0,False,40.0
+100.0,Vintage Cars,97.0,USA,Medium,2005.0,2.0,3.0,False,33.0
+78.89,Vintage Cars,97.0,Belgium,Small,2005.0,5.0,0.0,False,28.0
+63.76,Planes,72.0,Italy,Small,2003.0,2.0,0.0,False,26.0
+85.49,Planes,72.0,Australia,Small,2003.0,4.0,1.0,False,29.0
+77.52,Planes,72.0,Spain,Medium,2003.0,6.0,4.0,False,46.0
+84.77,Planes,72.0,USA,Small,2003.0,8.0,0.0,False,33.0
+78.25,Planes,72.0,USA,Medium,2003.0,10.0,1.0,False,48.0
+71.0,Planes,72.0,Japan,Small,2004.0,1.0,0.0,True,40.0
+74.62,Planes,72.0,Australia,Small,2004.0,2.0,4.0,False,23.0
+81.14,Planes,72.0,Canada,Medium,2004.0,4.0,4.0,False,40.0
+74.62,Planes,72.0,USA,Small,2004.0,5.0,1.0,False,37.0
+75.35,Planes,72.0,USA,Small,2004.0,6.0,0.0,False,24.0
+62.31,Planes,72.0,France,Small,2004.0,7.0,4.0,False,27.0
+71.0,Planes,72.0,Norway,Small,2004.0,8.0,5.0,False,21.0
+72.45,Planes,72.0,Ireland,Small,2004.0,9.0,3.0,False,23.0
+83.32,Planes,72.0,USA,Medium,2004.0,10.0,4.0,False,44.0
+83.32,Planes,72.0,USA,Small,2004.0,11.0,1.0,False,35.0
+60.86,Planes,72.0,Italy,Small,2004.0,11.0,4.0,False,43.0
+84.77,Planes,72.0,Spain,Medium,2004.0,11.0,2.0,False,40.0
+89.9,Planes,72.0,USA,Medium,2004.0,12.0,5.0,False,35.0
+62.46,Planes,72.0,Australia,Small,2004.0,12.0,4.0,False,25.0
+100.0,Planes,72.0,France,Large,2005.0,2.0,3.0,False,43.0
+63.34,Planes,72.0,Spain,Medium,2005.0,3.0,1.0,False,50.0
+78.25,Planes,72.0,France,Medium,2005.0,3.0,2.0,False,45.0
+81.14,Planes,72.0,USA,Medium,2005.0,4.0,6.0,False,52.0
+74.62,Planes,72.0,Italy,Medium,2005.0,5.0,1.0,False,48.0
+68.71,Classic Cars,80.0,Philippines,Small,2003.0,3.0,0.0,False,31.0
+71.14,Classic Cars,80.0,France,Small,2003.0,5.0,3.0,True,29.0
+87.31,Classic Cars,80.0,USA,Small,2003.0,7.0,2.0,False,23.0
+64.67,Classic Cars,80.0,USA,Small,2003.0,9.0,4.0,False,31.0
+67.1,Classic Cars,80.0,USA,Small,2003.0,10.0,4.0,False,23.0
+94.58,Classic Cars,80.0,Australia,Small,2003.0,11.0,1.0,False,24.0
+71.14,Classic Cars,80.0,France,Small,2003.0,11.0,1.0,True,28.0
+66.29,Classic Cars,80.0,Germany,Small,2003.0,11.0,3.0,False,44.0
+92.16,Classic Cars,80.0,France,Small,2004.0,1.0,3.0,False,22.0
+70.33,Classic Cars,80.0,Switzerland,Medium,2004.0,2.0,6.0,False,46.0
+93.77,Classic Cars,80.0,Denmark,Small,2004.0,4.0,4.0,False,22.0
+87.31,Classic Cars,80.0,France,Medium,2004.0,5.0,2.0,False,38.0
+83.27,Classic Cars,80.0,USA,Medium,2004.0,6.0,2.0,False,47.0
+75.18,Classic Cars,80.0,USA,Medium,2004.0,8.0,0.0,False,48.0
+88.12,Classic Cars,80.0,Switzerland,Medium,2004.0,8.0,0.0,False,40.0
+80.84,Classic Cars,80.0,Finland,Small,2004.0,9.0,3.0,False,32.0
+97.01,Classic Cars,80.0,Germany,Medium,2004.0,10.0,5.0,False,49.0
+85.69,Classic Cars,80.0,USA,Medium,2004.0,11.0,2.0,False,43.0
+100.0,Classic Cars,80.0,USA,Medium,2004.0,11.0,2.0,False,41.0
+100.0,Classic Cars,80.0,France,Medium,2004.0,11.0,2.0,False,30.0
+95.39,Classic Cars,80.0,Spain,Small,2004.0,12.0,1.0,False,28.0
+100.0,Classic Cars,80.0,Finland,Medium,2005.0,1.0,3.0,False,43.0
+100.0,Classic Cars,80.0,Spain,Medium,2005.0,2.0,3.0,False,41.0
+82.42,Classic Cars,80.0,USA,Small,2005.0,3.0,4.0,False,30.0
+100.0,Trucks and Buses,96.0,Norway,Medium,2003.0,1.0,2.0,False,31.0
+100.0,Trucks and Buses,96.0,France,Medium,2003.0,4.0,1.0,False,32.0
+96.31,Trucks and Buses,96.0,Spain,Medium,2003.0,5.0,2.0,False,43.0
+100.0,Trucks and Buses,96.0,USA,Small,2003.0,7.0,3.0,False,26.0
+100.0,Trucks and Buses,96.0,Finland,Medium,2003.0,9.0,6.0,False,27.0
+100.0,Trucks and Buses,96.0,Austria,Small,2003.0,10.0,1.0,False,24.0
+100.0,Trucks and Buses,96.0,UK,Small,2003.0,11.0,3.0,False,22.0
+100.0,Trucks and Buses,96.0,Spain,Medium,2003.0,11.0,4.0,False,46.0
+97.27,Trucks and Buses,96.0,France,Medium,2003.0,11.0,1.0,False,37.0
+80.9,Trucks and Buses,96.0,USA,Medium,2003.0,12.0,1.0,False,49.0
+100.0,Trucks and Buses,96.0,Singapore,Small,2004.0,2.0,2.0,False,21.0
+100.0,Trucks and Buses,96.0,USA,Small,2004.0,3.0,3.0,False,25.0
+100.0,Trucks and Buses,96.0,USA,Medium,2004.0,5.0,1.0,False,37.0
+86.68,Trucks and Buses,96.0,Singapore,Medium,2004.0,6.0,1.0,False,45.0
+85.72,Trucks and Buses,96.0,Australia,Small,2004.0,7.0,0.0,False,32.0
+82.83,Trucks and Buses,96.0,USA,Small,2004.0,8.0,3.0,False,29.0
+83.79,Trucks and Buses,96.0,Sweden,Small,2004.0,9.0,2.0,False,26.0
+100.0,Trucks and Buses,96.0,USA,Medium,2004.0,10.0,2.0,False,28.0
+87.64,Trucks and Buses,96.0,Canada,Small,2004.0,10.0,4.0,False,27.0
+98.18,Trucks and Buses,96.0,USA,Small,2004.0,11.0,4.0,False,20.0
+100.0,Trucks and Buses,96.0,USA,Medium,2004.0,11.0,4.0,False,44.0
+100.0,Trucks and Buses,96.0,Spain,Medium,2004.0,11.0,0.0,True,42.0
+100.0,Trucks and Buses,96.0,Spain,Medium,2004.0,12.0,4.0,False,41.0
+100.0,Trucks and Buses,96.0,USA,Medium,2005.0,1.0,6.0,False,26.0
+100.0,Trucks and Buses,96.0,USA,Small,2005.0,2.0,3.0,False,26.0
+100.0,Trucks and Buses,96.0,Canada,Small,2005.0,5.0,6.0,False,26.0
+86.68,Trucks and Buses,96.0,France,Medium,2005.0,5.0,1.0,False,41.0
+92.9,Motorcycles,99.0,USA,Small,2003.0,2.0,0.0,False,20.0
+100.0,Motorcycles,99.0,Australia,Small,2003.0,4.0,1.0,False,22.0
+100.0,Motorcycles,99.0,Spain,Small,2003.0,6.0,4.0,False,23.0
+93.9,Motorcycles,99.0,USA,Medium,2003.0,8.0,0.0,False,33.0
+100.0,Motorcycles,99.0,USA,Medium,2003.0,10.0,1.0,False,28.0
+98.89,Motorcycles,99.0,Norway,Medium,2003.0,11.0,1.0,False,44.0
+79.91,Motorcycles,99.0,Japan,Medium,2004.0,1.0,0.0,True,46.0
+100.0,Motorcycles,99.0,Australia,Small,2004.0,2.0,4.0,False,21.0
+100.0,Motorcycles,99.0,Canada,Medium,2004.0,4.0,4.0,False,41.0
+100.0,Motorcycles,99.0,USA,Medium,2004.0,5.0,1.0,False,31.0
+79.91,Motorcycles,99.0,USA,Small,2004.0,6.0,0.0,False,31.0
+81.91,Motorcycles,99.0,France,Small,2004.0,7.0,4.0,False,23.0
+98.89,Motorcycles,99.0,USA,Medium,2004.0,8.0,4.0,False,37.0
+100.0,Motorcycles,99.0,Ireland,Small,2004.0,9.0,3.0,False,26.0
+79.91,Motorcycles,99.0,USA,Small,2004.0,10.0,4.0,False,24.0
+100.0,Motorcycles,99.0,USA,Medium,2004.0,11.0,1.0,False,47.0
+63.91,Motorcycles,99.0,USA,Small,2004.0,11.0,0.0,False,45.0
+100.0,Motorcycles,99.0,Spain,Medium,2004.0,11.0,2.0,False,55.0
+81.17,Motorcycles,99.0,USA,Medium,2004.0,12.0,5.0,False,46.0
+100.0,Motorcycles,99.0,Finland,Medium,2005.0,1.0,3.0,False,50.0
+100.0,Motorcycles,99.0,France,Medium,2005.0,2.0,3.0,False,37.0
+94.9,Motorcycles,99.0,Singapore,Medium,2005.0,3.0,2.0,False,44.0
+100.0,Motorcycles,99.0,USA,Medium,2005.0,4.0,6.0,False,49.0
+100.0,Motorcycles,99.0,Italy,Medium,2005.0,5.0,1.0,False,45.0
+43.45,Motorcycles,40.0,Philippines,Small,2003.0,3.0,0.0,False,27.0
+44.66,Motorcycles,40.0,France,Small,2003.0,5.0,3.0,True,31.0
+40.23,Motorcycles,40.0,USA,Small,2003.0,7.0,2.0,False,33.0
+35.8,Motorcycles,40.0,USA,Small,2003.0,8.0,0.0,False,31.0
+35.4,Motorcycles,40.0,USA,Small,2003.0,10.0,4.0,False,35.0
+39.83,Motorcycles,40.0,Australia,Small,2003.0,11.0,1.0,False,26.0
+45.46,Motorcycles,40.0,France,Small,2003.0,11.0,1.0,True,34.0
+32.99,Motorcycles,40.0,Spain,Small,2003.0,11.0,2.0,False,46.0
+42.24,Motorcycles,40.0,France,Small,2004.0,1.0,3.0,False,41.0
+39.43,Motorcycles,40.0,France,Small,2004.0,2.0,5.0,False,43.0
+40.23,Motorcycles,40.0,USA,Small,2004.0,4.0,0.0,False,26.0
+48.28,Motorcycles,40.0,France,Small,2004.0,5.0,2.0,False,36.0
+32.59,Motorcycles,40.0,USA,Small,2004.0,6.0,2.0,False,20.0
+36.61,Motorcycles,40.0,USA,Small,2004.0,8.0,0.0,False,27.0
+41.03,Motorcycles,40.0,USA,Small,2004.0,8.0,4.0,False,37.0
+42.24,Motorcycles,40.0,Finland,Small,2004.0,9.0,3.0,False,24.0
+43.05,Motorcycles,40.0,Germany,Small,2004.0,10.0,5.0,False,36.0
+38.22,Motorcycles,40.0,USA,Small,2004.0,11.0,2.0,False,29.0
+100.0,Motorcycles,40.0,USA,Medium,2004.0,11.0,2.0,False,28.0
+100.0,Motorcycles,40.0,France,Medium,2004.0,11.0,2.0,False,29.0
+39.83,Motorcycles,40.0,Spain,Small,2004.0,12.0,1.0,False,38.0
+48.28,Motorcycles,40.0,France,Small,2005.0,1.0,3.0,False,48.0
+82.46,Motorcycles,40.0,Spain,Medium,2005.0,2.0,3.0,False,40.0
+44.56,Motorcycles,40.0,USA,Small,2005.0,3.0,4.0,False,41.0
+40.23,Motorcycles,40.0,UK,Small,2005.0,4.0,4.0,False,30.0
+47.62,Trucks and Buses,54.0,Spain,Small,2003.0,1.0,4.0,False,35.0
+55.73,Trucks and Buses,54.0,France,Small,2003.0,4.0,1.0,False,28.0
+51.95,Trucks and Buses,54.0,USA,Small,2003.0,6.0,1.0,False,45.0
+45.99,Trucks and Buses,54.0,Finland,Small,2003.0,8.0,4.0,False,24.0
+63.85,Trucks and Buses,54.0,Finland,Small,2003.0,9.0,6.0,False,41.0
+45.99,Trucks and Buses,54.0,Singapore,Small,2003.0,10.0,2.0,False,48.0
+63.31,Trucks and Buses,54.0,UK,Medium,2003.0,11.0,3.0,False,50.0
+62.77,Trucks and Buses,54.0,Spain,Small,2003.0,11.0,4.0,False,33.0
+43.29,Trucks and Buses,54.0,USA,Small,2003.0,11.0,1.0,False,32.0
+60.06,Trucks and Buses,54.0,USA,Small,2003.0,12.0,1.0,False,27.0
+55.19,Trucks and Buses,54.0,USA,Small,2004.0,2.0,1.0,False,35.0
+54.11,Trucks and Buses,54.0,USA,Small,2004.0,3.0,3.0,False,23.0
+48.7,Trucks and Buses,54.0,Spain,Small,2004.0,5.0,2.0,False,35.0
+43.83,Trucks and Buses,54.0,Singapore,Small,2004.0,6.0,1.0,False,40.0
+47.62,Trucks and Buses,54.0,USA,Small,2004.0,7.0,1.0,False,35.0
+55.19,Trucks and Buses,54.0,USA,Small,2004.0,8.0,3.0,False,31.0
+46.53,Trucks and Buses,54.0,USA,Small,2004.0,9.0,2.0,False,50.0
+57.9,Trucks and Buses,54.0,USA,Small,2004.0,10.0,2.0,False,40.0
+45.45,Trucks and Buses,54.0,Canada,Small,2004.0,10.0,4.0,False,38.0
+100.0,Trucks and Buses,54.0,Norway,Large,2004.0,11.0,4.0,False,38.0
+60.6,Trucks and Buses,54.0,USA,Small,2004.0,11.0,4.0,False,40.0
+46.53,Trucks and Buses,54.0,USA,Small,2004.0,12.0,2.0,False,33.0
+100.0,Trucks and Buses,54.0,France,Medium,2004.0,12.0,2.0,False,36.0
+66.47,Trucks and Buses,54.0,USA,Small,2005.0,1.0,6.0,False,20.0
+53.18,Trucks and Buses,54.0,Spain,Small,2005.0,2.0,1.0,False,32.0
+62.77,Trucks and Buses,54.0,Spain,Small,2005.0,3.0,1.0,False,36.0
+48.7,Trucks and Buses,54.0,Spain,Small,2005.0,5.0,1.0,False,19.0
+43.83,Trucks and Buses,54.0,France,Small,2005.0,5.0,1.0,False,11.0
+65.87,Trains,62.0,Spain,Medium,2003.0,1.0,4.0,False,49.0
+63.38,Trains,62.0,Belgium,Small,2003.0,4.0,4.0,False,27.0
+70.84,Trains,62.0,USA,Small,2003.0,6.0,1.0,False,29.0
+74.57,Trains,62.0,USA,Medium,2003.0,8.0,4.0,False,42.0
+50.95,Trains,62.0,Australia,Small,2003.0,9.0,3.0,False,33.0
+53.44,Trains,62.0,Singapore,Small,2003.0,10.0,2.0,False,44.0
+64.0,Trains,62.0,Italy,Small,2003.0,11.0,3.0,False,22.0
+50.95,Trains,62.0,Spain,Small,2003.0,11.0,4.0,False,48.0
+54.68,Trains,62.0,USA,Small,2003.0,11.0,1.0,False,33.0
+56.55,Trains,62.0,USA,Small,2003.0,12.0,1.0,False,45.0
+52.82,Trains,62.0,Ireland,Small,2004.0,2.0,3.0,False,20.0
+60.9,Trains,62.0,Germany,Small,2004.0,3.0,0.0,False,46.0
+49.71,Trains,62.0,Finland,Small,2004.0,5.0,2.0,False,40.0
+64.63,Trains,62.0,USA,Small,2004.0,7.0,1.0,False,45.0
+59.65,Trains,62.0,USA,Small,2004.0,8.0,4.0,False,36.0
+67.73,Trains,62.0,USA,Small,2004.0,9.0,2.0,False,31.0
+50.33,Trains,62.0,UK,Small,2004.0,10.0,3.0,False,46.0
+66.49,Trains,62.0,Denmark,Small,2004.0,10.0,4.0,False,35.0
+100.0,Trains,62.0,Norway,Medium,2004.0,11.0,4.0,False,28.0
+84.71,Trains,62.0,France,Small,2004.0,11.0,5.0,False,31.0
+100.0,Trains,62.0,Spain,Medium,2004.0,12.0,3.0,False,27.0
+100.0,Trains,62.0,France,Medium,2004.0,12.0,2.0,False,22.0
+99.55,Trains,62.0,USA,Small,2005.0,1.0,6.0,False,30.0
+36.07,Trains,62.0,Spain,Small,2005.0,2.0,1.0,False,44.0
+60.28,Trains,62.0,Spain,Small,2005.0,3.0,1.0,False,30.0
+49.71,Trains,62.0,USA,Small,2005.0,5.0,3.0,False,24.0
+75.63,Trucks and Buses,64.0,Norway,Medium,2003.0,1.0,2.0,False,45.0
+68.52,Trucks and Buses,64.0,USA,Small,2003.0,3.0,2.0,False,23.0
+62.7,Trucks and Buses,64.0,Spain,Small,2003.0,5.0,2.0,False,26.0
+60.76,Trucks and Buses,64.0,USA,Small,2003.0,7.0,3.0,False,28.0
+58.18,Trucks and Buses,64.0,Singapore,Small,2003.0,9.0,4.0,False,49.0
+54.94,Trucks and Buses,64.0,Austria,Small,2003.0,10.0,1.0,False,49.0
+74.98,Trucks and Buses,64.0,UK,Small,2003.0,11.0,3.0,False,29.0
+64.64,Trucks and Buses,64.0,USA,Medium,2003.0,11.0,3.0,False,49.0
+54.94,Trucks and Buses,64.0,France,Small,2003.0,11.0,1.0,False,39.0
+58.82,Trucks and Buses,64.0,Canada,Small,2003.0,12.0,4.0,False,36.0
+62.05,Trucks and Buses,64.0,Singapore,Small,2004.0,2.0,2.0,False,39.0
+73.04,Trucks and Buses,64.0,USA,Small,2004.0,3.0,3.0,False,30.0
+69.16,Trucks and Buses,64.0,USA,Medium,2004.0,5.0,1.0,False,44.0
+61.41,Trucks and Buses,64.0,Japan,Small,2004.0,6.0,1.0,False,20.0
+63.35,Trucks and Buses,64.0,Australia,Small,2004.0,7.0,0.0,False,21.0
+77.57,Trucks and Buses,64.0,USA,Small,2004.0,8.0,3.0,False,36.0
+71.75,Trucks and Buses,64.0,Sweden,Small,2004.0,9.0,2.0,False,32.0
+73.04,Trucks and Buses,64.0,France,Small,2004.0,10.0,0.0,False,36.0
+56.24,Trucks and Buses,64.0,Canada,Small,2004.0,10.0,4.0,False,34.0
+100.0,Trucks and Buses,64.0,USA,Large,2004.0,11.0,4.0,False,48.0
+73.69,Trucks and Buses,64.0,USA,Small,2004.0,11.0,3.0,False,33.0
+100.0,Trucks and Buses,64.0,Spain,Medium,2004.0,11.0,0.0,True,31.0
+100.0,Trucks and Buses,64.0,Spain,Medium,2004.0,12.0,4.0,False,36.0
+100.0,Trucks and Buses,64.0,Australia,Medium,2005.0,1.0,3.0,False,25.0
+100.0,Trucks and Buses,64.0,USA,Medium,2005.0,2.0,3.0,False,48.0
+69.16,Trucks and Buses,64.0,Canada,Small,2005.0,5.0,6.0,False,27.0
+61.41,Trucks and Buses,64.0,Spain,Small,2005.0,5.0,1.0,False,44.0
+72.92,Vintage Cars,68.0,Italy,Small,2003.0,2.0,0.0,False,33.0
+72.23,Vintage Cars,68.0,Australia,Small,2003.0,4.0,1.0,False,29.0
+57.1,Vintage Cars,68.0,Spain,Small,2003.0,6.0,4.0,False,49.0
+81.86,Vintage Cars,68.0,Belgium,Small,2003.0,8.0,2.0,False,20.0
+73.61,Vintage Cars,68.0,USA,Small,2003.0,10.0,1.0,False,31.0
+59.16,Vintage Cars,68.0,Japan,Small,2004.0,1.0,0.0,True,39.0
+66.04,Vintage Cars,68.0,Australia,Small,2004.0,2.0,4.0,False,20.0
+77.73,Vintage Cars,68.0,Canada,Small,2004.0,4.0,4.0,False,34.0
+61.22,Vintage Cars,68.0,USA,Medium,2004.0,5.0,1.0,False,50.0
+79.11,Vintage Cars,68.0,Spain,Medium,2004.0,6.0,3.0,False,40.0
+63.97,Vintage Cars,68.0,France,Small,2004.0,7.0,4.0,False,28.0
+81.86,Vintage Cars,68.0,Norway,Medium,2004.0,8.0,5.0,False,50.0
+79.8,Vintage Cars,68.0,Ireland,Small,2004.0,9.0,3.0,False,28.0
+66.04,Vintage Cars,68.0,USA,Medium,2004.0,10.0,4.0,False,46.0
+59.16,Vintage Cars,68.0,UK,Small,2004.0,11.0,0.0,False,24.0
+81.17,Vintage Cars,68.0,Italy,Small,2004.0,11.0,4.0,False,24.0
+59.16,Vintage Cars,68.0,Spain,Small,2004.0,11.0,2.0,False,39.0
+44.51,Vintage Cars,68.0,USA,Small,2004.0,12.0,5.0,False,40.0
+72.33,Vintage Cars,68.0,Australia,Medium,2004.0,12.0,4.0,False,49.0
+82.26,Vintage Cars,68.0,France,Medium,2005.0,2.0,3.0,False,44.0
+100.0,Vintage Cars,68.0,USA,Medium,2005.0,3.0,3.0,False,35.0
+67.41,Vintage Cars,68.0,France,Small,2005.0,3.0,2.0,False,22.0
+77.73,Vintage Cars,68.0,USA,Medium,2005.0,4.0,6.0,False,62.0
+61.22,Vintage Cars,68.0,Italy,Small,2005.0,5.0,1.0,False,26.0
+100.0,Motorcycles,102.0,Philippines,Medium,2003.0,3.0,0.0,False,31.0
+86.74,Motorcycles,102.0,France,Small,2003.0,5.0,2.0,False,25.0
+89.8,Motorcycles,102.0,USA,Small,2003.0,7.0,2.0,False,30.0
+100.0,Motorcycles,102.0,USA,Medium,2003.0,8.0,0.0,False,27.0
+100.0,Motorcycles,102.0,USA,Small,2003.0,10.0,4.0,False,23.0
+100.0,Motorcycles,102.0,Australia,Medium,2003.0,11.0,1.0,False,34.0
+100.0,Motorcycles,102.0,France,Small,2003.0,11.0,1.0,True,22.0
+85.72,Motorcycles,102.0,Spain,Medium,2003.0,11.0,2.0,False,42.0
+100.0,Motorcycles,102.0,France,Medium,2004.0,1.0,3.0,False,37.0
+100.0,Motorcycles,102.0,France,Medium,2004.0,2.0,5.0,False,30.0
+100.0,Motorcycles,102.0,USA,Medium,2004.0,4.0,0.0,False,27.0
+100.0,Motorcycles,102.0,France,Small,2004.0,5.0,2.0,False,25.0
+97.97,Motorcycles,102.0,USA,Medium,2004.0,6.0,2.0,False,34.0
+100.0,Motorcycles,102.0,USA,Medium,2004.0,8.0,0.0,False,38.0
+100.0,Motorcycles,102.0,USA,Small,2004.0,8.0,4.0,False,26.0
+100.0,Motorcycles,102.0,Finland,Medium,2004.0,9.0,3.0,False,38.0
+84.7,Motorcycles,102.0,Norway,Medium,2004.0,10.0,4.0,False,50.0
+100.0,Motorcycles,102.0,USA,Small,2004.0,11.0,2.0,False,22.0
+100.0,Motorcycles,102.0,USA,Medium,2004.0,11.0,2.0,False,32.0
+71.02,Motorcycles,102.0,Austria,Small,2004.0,11.0,2.0,False,31.0
+100.0,Motorcycles,102.0,Spain,Medium,2004.0,12.0,1.0,False,40.0
+100.0,Motorcycles,102.0,USA,Medium,2005.0,1.0,4.0,False,22.0
+100.0,Motorcycles,102.0,France,Medium,2005.0,2.0,3.0,False,41.0
+48.98,Motorcycles,102.0,USA,Small,2005.0,3.0,4.0,False,45.0
+100.0,Motorcycles,102.0,UK,Medium,2005.0,4.0,4.0,False,45.0
+40.15,Vintage Cars,43.0,Italy,Small,2003.0,2.0,0.0,False,39.0
+50.62,Vintage Cars,43.0,Australia,Small,2003.0,4.0,1.0,False,49.0
+50.19,Vintage Cars,43.0,Spain,Small,2003.0,6.0,4.0,False,27.0
+36.66,Vintage Cars,43.0,USA,Small,2003.0,8.0,6.0,False,34.0
+41.02,Vintage Cars,43.0,Spain,Small,2003.0,10.0,2.0,False,20.0
+51.93,Vintage Cars,43.0,USA,Small,2003.0,10.0,1.0,False,48.0
+38.4,Vintage Cars,43.0,USA,Small,2003.0,12.0,0.0,False,29.0
+41.02,Vintage Cars,43.0,Japan,Small,2004.0,1.0,0.0,True,43.0
+46.26,Vintage Cars,43.0,Australia,Small,2004.0,2.0,4.0,False,41.0
+35.35,Vintage Cars,43.0,Canada,Small,2004.0,4.0,4.0,False,41.0
+51.93,Vintage Cars,43.0,USA,Small,2004.0,5.0,1.0,False,36.0
+37.97,Vintage Cars,43.0,Spain,Small,2004.0,6.0,3.0,False,49.0
+45.39,Vintage Cars,43.0,France,Small,2004.0,7.0,4.0,False,38.0
+51.93,Vintage Cars,43.0,Norway,Small,2004.0,8.0,5.0,False,33.0
+48.44,Vintage Cars,43.0,Germany,Small,2004.0,9.0,2.0,False,26.0
+43.64,Vintage Cars,43.0,USA,Small,2004.0,10.0,4.0,False,47.0
+47.57,Vintage Cars,43.0,UK,Small,2004.0,11.0,0.0,False,34.0
+51.93,Vintage Cars,43.0,Italy,Small,2004.0,11.0,4.0,False,34.0
+50.62,Vintage Cars,43.0,Spain,Small,2004.0,11.0,2.0,False,40.0
+82.21,Vintage Cars,43.0,USA,Medium,2004.0,12.0,5.0,False,40.0
+82.59,Vintage Cars,43.0,Australia,Small,2004.0,12.0,4.0,False,33.0
+65.8,Vintage Cars,43.0,France,Medium,2005.0,2.0,3.0,False,49.0
+100.0,Vintage Cars,43.0,USA,Medium,2005.0,3.0,3.0,False,27.0
+36.66,Vintage Cars,43.0,France,Small,2005.0,3.0,2.0,False,49.0
+35.35,Vintage Cars,43.0,USA,Small,2005.0,4.0,6.0,False,56.0
+51.93,Vintage Cars,43.0,Italy,Small,2005.0,5.0,1.0,False,37.0
+100.0,Trucks and Buses,115.0,Spain,Medium,2003.0,1.0,4.0,False,33.0
+100.0,Trucks and Buses,115.0,USA,Small,2003.0,4.0,4.0,False,27.0
+100.0,Trucks and Buses,115.0,USA,Medium,2003.0,6.0,1.0,False,46.0
+100.0,Trucks and Buses,115.0,Finland,Medium,2003.0,8.0,4.0,False,44.0
+100.0,Trucks and Buses,115.0,Finland,Medium,2003.0,9.0,6.0,False,26.0
+94.92,Trucks and Buses,115.0,Singapore,Medium,2003.0,10.0,2.0,False,48.0
+100.0,Trucks and Buses,115.0,Italy,Medium,2003.0,11.0,3.0,False,23.0
+100.0,Trucks and Buses,115.0,Spain,Medium,2003.0,11.0,4.0,False,45.0
+100.0,Trucks and Buses,115.0,USA,Medium,2003.0,11.0,1.0,False,49.0
+94.92,Trucks and Buses,115.0,USA,Small,2003.0,12.0,1.0,False,28.0
+100.0,Trucks and Buses,115.0,Ireland,Medium,2004.0,2.0,3.0,False,37.0
+100.0,Trucks and Buses,115.0,Germany,Medium,2004.0,3.0,0.0,False,34.0
+100.0,Trucks and Buses,115.0,Spain,Small,2004.0,5.0,2.0,False,22.0
+100.0,Trucks and Buses,115.0,Singapore,Medium,2004.0,6.0,1.0,False,29.0
+98.39,Trucks and Buses,115.0,USA,Medium,2004.0,7.0,1.0,False,34.0
+100.0,Trucks and Buses,115.0,USA,Medium,2004.0,8.0,4.0,False,38.0
+100.0,Trucks and Buses,115.0,USA,Medium,2004.0,9.0,2.0,False,41.0
+100.0,Trucks and Buses,115.0,USA,Medium,2004.0,10.0,2.0,False,42.0
+100.0,Trucks and Buses,115.0,Denmark,Medium,2004.0,10.0,4.0,False,28.0
+100.0,Trucks and Buses,115.0,Norway,Medium,2004.0,11.0,4.0,False,38.0
+100.0,Trucks and Buses,115.0,France,Medium,2004.0,11.0,5.0,False,23.0
+71.4,Trucks and Buses,115.0,Spain,Small,2004.0,12.0,3.0,False,31.0
+100.0,Trucks and Buses,115.0,France,Medium,2004.0,12.0,2.0,False,46.0
+56.55,Trucks and Buses,115.0,USA,Small,2005.0,1.0,6.0,False,48.0
+100.0,Trucks and Buses,115.0,Spain,Medium,2005.0,2.0,1.0,False,29.0
+100.0,Trucks and Buses,115.0,France,Medium,2005.0,3.0,3.0,False,46.0
+100.0,Trucks and Buses,115.0,Spain,Medium,2005.0,5.0,1.0,False,26.0
+100.0,Trucks and Buses,115.0,France,Small,2005.0,5.0,1.0,False,18.0
+53.31,Trains,58.0,Spain,Small,2003.0,1.0,4.0,False,32.0
+49.21,Trains,58.0,Singapore,Small,2003.0,4.0,2.0,False,21.0
+69.12,Trains,58.0,USA,Medium,2003.0,6.0,1.0,False,46.0
+49.79,Trains,58.0,USA,Small,2003.0,8.0,4.0,False,42.0
+57.41,Trains,58.0,Spain,Small,2003.0,9.0,6.0,False,31.0
+66.78,Trains,58.0,Singapore,Small,2003.0,10.0,2.0,False,38.0
+64.44,Trains,58.0,Italy,Small,2003.0,11.0,3.0,False,38.0
+48.62,Trains,58.0,USA,Small,2003.0,11.0,4.0,False,20.0
+62.09,Trains,58.0,USA,Small,2003.0,11.0,2.0,False,46.0
+65.61,Trains,58.0,France,Small,2004.0,1.0,4.0,False,30.0
+68.54,Trains,58.0,Ireland,Small,2004.0,2.0,3.0,False,30.0
+52.14,Trains,58.0,Germany,Small,2004.0,3.0,0.0,False,43.0
+63.85,Trains,58.0,Finland,Medium,2004.0,5.0,2.0,False,49.0
+56.82,Trains,58.0,USA,Small,2004.0,7.0,1.0,False,43.0
+66.78,Trains,58.0,USA,Small,2004.0,8.0,4.0,False,37.0
+55.07,Trains,58.0,USA,Small,2004.0,9.0,2.0,False,35.0
+60.34,Trains,58.0,UK,Small,2004.0,10.0,3.0,False,34.0
+61.51,Trains,58.0,Denmark,Small,2004.0,10.0,4.0,False,38.0
+100.0,Trains,58.0,Norway,Medium,2004.0,11.0,4.0,False,44.0
+100.0,Trains,58.0,USA,Small,2004.0,11.0,6.0,False,21.0
+100.0,Trains,58.0,Spain,Medium,2004.0,12.0,3.0,False,44.0
+64.93,Trains,58.0,France,Small,2004.0,12.0,2.0,False,25.0
+58.58,Trains,58.0,Japan,Small,2005.0,1.0,2.0,False,24.0
+60.06,Trains,58.0,Spain,Small,2005.0,2.0,1.0,False,38.0
+100.0,Trains,58.0,France,Large,2005.0,3.0,3.0,False,45.0
+63.85,Trains,58.0,USA,Medium,2005.0,5.0,3.0,False,51.0
+82.99,Motorcycles,81.0,Philippines,Small,2003.0,3.0,0.0,False,34.0
+74.85,Motorcycles,81.0,France,Medium,2003.0,5.0,2.0,False,44.0
+96.0,Motorcycles,81.0,USA,Medium,2003.0,7.0,2.0,False,44.0
+81.36,Motorcycles,81.0,USA,Medium,2003.0,8.0,0.0,False,38.0
+71.6,Motorcycles,81.0,USA,Small,2003.0,10.0,4.0,False,31.0
+80.55,Motorcycles,81.0,Australia,Medium,2003.0,11.0,1.0,False,48.0
+93.56,Motorcycles,81.0,France,Small,2003.0,11.0,1.0,True,21.0
+66.72,Motorcycles,81.0,Spain,Small,2003.0,11.0,2.0,False,40.0
+80.55,Motorcycles,81.0,France,Medium,2004.0,1.0,3.0,False,40.0
+77.29,Motorcycles,81.0,France,Medium,2004.0,2.0,5.0,False,50.0
+68.34,Motorcycles,81.0,USA,Small,2004.0,4.0,0.0,False,20.0
+72.41,Motorcycles,81.0,France,Medium,2004.0,5.0,2.0,False,48.0
+89.5,Motorcycles,81.0,USA,Medium,2004.0,6.0,2.0,False,47.0
+70.78,Motorcycles,81.0,USA,Small,2004.0,8.0,0.0,False,21.0
+78.92,Motorcycles,81.0,USA,Medium,2004.0,8.0,4.0,False,39.0
+80.55,Motorcycles,81.0,Finland,Medium,2004.0,9.0,3.0,False,44.0
+88.68,Motorcycles,81.0,Norway,Small,2004.0,10.0,4.0,False,28.0
+77.29,Motorcycles,81.0,USA,Medium,2004.0,11.0,2.0,False,45.0
+100.0,Motorcycles,81.0,USA,Medium,2004.0,11.0,2.0,False,20.0
+100.0,Motorcycles,81.0,Austria,Medium,2004.0,11.0,2.0,False,38.0
+100.0,Motorcycles,81.0,France,Medium,2004.0,12.0,3.0,False,26.0
+100.0,Motorcycles,81.0,USA,Medium,2005.0,1.0,4.0,False,44.0
+100.0,Motorcycles,81.0,France,Medium,2005.0,2.0,3.0,False,49.0
+100.0,Motorcycles,81.0,USA,Medium,2005.0,3.0,4.0,False,22.0
+68.34,Motorcycles,81.0,UK,Small,2005.0,4.0,4.0,False,31.0
+70.67,Ships,66.0,Denmark,Small,2003.0,2.0,1.0,False,41.0
+76.67,Ships,66.0,Austria,Small,2003.0,4.0,0.0,False,25.0
+60.0,Ships,66.0,UK,Small,2003.0,6.0,3.0,False,31.0
+64.0,Ships,66.0,USA,Small,2003.0,8.0,4.0,False,41.0
+64.67,Ships,66.0,Spain,Small,2003.0,9.0,6.0,False,43.0
+75.34,Ships,66.0,Sweden,Medium,2003.0,10.0,3.0,False,43.0
+76.0,Ships,66.0,Spain,Small,2003.0,11.0,4.0,False,24.0
+54.0,Ships,66.0,USA,Small,2003.0,11.0,4.0,False,21.0
+64.67,Ships,66.0,Spain,Small,2003.0,11.0,2.0,False,23.0
+74.67,Ships,66.0,France,Small,2004.0,1.0,4.0,False,38.0
+62.67,Ships,66.0,USA,Small,2004.0,2.0,3.0,False,31.0
+70.67,Ships,66.0,USA,Small,2004.0,3.0,0.0,False,36.0
+71.34,Ships,66.0,USA,Small,2004.0,5.0,4.0,False,36.0
+62.0,Ships,66.0,Canada,Small,2004.0,6.0,3.0,False,34.0
+65.34,Ships,66.0,Belgium,Small,2004.0,7.0,2.0,True,21.0
+78.67,Ships,66.0,Canada,Medium,2004.0,8.0,4.0,False,45.0
+75.34,Ships,66.0,USA,Small,2004.0,9.0,4.0,False,26.0
+54.0,Ships,66.0,UK,Small,2004.0,10.0,3.0,False,50.0
+62.0,Ships,66.0,France,Small,2004.0,10.0,4.0,False,41.0
+60.0,Ships,66.0,Sweden,Small,2004.0,11.0,1.0,False,39.0
+100.0,Ships,66.0,Japan,Small,2004.0,11.0,1.0,True,22.0
+76.67,Ships,66.0,Spain,Medium,2004.0,12.0,3.0,False,46.0
+100.0,Ships,66.0,Finland,Medium,2005.0,1.0,0.0,False,44.0
+77.34,Ships,66.0,USA,Small,2005.0,2.0,0.0,False,25.0
+66.67,Ships,66.0,USA,Small,2005.0,3.0,2.0,False,39.0
+71.34,Ships,66.0,USA,Small,2005.0,5.0,4.0,False,37.0
+100.0,Planes,91.0,Italy,Medium,2003.0,2.0,0.0,False,31.0
+82.21,Planes,91.0,Australia,Medium,2003.0,4.0,1.0,False,47.0
+77.64,Planes,91.0,Spain,Small,2003.0,6.0,4.0,False,24.0
+100.0,Planes,91.0,USA,Medium,2003.0,8.0,6.0,False,36.0
+100.0,Planes,91.0,Spain,Medium,2003.0,10.0,2.0,False,48.0
+98.65,Planes,91.0,USA,Small,2003.0,10.0,1.0,False,28.0
+83.12,Planes,91.0,USA,Medium,2003.0,12.0,0.0,False,48.0
+78.55,Planes,91.0,Japan,Small,2004.0,1.0,0.0,True,21.0
+100.0,Planes,91.0,Australia,Small,2004.0,2.0,4.0,False,25.0
+100.0,Planes,91.0,Canada,Small,2004.0,4.0,4.0,False,25.0
+91.34,Planes,91.0,USA,Small,2004.0,5.0,1.0,False,31.0
+84.03,Planes,91.0,Spain,Medium,2004.0,6.0,3.0,False,40.0
+89.51,Planes,91.0,France,Small,2004.0,7.0,4.0,False,32.0
+83.12,Planes,91.0,Norway,Small,2004.0,8.0,5.0,False,24.0
+100.0,Planes,91.0,Germany,Medium,2004.0,9.0,2.0,False,42.0
+100.0,Planes,91.0,USA,Small,2004.0,10.0,4.0,False,21.0
+82.21,Planes,91.0,UK,Small,2004.0,11.0,0.0,False,34.0
+100.0,Planes,91.0,Italy,Small,2004.0,11.0,4.0,False,27.0
+88.6,Planes,91.0,Spain,Small,2004.0,11.0,2.0,False,30.0
+100.0,Planes,91.0,USA,Medium,2004.0,12.0,5.0,False,39.0
+60.54,Planes,91.0,Australia,Small,2004.0,12.0,4.0,False,20.0
+81.87,Planes,91.0,France,Medium,2005.0,2.0,3.0,False,37.0
+100.0,Planes,91.0,USA,Large,2005.0,3.0,3.0,False,46.0
+87.69,Planes,91.0,France,Medium,2005.0,3.0,2.0,False,47.0
+100.0,Planes,91.0,USA,Small,2005.0,4.0,6.0,False,11.0
+91.34,Planes,91.0,Italy,Small,2005.0,5.0,1.0,False,23.0
+70.15,Ships,86.0,Denmark,Small,2003.0,2.0,1.0,False,29.0
+79.68,Ships,86.0,Singapore,Medium,2003.0,4.0,2.0,False,38.0
+97.0,Ships,86.0,Spain,Medium,2003.0,6.0,4.0,False,32.0
+84.01,Ships,86.0,USA,Medium,2003.0,8.0,4.0,False,43.0
+87.48,Ships,86.0,Spain,Small,2003.0,9.0,6.0,False,31.0
+100.0,Ships,86.0,USA,Medium,2003.0,10.0,1.0,False,29.0
+88.34,Ships,86.0,Spain,Small,2003.0,11.0,4.0,False,31.0
+94.4,Ships,86.0,USA,Small,2003.0,11.0,4.0,False,30.0
+94.4,Ships,86.0,USA,Medium,2003.0,11.0,2.0,False,50.0
+80.55,Ships,86.0,France,Medium,2004.0,1.0,4.0,False,40.0
+97.0,Ships,86.0,Belgium,Small,2004.0,2.0,2.0,False,23.0
+88.34,Ships,86.0,UK,Small,2004.0,3.0,5.0,False,26.0
+100.0,Ships,86.0,USA,Medium,2004.0,5.0,4.0,False,40.0
+100.0,Ships,86.0,Belgium,Small,2004.0,7.0,2.0,True,21.0
+86.61,Ships,86.0,USA,Medium,2004.0,8.0,4.0,False,43.0
+71.89,Ships,86.0,Italy,Small,2004.0,9.0,3.0,False,29.0
+91.81,Ships,86.0,UK,Medium,2004.0,10.0,3.0,False,38.0
+76.22,Ships,86.0,Denmark,Small,2004.0,10.0,4.0,False,23.0
+100.0,Ships,86.0,Denmark,Medium,2004.0,11.0,2.0,False,20.0
+70.3,Ships,86.0,USA,Small,2004.0,11.0,6.0,False,36.0
+100.0,Ships,86.0,Spain,Small,2004.0,12.0,3.0,False,28.0
+100.0,Ships,86.0,Japan,Medium,2005.0,1.0,2.0,False,44.0
+100.0,Ships,86.0,USA,Medium,2005.0,2.0,2.0,False,49.0
+80.55,Ships,86.0,France,Small,2005.0,3.0,0.0,True,32.0
+100.0,Ships,86.0,USA,Medium,2005.0,5.0,4.0,False,34.0
+100.0,Ships,90.0,Italy,Medium,2003.0,2.0,0.0,False,30.0
+94.14,Ships,90.0,Austria,Small,2003.0,4.0,0.0,False,29.0
+85.99,Ships,90.0,USA,Small,2003.0,6.0,0.0,False,22.0
+100.0,Ships,90.0,USA,Small,2003.0,8.0,6.0,False,26.0
+91.43,Ships,90.0,Finland,Small,2003.0,10.0,0.0,False,32.0
+100.0,Ships,90.0,Sweden,Small,2003.0,10.0,3.0,False,29.0
+96.86,Ships,90.0,France,Medium,2003.0,11.0,5.0,False,34.0
+99.57,Ships,90.0,UK,Small,2003.0,11.0,4.0,False,24.0
+90.52,Ships,90.0,Spain,Small,2003.0,11.0,2.0,False,24.0
+88.71,Ships,90.0,USA,Small,2004.0,1.0,4.0,False,33.0
+100.0,Ships,90.0,USA,Small,2004.0,2.0,3.0,False,26.0
+95.95,Ships,90.0,USA,Medium,2004.0,5.0,5.0,False,40.0
+94.14,Ships,90.0,Spain,Medium,2004.0,6.0,3.0,False,44.0
+90.52,Ships,90.0,USA,Small,2004.0,7.0,2.0,False,24.0
+94.14,Ships,90.0,Canada,Small,2004.0,8.0,4.0,False,20.0
+100.0,Ships,90.0,Germany,Medium,2004.0,9.0,2.0,False,34.0
+97.76,Ships,90.0,USA,Medium,2004.0,10.0,3.0,False,34.0
+93.24,Ships,90.0,UK,Medium,2004.0,11.0,0.0,False,45.0
+100.0,Ships,90.0,Italy,Medium,2004.0,11.0,4.0,False,41.0
+71.25,Ships,90.0,Japan,Medium,2004.0,11.0,1.0,True,55.0
+100.0,Ships,90.0,USA,Small,2004.0,12.0,4.0,False,23.0
+45.39,Ships,90.0,Australia,Small,2004.0,12.0,4.0,False,24.0
+84.41,Ships,90.0,Finland,Small,2005.0,1.0,0.0,False,32.0
+85.76,Ships,90.0,Spain,Small,2005.0,3.0,1.0,False,29.0
+100.0,Ships,90.0,France,Medium,2005.0,3.0,2.0,False,36.0
+87.8,Ships,90.0,USA,Medium,2005.0,4.0,4.0,False,46.0
+95.95,Ships,90.0,Australia,Medium,2005.0,5.0,0.0,False,32.0
+100.0,Planes,99.0,Italy,Medium,2003.0,2.0,0.0,False,34.0
+100.0,Planes,99.0,Australia,Small,2003.0,4.0,1.0,False,24.0
+100.0,Planes,99.0,USA,Medium,2003.0,6.0,0.0,False,40.0
+82.77,Planes,99.0,USA,Small,2003.0,8.0,6.0,False,26.0
+100.0,Planes,99.0,Finland,Small,2003.0,10.0,0.0,False,20.0
+100.0,Planes,99.0,USA,Medium,2003.0,10.0,1.0,False,31.0
+87.75,Planes,99.0,France,Small,2003.0,11.0,5.0,False,22.0
+100.0,Planes,99.0,Philippines,Medium,2003.0,11.0,3.0,False,42.0
+99.72,Planes,99.0,Japan,Small,2004.0,1.0,0.0,True,26.0
+87.75,Planes,99.0,USA,Medium,2004.0,2.0,3.0,False,37.0
+88.75,Planes,99.0,Canada,Medium,2004.0,4.0,4.0,False,38.0
+100.0,Planes,99.0,USA,Medium,2004.0,5.0,1.0,False,35.0
+90.75,Planes,99.0,Spain,Small,2004.0,6.0,3.0,False,33.0
+100.0,Planes,99.0,France,Medium,2004.0,7.0,4.0,False,39.0
+100.0,Planes,99.0,Norway,Medium,2004.0,8.0,5.0,False,45.0
+100.0,Planes,99.0,Germany,Small,2004.0,9.0,2.0,False,24.0
+88.75,Planes,99.0,USA,Medium,2004.0,10.0,4.0,False,35.0
+100.0,Planes,99.0,UK,Small,2004.0,11.0,0.0,False,23.0
+100.0,Planes,99.0,Italy,Medium,2004.0,11.0,4.0,False,37.0
+87.75,Planes,99.0,Spain,Medium,2004.0,11.0,2.0,False,55.0
+100.0,Planes,99.0,USA,Medium,2004.0,12.0,4.0,False,49.0
+100.0,Planes,99.0,Australia,Small,2004.0,12.0,4.0,False,26.0
+100.0,Planes,99.0,France,Medium,2005.0,2.0,3.0,False,33.0
+83.84,Planes,99.0,Spain,Medium,2005.0,3.0,1.0,False,37.0
+86.76,Planes,99.0,France,Small,2005.0,3.0,2.0,False,22.0
+88.75,Planes,99.0,USA,Large,2005.0,4.0,6.0,False,85.0
+100.0,Planes,99.0,Italy,Small,2005.0,5.0,1.0,False,22.0
+65.77,Ships,72.0,Denmark,Small,2003.0,2.0,1.0,False,31.0
+65.77,Ships,72.0,Austria,Small,2003.0,4.0,0.0,False,38.0
+85.29,Ships,72.0,UK,Medium,2003.0,6.0,3.0,False,45.0
+85.29,Ships,72.0,USA,Small,2003.0,8.0,6.0,False,31.0
+64.33,Ships,72.0,USA,Small,2003.0,10.0,3.0,False,36.0
+70.11,Ships,72.0,Sweden,Medium,2003.0,10.0,3.0,False,46.0
+76.62,Ships,72.0,Spain,Small,2003.0,11.0,4.0,False,32.0
+57.82,Ships,72.0,USA,Small,2003.0,11.0,4.0,False,39.0
+78.79,Ships,72.0,Spain,Medium,2003.0,11.0,2.0,False,50.0
+74.45,Ships,72.0,France,Medium,2004.0,1.0,4.0,False,46.0
+80.95,Ships,72.0,USA,Small,2004.0,2.0,3.0,False,36.0
+82.4,Ships,72.0,USA,Small,2004.0,3.0,0.0,False,29.0
+75.89,Ships,72.0,USA,Small,2004.0,5.0,4.0,False,32.0
+68.67,Ships,72.0,Canada,Medium,2004.0,6.0,3.0,False,44.0
+62.16,Ships,72.0,Belgium,Small,2004.0,7.0,2.0,True,42.0
+65.77,Ships,72.0,Canada,Medium,2004.0,8.0,4.0,False,47.0
+58.55,Ships,72.0,USA,Small,2004.0,9.0,4.0,False,44.0
+75.17,Ships,72.0,UK,Medium,2004.0,10.0,3.0,False,43.0
+74.45,Ships,72.0,UK,Medium,2004.0,11.0,0.0,False,48.0
+96.31,Ships,72.0,Denmark,Small,2004.0,11.0,2.0,False,21.0
+74.35,Ships,72.0,Japan,Medium,2004.0,11.0,1.0,True,50.0
+75.35,Ships,72.0,Spain,Small,2004.0,12.0,3.0,False,29.0
+70.33,Ships,72.0,Finland,Small,2005.0,1.0,0.0,False,41.0
+100.0,Ships,72.0,Spain,Medium,2005.0,3.0,1.0,False,37.0
+66.5,Ships,72.0,France,Small,2005.0,3.0,0.0,True,22.0
+75.89,Ships,72.0,USA,Small,2005.0,5.0,4.0,False,31.0
+100.0,Classic Cars,101.0,Norway,Medium,2003.0,1.0,2.0,False,42.0
+100.0,Classic Cars,101.0,France,Medium,2003.0,4.0,1.0,False,42.0
+100.0,Classic Cars,101.0,Spain,Medium,2003.0,5.0,2.0,False,45.0
+100.0,Classic Cars,101.0,USA,Medium,2003.0,7.0,3.0,False,36.0
+100.0,Classic Cars,101.0,Singapore,Small,2003.0,9.0,4.0,False,20.0
+81.93,Classic Cars,101.0,Austria,Medium,2003.0,10.0,1.0,False,39.0
+85.98,Classic Cars,101.0,UK,Medium,2003.0,11.0,3.0,False,42.0
+86.99,Classic Cars,101.0,USA,Small,2003.0,11.0,3.0,False,23.0
+89.01,Classic Cars,101.0,France,Small,2003.0,11.0,1.0,False,26.0
+100.0,Classic Cars,101.0,Canada,Medium,2003.0,12.0,4.0,False,33.0
+88.0,Classic Cars,101.0,Singapore,Small,2004.0,2.0,2.0,False,31.0
+100.0,Classic Cars,101.0,USA,Medium,2004.0,3.0,3.0,False,50.0
+100.0,Classic Cars,101.0,USA,Medium,2004.0,5.0,1.0,False,44.0
+80.92,Classic Cars,101.0,Japan,Medium,2004.0,6.0,1.0,False,45.0
+88.0,Classic Cars,101.0,Australia,Medium,2004.0,7.0,0.0,False,46.0
+85.98,Classic Cars,101.0,USA,Small,2004.0,8.0,3.0,False,27.0
+100.0,Classic Cars,101.0,Sweden,Medium,2004.0,9.0,2.0,False,28.0
+100.0,Classic Cars,101.0,France,Medium,2004.0,10.0,0.0,False,40.0
+99.13,Classic Cars,101.0,Canada,Small,2004.0,10.0,4.0,False,30.0
+100.0,Classic Cars,101.0,USA,Medium,2004.0,11.0,4.0,False,34.0
+100.0,Classic Cars,101.0,France,Large,2004.0,11.0,5.0,False,46.0
+82.83,Classic Cars,101.0,Spain,Small,2004.0,11.0,0.0,True,32.0
+100.0,Classic Cars,101.0,Spain,Medium,2004.0,12.0,4.0,False,27.0
+100.0,Classic Cars,101.0,USA,Medium,2005.0,1.0,6.0,False,34.0
+54.84,Classic Cars,101.0,USA,Small,2005.0,2.0,3.0,False,34.0
+100.0,Classic Cars,101.0,Canada,Medium,2005.0,5.0,6.0,False,34.0
+80.92,Classic Cars,101.0,Spain,Medium,2005.0,5.0,1.0,False,46.0
+100.0,Planes,118.0,Italy,Medium,2003.0,2.0,0.0,False,32.0
+100.0,Planes,118.0,Australia,Medium,2003.0,4.0,1.0,False,24.0
+99.67,Planes,118.0,Spain,Small,2003.0,6.0,4.0,False,27.0
+100.0,Planes,118.0,USA,Small,2003.0,8.0,0.0,False,20.0
+100.0,Planes,118.0,USA,Medium,2003.0,10.0,1.0,False,36.0
+100.0,Planes,118.0,Norway,Medium,2003.0,11.0,1.0,False,29.0
+100.0,Planes,118.0,Japan,Small,2004.0,1.0,0.0,True,25.0
+100.0,Planes,118.0,Australia,Medium,2004.0,2.0,4.0,False,29.0
+96.11,Planes,118.0,Canada,Small,2004.0,4.0,4.0,False,25.0
+100.0,Planes,118.0,USA,Medium,2004.0,5.0,1.0,False,44.0
+100.0,Planes,118.0,USA,Medium,2004.0,6.0,0.0,False,47.0
+100.0,Planes,118.0,France,Medium,2004.0,7.0,4.0,False,48.0
+100.0,Planes,118.0,USA,Medium,2004.0,8.0,4.0,False,45.0
+100.0,Planes,118.0,Ireland,Medium,2004.0,9.0,3.0,False,35.0
+100.0,Planes,118.0,USA,Medium,2004.0,10.0,4.0,False,31.0
+100.0,Planes,118.0,USA,Large,2004.0,11.0,1.0,False,50.0
+100.0,Planes,118.0,Italy,Medium,2004.0,11.0,4.0,False,33.0
+100.0,Planes,118.0,Spain,Medium,2004.0,11.0,2.0,False,29.0
+68.8,Planes,118.0,USA,Medium,2004.0,12.0,5.0,False,48.0
+72.42,Planes,118.0,Australia,Medium,2004.0,12.0,4.0,False,44.0
+66.73,Planes,118.0,France,Small,2005.0,2.0,3.0,False,25.0
+100.0,Planes,118.0,USA,Large,2005.0,3.0,3.0,False,50.0
+100.0,Planes,118.0,France,Small,2005.0,3.0,2.0,False,23.0
+96.11,Planes,118.0,USA,Small,2005.0,4.0,6.0,False,21.0
+100.0,Planes,118.0,Italy,Medium,2005.0,5.0,1.0,False,41.0
+74.4,Planes,80.0,Italy,Medium,2003.0,2.0,0.0,False,44.0
+76.0,Planes,80.0,Australia,Medium,2003.0,4.0,1.0,False,43.0
+96.0,Planes,80.0,USA,Small,2003.0,8.0,6.0,False,28.0
+86.4,Planes,80.0,Finland,Medium,2003.0,10.0,0.0,False,43.0
+96.0,Planes,80.0,USA,Medium,2003.0,10.0,1.0,False,48.0
+82.4,Planes,80.0,USA,Medium,2003.0,12.0,0.0,False,38.0
+86.4,Planes,80.0,Japan,Small,2004.0,1.0,0.0,True,31.0
+67.2,Planes,80.0,Australia,Small,2004.0,2.0,4.0,False,26.0
+92.0,Planes,80.0,Canada,Small,2004.0,4.0,4.0,False,32.0
+67.2,Planes,80.0,USA,Small,2004.0,5.0,1.0,False,44.0
+76.0,Planes,80.0,Spain,Small,2004.0,6.0,3.0,False,27.0
+73.6,Planes,80.0,France,Medium,2004.0,7.0,4.0,False,43.0
+69.6,Planes,80.0,Norway,Small,2004.0,8.0,5.0,False,25.0
+80.8,Planes,80.0,Germany,Small,2004.0,9.0,2.0,False,22.0
+87.2,Planes,80.0,USA,Small,2004.0,10.0,4.0,False,21.0
+75.2,Planes,80.0,UK,Medium,2004.0,11.0,0.0,False,48.0
+64.0,Planes,80.0,Italy,Small,2004.0,11.0,4.0,False,33.0
+100.0,Planes,80.0,Austria,Medium,2004.0,11.0,2.0,False,34.0
+81.95,Planes,80.0,USA,Medium,2004.0,12.0,5.0,False,43.0
+100.0,Planes,80.0,Australia,Medium,2004.0,12.0,4.0,False,44.0
+100.0,Planes,80.0,France,Medium,2005.0,2.0,3.0,False,44.0
+94.34,Planes,80.0,Spain,Medium,2005.0,3.0,1.0,False,32.0
+65.6,Planes,80.0,France,Small,2005.0,3.0,2.0,False,29.0
+92.0,Planes,80.0,USA,Large,2005.0,4.0,6.0,False,77.0
+67.2,Planes,80.0,Italy,Small,2005.0,5.0,1.0,False,39.0
+81.14,Ships,100.0,Denmark,Medium,2003.0,2.0,1.0,False,39.0
+100.0,Ships,100.0,Spain,Medium,2003.0,4.0,0.0,False,36.0
+91.15,Ships,100.0,UK,Medium,2003.0,6.0,3.0,False,42.0
+100.0,Ships,100.0,USA,Small,2003.0,8.0,4.0,False,21.0
+88.15,Ships,100.0,Spain,Medium,2003.0,9.0,6.0,False,50.0
+100.0,Ships,100.0,Sweden,Small,2003.0,10.0,3.0,False,24.0
+92.16,Ships,100.0,Spain,Medium,2003.0,11.0,4.0,False,44.0
+100.0,Ships,100.0,USA,Medium,2003.0,11.0,4.0,False,37.0
+92.16,Ships,100.0,Spain,Small,2003.0,11.0,2.0,False,27.0
+100.0,Ships,100.0,France,Medium,2004.0,1.0,4.0,False,37.0
+100.0,Ships,100.0,USA,Medium,2004.0,2.0,3.0,False,38.0
+96.16,Ships,100.0,UK,Medium,2004.0,3.0,5.0,False,48.0
+100.0,Ships,100.0,USA,Medium,2004.0,5.0,4.0,False,30.0
+88.15,Ships,100.0,Canada,Small,2004.0,6.0,3.0,False,25.0
+86.15,Ships,100.0,Belgium,Medium,2004.0,7.0,2.0,True,40.0
+88.15,Ships,100.0,Canada,Small,2004.0,8.0,4.0,False,22.0
+100.0,Ships,100.0,USA,Medium,2004.0,9.0,4.0,False,34.0
+90.15,Ships,100.0,UK,Small,2004.0,10.0,3.0,False,32.0
+86.15,Ships,100.0,France,Small,2004.0,10.0,4.0,False,31.0
+80.0,Ships,100.0,Denmark,Medium,2004.0,11.0,2.0,False,43.0
+89.38,Ships,100.0,USA,Small,2004.0,11.0,6.0,False,31.0
+77.34,Ships,100.0,Spain,Small,2004.0,12.0,3.0,False,31.0
+96.34,Ships,100.0,Finland,Medium,2005.0,1.0,0.0,False,34.0
+92.08,Ships,100.0,Spain,Medium,2005.0,3.0,1.0,False,45.0
+100.0,Ships,100.0,France,Medium,2005.0,3.0,0.0,True,48.0
+100.0,Ships,100.0,USA,Medium,2005.0,5.0,4.0,False,28.0
+100.0,Ships,99.0,Denmark,Small,2003.0,2.0,1.0,False,22.0
+83.42,Ships,99.0,Singapore,Medium,2003.0,4.0,2.0,False,45.0
+85.41,Ships,99.0,UK,Small,2003.0,6.0,3.0,False,30.0
+85.41,Ships,99.0,USA,Medium,2003.0,8.0,4.0,False,38.0
+100.0,Ships,99.0,Spain,Small,2003.0,9.0,6.0,False,20.0
+100.0,Ships,99.0,Sweden,Medium,2003.0,10.0,3.0,False,28.0
+100.0,Ships,99.0,Spain,Small,2003.0,11.0,4.0,False,24.0
+79.45,Ships,99.0,USA,Small,2003.0,11.0,4.0,False,22.0
+93.35,Ships,99.0,Spain,Medium,2003.0,11.0,2.0,False,35.0
+85.41,Ships,99.0,France,Small,2004.0,1.0,4.0,False,33.0
+95.34,Ships,99.0,USA,Small,2004.0,2.0,3.0,False,31.0
+82.43,Ships,99.0,UK,Small,2004.0,3.0,5.0,False,35.0
+90.37,Ships,99.0,USA,Medium,2004.0,5.0,4.0,False,35.0
+81.43,Ships,99.0,Canada,Medium,2004.0,6.0,3.0,False,50.0
+100.0,Ships,99.0,Belgium,Small,2004.0,7.0,2.0,True,26.0
+89.38,Ships,99.0,Canada,Medium,2004.0,8.0,4.0,False,38.0
+100.0,Ships,99.0,USA,Medium,2004.0,9.0,4.0,False,45.0
+100.0,Ships,99.0,UK,Medium,2004.0,10.0,3.0,False,30.0
+91.37,Ships,99.0,France,Medium,2004.0,10.0,4.0,False,37.0
+86.61,Ships,99.0,Denmark,Medium,2004.0,11.0,2.0,False,37.0
+71.89,Ships,99.0,USA,Small,2004.0,11.0,6.0,False,36.0
+100.0,Ships,99.0,Spain,Small,2004.0,12.0,3.0,False,25.0
+100.0,Ships,99.0,Finland,Medium,2005.0,1.0,0.0,False,37.0
+95.48,Ships,99.0,Spain,Small,2005.0,3.0,1.0,False,30.0
+100.0,Ships,99.0,France,Medium,2005.0,3.0,0.0,True,36.0
+90.37,Ships,99.0,USA,Small,2005.0,5.0,4.0,False,27.0
+61.44,Planes,74.0,Italy,Small,2003.0,2.0,0.0,False,48.0
+59.22,Planes,74.0,Austria,Small,2003.0,4.0,0.0,False,26.0
+85.13,Planes,74.0,USA,Small,2003.0,6.0,0.0,False,26.0
+85.87,Planes,74.0,USA,Small,2003.0,8.0,6.0,False,34.0
+85.87,Planes,74.0,Finland,Medium,2003.0,10.0,0.0,False,44.0
+82.91,Planes,74.0,USA,Medium,2003.0,10.0,1.0,False,39.0
+76.25,Planes,74.0,France,Medium,2003.0,11.0,5.0,False,45.0
+63.67,Planes,74.0,Philippines,Small,2003.0,11.0,3.0,False,40.0
+70.33,Planes,74.0,Japan,Small,2004.0,1.0,0.0,True,42.0
+74.03,Planes,74.0,USA,Medium,2004.0,2.0,3.0,False,43.0
+72.55,Planes,74.0,Canada,Small,2004.0,4.0,4.0,False,34.0
+62.19,Planes,74.0,USA,Small,2004.0,5.0,1.0,False,38.0
+71.07,Planes,74.0,Spain,Small,2004.0,6.0,3.0,False,35.0
+72.55,Planes,74.0,France,Small,2004.0,7.0,4.0,False,31.0
+64.41,Planes,74.0,Norway,Small,2004.0,8.0,5.0,False,32.0
+86.62,Planes,74.0,Germany,Medium,2004.0,9.0,2.0,False,47.0
+68.11,Planes,74.0,USA,Small,2004.0,10.0,4.0,False,39.0
+62.19,Planes,74.0,UK,Small,2004.0,11.0,0.0,False,44.0
+85.87,Planes,74.0,Italy,Medium,2004.0,11.0,4.0,False,39.0
+57.86,Planes,74.0,Japan,Small,2004.0,11.0,1.0,True,50.0
+75.51,Planes,74.0,USA,Small,2004.0,12.0,4.0,False,22.0
+100.0,Planes,74.0,Australia,Medium,2004.0,12.0,4.0,False,35.0
+55.62,Planes,74.0,Finland,Small,2005.0,1.0,0.0,False,45.0
+86.4,Planes,74.0,Spain,Medium,2005.0,3.0,1.0,False,44.0
+87.36,Planes,74.0,France,Medium,2005.0,3.0,2.0,False,36.0
+72.55,Planes,74.0,USA,Small,2005.0,4.0,6.0,False,28.0
+62.19,Planes,74.0,Italy,Small,2005.0,5.0,1.0,False,43.0
+52.64,Planes,49.0,Italy,Small,2003.0,2.0,0.0,False,48.0
+48.17,Planes,49.0,Austria,Small,2003.0,4.0,0.0,False,28.0
+41.71,Planes,49.0,USA,Small,2003.0,6.0,0.0,False,21.0
+50.65,Planes,49.0,USA,Small,2003.0,8.0,6.0,False,37.0
+49.16,Planes,49.0,Finland,Small,2003.0,10.0,0.0,False,34.0
+41.71,Planes,49.0,Sweden,Small,2003.0,10.0,3.0,False,40.0
+51.15,Planes,49.0,France,Small,2003.0,11.0,5.0,False,45.0
+52.14,Planes,49.0,UK,Small,2003.0,11.0,4.0,False,28.0
+41.71,Planes,49.0,Spain,Small,2003.0,11.0,2.0,False,29.0
+44.69,Planes,49.0,USA,Small,2004.0,1.0,4.0,False,48.0
+45.69,Planes,49.0,USA,Small,2004.0,2.0,3.0,False,31.0
+57.61,Planes,49.0,USA,Small,2004.0,5.0,5.0,False,32.0
+57.11,Planes,49.0,Spain,Small,2004.0,6.0,3.0,False,21.0
+58.6,Planes,49.0,USA,Small,2004.0,7.0,2.0,False,32.0
+57.61,Planes,49.0,Canada,Small,2004.0,8.0,4.0,False,43.0
+45.19,Planes,49.0,Germany,Small,2004.0,9.0,2.0,False,21.0
+53.63,Planes,49.0,USA,Small,2004.0,10.0,3.0,False,34.0
+43.7,Planes,49.0,UK,Small,2004.0,11.0,0.0,False,34.0
+86.13,Planes,49.0,USA,Medium,2004.0,11.0,0.0,False,44.0
+76.31,Planes,49.0,Japan,Small,2004.0,11.0,1.0,True,27.0
+52.64,Planes,49.0,USA,Small,2004.0,12.0,4.0,False,49.0
+95.2,Planes,49.0,Australia,Small,2004.0,12.0,4.0,False,23.0
+64.97,Planes,49.0,Finland,Small,2005.0,1.0,0.0,False,25.0
+87.15,Planes,49.0,Spain,Medium,2005.0,3.0,1.0,False,50.0
+40.22,Planes,49.0,France,Small,2005.0,3.0,2.0,False,34.0
+56.12,Planes,49.0,USA,Small,2005.0,4.0,4.0,False,20.0
+57.61,Planes,49.0,Australia,Small,2005.0,5.0,0.0,False,42.0
+56.78,Ships,54.0,Denmark,Small,2003.0,2.0,1.0,False,25.0
+43.68,Ships,54.0,Singapore,Small,2003.0,4.0,2.0,False,50.0
+64.97,Ships,54.0,UK,Small,2003.0,6.0,3.0,False,32.0
+44.23,Ships,54.0,USA,Small,2003.0,8.0,4.0,False,39.0
+60.06,Ships,54.0,Spain,Medium,2003.0,9.0,6.0,False,50.0
+48.59,Ships,54.0,Sweden,Small,2003.0,10.0,3.0,False,38.0
+50.23,Ships,54.0,Spain,Small,2003.0,11.0,4.0,False,40.0
+64.43,Ships,54.0,USA,Small,2003.0,11.0,4.0,False,28.0
+50.23,Ships,54.0,Spain,Small,2003.0,11.0,2.0,False,42.0
+63.88,Ships,54.0,France,Small,2004.0,1.0,4.0,False,42.0
+63.34,Ships,54.0,USA,Small,2004.0,2.0,3.0,False,36.0
+49.69,Ships,54.0,UK,Small,2004.0,3.0,5.0,False,24.0
+65.52,Ships,54.0,USA,Small,2004.0,5.0,4.0,False,23.0
+50.78,Ships,54.0,Canada,Small,2004.0,6.0,3.0,False,29.0
+45.86,Ships,54.0,Belgium,Small,2004.0,7.0,2.0,True,37.0
+51.32,Ships,54.0,Canada,Small,2004.0,8.0,4.0,False,33.0
+60.06,Ships,54.0,Italy,Small,2004.0,9.0,3.0,False,32.0
+59.51,Ships,54.0,UK,Small,2004.0,10.0,3.0,False,35.0
+55.69,Ships,54.0,France,Small,2004.0,10.0,4.0,False,40.0
+86.74,Ships,54.0,Denmark,Medium,2004.0,11.0,2.0,False,37.0
+97.16,Ships,54.0,USA,Medium,2004.0,11.0,6.0,False,42.0
+100.0,Ships,54.0,Spain,Small,2004.0,12.0,3.0,False,20.0
+100.0,Ships,54.0,Finland,Medium,2005.0,1.0,0.0,False,29.0
+100.0,Ships,54.0,Spain,Medium,2005.0,3.0,1.0,False,43.0
+62.24,Ships,54.0,France,Small,2005.0,3.0,0.0,True,34.0
+65.52,Ships,54.0,USA,Medium,2005.0,5.0,4.0,False,47.0
