@@ -62,7 +62,7 @@ create an `environment.yml` file for an Anaconda environment.
 ## Requirements
 
 - Python 3.8
-- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn or Anaconda environment
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn or a Anaconda environment
 
 ## Running the Project
 
