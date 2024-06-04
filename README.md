@@ -6,6 +6,9 @@ along with performance evaluation and visualization.
 
 ## Dataset
 
+The dataset used in this project is a sample sales data available on Kaggle. It contains information about orders, 
+including order date, quantity ordered, price, product line, and other relevant details.
+
 Link to Kaggle: [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
 ## Project Structure
@@ -62,7 +65,8 @@ create an `environment.yml` file for an Anaconda environment.
 ## Requirements
 
 - Python 3.8
-- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn or a Anaconda environment
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn 
+  or a Anaconda environment
 
 ## Running the Project
 
@@ -77,7 +81,7 @@ python main.py
 4th Semester Project at the University of Applied Sciences Technikum Wien 
 for the course "Data Science and Machine Learning" from:
 
-- Filipson Evelina 
-- Garbuzov Vladimir 
 - Göppel Magnus 
 - Petkovic Vladan
+- Garbuzov Vladimir 
+- Filipson Evelina
