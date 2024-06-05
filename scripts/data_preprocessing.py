@@ -1,8 +1,6 @@
 import pandas as pd
 
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import OrdinalEncoder
+from sklearn.preprocessing import MinMaxScaler, OneHotEncoder, OrdinalEncoder
 
 
 # Create the features
