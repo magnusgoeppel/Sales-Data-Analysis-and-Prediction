@@ -84,8 +84,8 @@ def check_and_clean_data(df):
 def explore_data(df):
     # Numeric Summaries
     numeric_summary = df.describe()
-    print("\n\033[1mNumeric Summaries:\033[0m")
-    print(numeric_summary)
+    print("\033[1mNumeric Summaries:\033[0m")
+    print(round(numeric_summary, 3))
     print()
 
     # Set the aesthetic style of the plots
