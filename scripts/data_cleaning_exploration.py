@@ -114,11 +114,17 @@ def explore_data(df):
     plt.show()
 
     # Density Plots
+    # Exclude columns that are not suitable for density plots
+    exclude_cols = {'QTR_ID', 'MONTH_ID', 'YEAR_ID'}
+
     plt.figure(figsize=(15, 10))
-    for i, col in enumerate(numeric_cols):
+
+    # Plotting density plots for numeric columns excluding specified columns
+    for i, col in enumerate(col for col in numeric_cols if col not in exclude_cols):
         plt.subplot(3, 3, i + 1)
         sns.kdeplot(df[col], fill=True)
         plt.title(f'Density Plot of {col}')
+
     plt.tight_layout(rect=[0, 0, 1, 0.96])
     plt.suptitle('Density Plots of Numeric Columns', fontsize=20)
     plt.show()
