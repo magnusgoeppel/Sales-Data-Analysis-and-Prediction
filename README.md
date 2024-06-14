@@ -84,4 +84,4 @@ for the course "Data Science and Machine Learning" from:
 - Göppel Magnus 
 - Petkovic Vladan
 - Garbuzov Vladimir 
-- Filipson Evelina
+- Filipson Evelina 
