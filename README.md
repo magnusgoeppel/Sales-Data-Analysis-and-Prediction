@@ -75,3 +75,13 @@ Start the main script to execute the data analysis and model building process:
 ```bash
 python main.py
 ```
+
+## Developers
+
+4th Semester Project at the University of Applied Sciences Technikum Wien 
+for the course "Data Science and Machine Learning" from:
+
+- Göppel Magnus 
+- Petkovic Vladan
+- Garbuzov Vladimir 
+- Filipson Evelina
